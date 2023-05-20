@@ -1,0 +1,6 @@
+[submodule "ChampSim_Base_Paper"]
+	path = ChampSim_Base_Paper
+	url = https://github.com/Memory-Systems-And-Microarchitecture/Logical-Partitioning.git
+[submodule "ChampSim_Idea"]
+	path = ChampSim_Idea
+	url = https://github.com/Memory-Systems-And-Microarchitecture/Logical-Partitioning.git
