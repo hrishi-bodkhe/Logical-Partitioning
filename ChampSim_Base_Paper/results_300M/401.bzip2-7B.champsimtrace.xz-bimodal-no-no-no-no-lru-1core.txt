@@ -1,0 +1,11381 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 100000000
+Simulation Instructions: 300000000
+Number of CPUs: 1
+LLC sets: 1024
+LLC ways: 8
+Off-chip DRAM Size: 4096 MB Channels: 1 Width: 64-bit Data Rate: 3200 MT/s
+
+CPU 0 runs /home/deepak/Documents/msa/simulators/ChampSim/dpc3_traces/401.bzip2-7B.champsimtrace.xz
+CPU 0 Bimodal branch predictor
+Heartbeat CPU 0 instructions: 10000003 cycles: 4037601 heartbeat IPC: 2.47672 cumulative IPC: 2.47672 (Simulation time: 0 hr 0 min 51 sec) 
+Heartbeat CPU 0 instructions: 20000000 cycles: 8015339 heartbeat IPC: 2.51399 cumulative IPC: 2.49522 (Simulation time: 0 hr 1 min 40 sec) 
+Heartbeat CPU 0 instructions: 30000003 cycles: 11838275 heartbeat IPC: 2.61579 cumulative IPC: 2.53415 (Simulation time: 0 hr 2 min 28 sec) 
+Heartbeat CPU 0 instructions: 40000002 cycles: 15974694 heartbeat IPC: 2.41755 cumulative IPC: 2.50396 (Simulation time: 0 hr 3 min 19 sec) 
+Heartbeat CPU 0 instructions: 50000001 cycles: 20164244 heartbeat IPC: 2.38689 cumulative IPC: 2.47964 (Simulation time: 0 hr 4 min 11 sec) 
+Heartbeat CPU 0 instructions: 60000002 cycles: 24486235 heartbeat IPC: 2.31375 cumulative IPC: 2.45036 (Simulation time: 0 hr 5 min 4 sec) 
+Heartbeat CPU 0 instructions: 70000003 cycles: 28455185 heartbeat IPC: 2.51956 cumulative IPC: 2.46001 (Simulation time: 0 hr 5 min 53 sec) 
+Heartbeat CPU 0 instructions: 80000002 cycles: 32403539 heartbeat IPC: 2.5327 cumulative IPC: 2.46887 (Simulation time: 0 hr 6 min 43 sec) 
+Heartbeat CPU 0 instructions: 90000003 cycles: 36610631 heartbeat IPC: 2.37694 cumulative IPC: 2.4583 (Simulation time: 0 hr 7 min 37 sec) 
+Heartbeat CPU 0 instructions: 100000002 cycles: 40771652 heartbeat IPC: 2.40326 cumulative IPC: 2.45268 (Simulation time: 0 hr 8 min 30 sec) 
+
+Warmup complete CPU 0 instructions: 100000002 cycles: 40771652 (Simulation time: 0 hr 8 min 30 sec) 
+
+Heartbeat CPU 0 instructions: 110000000 cycles: 52431215 heartbeat IPC: 0.857665 cumulative IPC: 0.857665 (Simulation time: 0 hr 9 min 9 sec) 
+Heartbeat CPU 0 instructions: 120000000 cycles: 64907176 heartbeat IPC: 0.801541 cumulative IPC: 0.828654 (Simulation time: 0 hr 9 min 53 sec) 
+Heartbeat CPU 0 instructions: 130000001 cycles: 78733471 heartbeat IPC: 0.72326 cumulative IPC: 0.790268 (Simulation time: 0 hr 10 min 40 sec) 
+Heartbeat CPU 0 instructions: 140000000 cycles: 87061526 heartbeat IPC: 1.20076 cumulative IPC: 0.86412 (Simulation time: 0 hr 11 min 18 sec) 
+Heartbeat CPU 0 instructions: 150000003 cycles: 98564602 heartbeat IPC: 0.869333 cumulative IPC: 0.865157 (Simulation time: 0 hr 11 min 57 sec) 
+Heartbeat CPU 0 instructions: 160000003 cycles: 108766562 heartbeat IPC: 0.980204 cumulative IPC: 0.882419 (Simulation time: 0 hr 12 min 32 sec) 
+Heartbeat CPU 0 instructions: 170000002 cycles: 125034304 heartbeat IPC: 0.614713 cumulative IPC: 0.830736 (Simulation time: 0 hr 13 min 24 sec) 
+Heartbeat CPU 0 instructions: 180000002 cycles: 142575930 heartbeat IPC: 0.570073 cumulative IPC: 0.785822 (Simulation time: 0 hr 14 min 9 sec) 
+Heartbeat CPU 0 instructions: 190000001 cycles: 157781434 heartbeat IPC: 0.657657 cumulative IPC: 0.769166 (Simulation time: 0 hr 15 min 3 sec) 
+Heartbeat CPU 0 instructions: 200000001 cycles: 169158928 heartbeat IPC: 0.878928 cumulative IPC: 0.778893 (Simulation time: 0 hr 15 min 48 sec) 
+Heartbeat CPU 0 instructions: 210000003 cycles: 175296263 heartbeat IPC: 1.62937 cumulative IPC: 0.817694 (Simulation time: 0 hr 16 min 42 sec) 
+Heartbeat CPU 0 instructions: 220000000 cycles: 181596290 heartbeat IPC: 1.58729 cumulative IPC: 0.852124 (Simulation time: 0 hr 17 min 37 sec) 
+Heartbeat CPU 0 instructions: 230000001 cycles: 189108718 heartbeat IPC: 1.33113 cumulative IPC: 0.876382 (Simulation time: 0 hr 18 min 28 sec) 
+Heartbeat CPU 0 instructions: 240000000 cycles: 197624746 heartbeat IPC: 1.17426 cumulative IPC: 0.892555 (Simulation time: 0 hr 19 min 13 sec) 
+Heartbeat CPU 0 instructions: 250000001 cycles: 207916963 heartbeat IPC: 0.971608 cumulative IPC: 0.897423 (Simulation time: 0 hr 19 min 54 sec) 
+Heartbeat CPU 0 instructions: 260000003 cycles: 218962387 heartbeat IPC: 0.905352 cumulative IPC: 0.897914 (Simulation time: 0 hr 20 min 35 sec) 
+Heartbeat CPU 0 instructions: 270000002 cycles: 229455804 heartbeat IPC: 0.952978 cumulative IPC: 0.900977 (Simulation time: 0 hr 21 min 17 sec) 
+Heartbeat CPU 0 instructions: 280000000 cycles: 243421313 heartbeat IPC: 0.71605 cumulative IPC: 0.888232 (Simulation time: 0 hr 22 min 4 sec) 
+Heartbeat CPU 0 instructions: 290000000 cycles: 259757221 heartbeat IPC: 0.612148 cumulative IPC: 0.867637 (Simulation time: 0 hr 22 min 55 sec) 
+Heartbeat CPU 0 instructions: 300000000 cycles: 278785614 heartbeat IPC: 0.52553 cumulative IPC: 0.840287 (Simulation time: 0 hr 23 min 52 sec) 
+Heartbeat CPU 0 instructions: 310000003 cycles: 292630333 heartbeat IPC: 0.722297 cumulative IPC: 0.833801 (Simulation time: 0 hr 24 min 38 sec) 
+Heartbeat CPU 0 instructions: 320000000 cycles: 307215682 heartbeat IPC: 0.685619 cumulative IPC: 0.825689 (Simulation time: 0 hr 25 min 27 sec) 
+Heartbeat CPU 0 instructions: 330000000 cycles: 317562147 heartbeat IPC: 0.966514 cumulative IPC: 0.830953 (Simulation time: 0 hr 26 min 9 sec) 
+Heartbeat CPU 0 instructions: 340000000 cycles: 333960039 heartbeat IPC: 0.609834 cumulative IPC: 0.818586 (Simulation time: 0 hr 27 min 3 sec) 
+Heartbeat CPU 0 instructions: 350000003 cycles: 344977231 heartbeat IPC: 0.907673 cumulative IPC: 0.821813 (Simulation time: 0 hr 27 min 46 sec) 
+Heartbeat CPU 0 instructions: 360000003 cycles: 356964147 heartbeat IPC: 0.834243 cumulative IPC: 0.822284 (Simulation time: 0 hr 28 min 31 sec) 
+Heartbeat CPU 0 instructions: 370000001 cycles: 368199857 heartbeat IPC: 0.890019 cumulative IPC: 0.824608 (Simulation time: 0 hr 29 min 13 sec) 
+Heartbeat CPU 0 instructions: 380000000 cycles: 384309556 heartbeat IPC: 0.620744 cumulative IPC: 0.815048 (Simulation time: 0 hr 30 min 5 sec) 
+Heartbeat CPU 0 instructions: 390000000 cycles: 395349081 heartbeat IPC: 0.905836 cumulative IPC: 0.817875 (Simulation time: 0 hr 30 min 48 sec) 
+Heartbeat CPU 0 instructions: 400000001 cycles: 413515101 heartbeat IPC: 0.550478 cumulative IPC: 0.804843 (Simulation time: 0 hr 31 min 45 sec) 
+Finished CPU 0 instructions: 300000003 cycles: 372743450 cumulative IPC: 0.804843 (Simulation time: 0 hr 31 min 45 sec) 
+
+ChampSim completed all CPUs
+
+Region of Interest Statistics
+
+CPU 0 cumulative IPC: 0.804843 instructions: 300000003 cycles: 372743450
+L1D TOTAL     ACCESS:   81140293  HIT:   77003762  MISS:    4136531
+L1D LOAD      ACCESS:   49611133  HIT:   46083417  MISS:    3527716
+L1D RFO       ACCESS:   31529160  HIT:   30920345  MISS:     608815
+L1D PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L1D WRITEBACK ACCESS:          0  HIT:          0  MISS:          0
+L1D PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L1D AVERAGE MISS LATENCY: 165.664 cycles
+L1I TOTAL     ACCESS:   50031475  HIT:   50031212  MISS:        263
+L1I LOAD      ACCESS:   50031475  HIT:   50031212  MISS:        263
+L1I RFO       ACCESS:          0  HIT:          0  MISS:          0
+L1I PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L1I WRITEBACK ACCESS:          0  HIT:          0  MISS:          0
+L1I PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L1I AVERAGE MISS LATENCY: 206.023 cycles
+L2C TOTAL     ACCESS:    5050126  HIT:    2529894  MISS:    2520232
+L2C LOAD      ACCESS:    3527653  HIT:    1559130  MISS:    1968523
+L2C RFO       ACCESS:     608645  HIT:      57468  MISS:     551177
+L2C PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L2C WRITEBACK ACCESS:     913828  HIT:     913296  MISS:        532
+L2C PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L2C AVERAGE MISS LATENCY: 247.152 cycles
+LLC TOTAL     ACCESS:    3228344  HIT:     530384  MISS:    2697960
+LLC LOAD      ACCESS:    1968487  HIT:     252950  MISS:    1715537
+LLC RFO       ACCESS:     551170  HIT:      17254  MISS:     533916
+LLC PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+LLC WRITEBACK ACCESS:     708687  HIT:     260180  MISS:     448507
+LLC PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+LLC AVERAGE MISS LATENCY: 184.174 cycles
+Major fault: 0 Minor fault: 1089
+
+DRAM Statistics
+ CHANNEL 0
+ RQ ROW_BUFFER_HIT:     807037  ROW_BUFFER_MISS:    1438593
+ DBUS_CONGESTED:    1130789
+ WQ ROW_BUFFER_HIT:     355330  ROW_BUFFER_MISS:     326732  FULL:       7548
+
+ AVG_CONGESTED_CYCLE: 6
+
+CPU 0 Branch Prediction Accuracy: 94.0203% MPKI: 8.95799 Average ROB Occupancy at Mispredict: 39.2809
+
+Branch types
+NOT_BRANCH: 255057936 85.0193%
+BRANCH_DIRECT_JUMP: 3810398 1.27013%
+BRANCH_INDIRECT: 0 0%
+BRANCH_CONDITIONAL: 36497524 12.1658%
+BRANCH_DIRECT_CALL: 2316960 0.77232%
+BRANCH_INDIRECT_CALL: 0 0%
+BRANCH_RETURN: 2316959 0.77232%
+BRANCH_OTHER: 0 0%
+
+Cache set writes status: 
+set: 0 write count: 2715
+set: 1 write count: 2685
+set: 2 write count: 2717
+set: 3 write count: 2910
+set: 4 write count: 3032
+set: 5 write count: 2898
+set: 6 write count: 2780
+set: 7 write count: 2746
+set: 8 write count: 2577
+set: 9 write count: 2594
+set: 10 write count: 2613
+set: 11 write count: 2591
+set: 12 write count: 2672
+set: 13 write count: 2606
+set: 14 write count: 2507
+set: 15 write count: 2566
+set: 16 write count: 2627
+set: 17 write count: 2555
+set: 18 write count: 2608
+set: 19 write count: 2877
+set: 20 write count: 3006
+set: 21 write count: 2833
+set: 22 write count: 2737
+set: 23 write count: 2576
+set: 24 write count: 2561
+set: 25 write count: 2513
+set: 26 write count: 2523
+set: 27 write count: 2551
+set: 28 write count: 2536
+set: 29 write count: 2539
+set: 30 write count: 2509
+set: 31 write count: 2550
+set: 32 write count: 2463
+set: 33 write count: 2521
+set: 34 write count: 2624
+set: 35 write count: 2895
+set: 36 write count: 2863
+set: 37 write count: 2704
+set: 38 write count: 2681
+set: 39 write count: 2636
+set: 40 write count: 2571
+set: 41 write count: 2536
+set: 42 write count: 2763
+set: 43 write count: 2820
+set: 44 write count: 2829
+set: 45 write count: 2857
+set: 46 write count: 2829
+set: 47 write count: 2808
+set: 48 write count: 2887
+set: 49 write count: 2867
+set: 50 write count: 2900
+set: 51 write count: 3120
+set: 52 write count: 3210
+set: 53 write count: 2988
+set: 54 write count: 2993
+set: 55 write count: 2938
+set: 56 write count: 2836
+set: 57 write count: 2776
+set: 58 write count: 2828
+set: 59 write count: 2756
+set: 60 write count: 2721
+set: 61 write count: 2799
+set: 62 write count: 2784
+set: 63 write count: 2748
+set: 64 write count: 3065
+set: 65 write count: 3038
+set: 66 write count: 3104
+set: 67 write count: 3420
+set: 68 write count: 3448
+set: 69 write count: 3130
+set: 70 write count: 3161
+set: 71 write count: 3165
+set: 72 write count: 3012
+set: 73 write count: 3013
+set: 74 write count: 3015
+set: 75 write count: 2984
+set: 76 write count: 3034
+set: 77 write count: 3035
+set: 78 write count: 2988
+set: 79 write count: 2978
+set: 80 write count: 2928
+set: 81 write count: 2970
+set: 82 write count: 3116
+set: 83 write count: 3231
+set: 84 write count: 3253
+set: 85 write count: 2998
+set: 86 write count: 2981
+set: 87 write count: 2886
+set: 88 write count: 2730
+set: 89 write count: 2778
+set: 90 write count: 2787
+set: 91 write count: 2886
+set: 92 write count: 2760
+set: 93 write count: 2850
+set: 94 write count: 2741
+set: 95 write count: 2766
+set: 96 write count: 2835
+set: 97 write count: 2971
+set: 98 write count: 2825
+set: 99 write count: 3119
+set: 100 write count: 3318
+set: 101 write count: 3076
+set: 102 write count: 3056
+set: 103 write count: 2897
+set: 104 write count: 2776
+set: 105 write count: 2764
+set: 106 write count: 2774
+set: 107 write count: 2815
+set: 108 write count: 2786
+set: 109 write count: 2725
+set: 110 write count: 2817
+set: 111 write count: 2789
+set: 112 write count: 2849
+set: 113 write count: 2800
+set: 114 write count: 2803
+set: 115 write count: 3104
+set: 116 write count: 3245
+set: 117 write count: 2945
+set: 118 write count: 3026
+set: 119 write count: 2966
+set: 120 write count: 2915
+set: 121 write count: 2807
+set: 122 write count: 2828
+set: 123 write count: 2714
+set: 124 write count: 2701
+set: 125 write count: 2782
+set: 126 write count: 2788
+set: 127 write count: 2735
+set: 128 write count: 3058
+set: 129 write count: 2976
+set: 130 write count: 3035
+set: 131 write count: 3380
+set: 132 write count: 3463
+set: 133 write count: 3157
+set: 134 write count: 3143
+set: 135 write count: 3097
+set: 136 write count: 3031
+set: 137 write count: 3026
+set: 138 write count: 2974
+set: 139 write count: 2991
+set: 140 write count: 3010
+set: 141 write count: 3113
+set: 142 write count: 3013
+set: 143 write count: 2995
+set: 144 write count: 3021
+set: 145 write count: 3003
+set: 146 write count: 2996
+set: 147 write count: 3354
+set: 148 write count: 3351
+set: 149 write count: 3106
+set: 150 write count: 3174
+set: 151 write count: 3152
+set: 152 write count: 3098
+set: 153 write count: 2935
+set: 154 write count: 2895
+set: 155 write count: 3004
+set: 156 write count: 3052
+set: 157 write count: 3013
+set: 158 write count: 3006
+set: 159 write count: 2930
+set: 160 write count: 3129
+set: 161 write count: 3066
+set: 162 write count: 3062
+set: 163 write count: 3273
+set: 164 write count: 3275
+set: 165 write count: 3090
+set: 166 write count: 3186
+set: 167 write count: 3169
+set: 168 write count: 3046
+set: 169 write count: 3014
+set: 170 write count: 2986
+set: 171 write count: 3069
+set: 172 write count: 3101
+set: 173 write count: 3034
+set: 174 write count: 2993
+set: 175 write count: 3076
+set: 176 write count: 3142
+set: 177 write count: 3120
+set: 178 write count: 3034
+set: 179 write count: 3314
+set: 180 write count: 3380
+set: 181 write count: 3188
+set: 182 write count: 3175
+set: 183 write count: 3069
+set: 184 write count: 3043
+set: 185 write count: 2950
+set: 186 write count: 3096
+set: 187 write count: 3096
+set: 188 write count: 3014
+set: 189 write count: 2944
+set: 190 write count: 2986
+set: 191 write count: 2986
+set: 192 write count: 3214
+set: 193 write count: 3142
+set: 194 write count: 3120
+set: 195 write count: 3439
+set: 196 write count: 3476
+set: 197 write count: 3227
+set: 198 write count: 3245
+set: 199 write count: 3156
+set: 200 write count: 3049
+set: 201 write count: 3102
+set: 202 write count: 3066
+set: 203 write count: 3153
+set: 204 write count: 3116
+set: 205 write count: 3095
+set: 206 write count: 3088
+set: 207 write count: 3061
+set: 208 write count: 3217
+set: 209 write count: 3003
+set: 210 write count: 3106
+set: 211 write count: 3465
+set: 212 write count: 3522
+set: 213 write count: 3329
+set: 214 write count: 3352
+set: 215 write count: 3297
+set: 216 write count: 3134
+set: 217 write count: 3184
+set: 218 write count: 3091
+set: 219 write count: 3087
+set: 220 write count: 3149
+set: 221 write count: 3087
+set: 222 write count: 3108
+set: 223 write count: 3423
+set: 224 write count: 3388
+set: 225 write count: 3324
+set: 226 write count: 3645
+set: 227 write count: 4068
+set: 228 write count: 3715
+set: 229 write count: 3530
+set: 230 write count: 3570
+set: 231 write count: 3448
+set: 232 write count: 3436
+set: 233 write count: 3369
+set: 234 write count: 3362
+set: 235 write count: 3313
+set: 236 write count: 3367
+set: 237 write count: 3289
+set: 238 write count: 3364
+set: 239 write count: 3335
+set: 240 write count: 3351
+set: 241 write count: 3324
+set: 242 write count: 3286
+set: 243 write count: 3557
+set: 244 write count: 3723
+set: 245 write count: 3404
+set: 246 write count: 3508
+set: 247 write count: 3451
+set: 248 write count: 3401
+set: 249 write count: 3393
+set: 250 write count: 3360
+set: 251 write count: 3315
+set: 252 write count: 3258
+set: 253 write count: 3306
+set: 254 write count: 3257
+set: 255 write count: 3265
+set: 256 write count: 3027
+set: 257 write count: 3027
+set: 258 write count: 2984
+set: 259 write count: 3272
+set: 260 write count: 3278
+set: 261 write count: 3093
+set: 262 write count: 3167
+set: 263 write count: 2983
+set: 264 write count: 2936
+set: 265 write count: 2934
+set: 266 write count: 3030
+set: 267 write count: 3048
+set: 268 write count: 2913
+set: 269 write count: 2931
+set: 270 write count: 2940
+set: 271 write count: 2957
+set: 272 write count: 3023
+set: 273 write count: 2979
+set: 274 write count: 2962
+set: 275 write count: 3172
+set: 276 write count: 3274
+set: 277 write count: 3041
+set: 278 write count: 3134
+set: 279 write count: 3038
+set: 280 write count: 2990
+set: 281 write count: 2957
+set: 282 write count: 2962
+set: 283 write count: 2962
+set: 284 write count: 2956
+set: 285 write count: 3044
+set: 286 write count: 2996
+set: 287 write count: 2969
+set: 288 write count: 2982
+set: 289 write count: 2997
+set: 290 write count: 2970
+set: 291 write count: 3183
+set: 292 write count: 3236
+set: 293 write count: 3050
+set: 294 write count: 3123
+set: 295 write count: 3091
+set: 296 write count: 3079
+set: 297 write count: 3000
+set: 298 write count: 3043
+set: 299 write count: 3018
+set: 300 write count: 2956
+set: 301 write count: 2991
+set: 302 write count: 2909
+set: 303 write count: 2959
+set: 304 write count: 2961
+set: 305 write count: 2943
+set: 306 write count: 2994
+set: 307 write count: 3291
+set: 308 write count: 3231
+set: 309 write count: 3012
+set: 310 write count: 3103
+set: 311 write count: 2996
+set: 312 write count: 3039
+set: 313 write count: 2954
+set: 314 write count: 2960
+set: 315 write count: 3000
+set: 316 write count: 3009
+set: 317 write count: 2956
+set: 318 write count: 2961
+set: 319 write count: 2918
+set: 320 write count: 3214
+set: 321 write count: 3264
+set: 322 write count: 3220
+set: 323 write count: 3465
+set: 324 write count: 3536
+set: 325 write count: 3421
+set: 326 write count: 3377
+set: 327 write count: 3291
+set: 328 write count: 3241
+set: 329 write count: 3287
+set: 330 write count: 3298
+set: 331 write count: 3223
+set: 332 write count: 3111
+set: 333 write count: 3238
+set: 334 write count: 3184
+set: 335 write count: 3283
+set: 336 write count: 3317
+set: 337 write count: 3207
+set: 338 write count: 3310
+set: 339 write count: 3484
+set: 340 write count: 3580
+set: 341 write count: 3300
+set: 342 write count: 3336
+set: 343 write count: 3278
+set: 344 write count: 3274
+set: 345 write count: 3215
+set: 346 write count: 3180
+set: 347 write count: 3290
+set: 348 write count: 3193
+set: 349 write count: 3267
+set: 350 write count: 3194
+set: 351 write count: 3177
+set: 352 write count: 3228
+set: 353 write count: 3211
+set: 354 write count: 3276
+set: 355 write count: 3540
+set: 356 write count: 3560
+set: 357 write count: 3334
+set: 358 write count: 3328
+set: 359 write count: 3273
+set: 360 write count: 3248
+set: 361 write count: 3202
+set: 362 write count: 3211
+set: 363 write count: 3134
+set: 364 write count: 3299
+set: 365 write count: 3236
+set: 366 write count: 3238
+set: 367 write count: 3283
+set: 368 write count: 3208
+set: 369 write count: 3280
+set: 370 write count: 3276
+set: 371 write count: 3536
+set: 372 write count: 3531
+set: 373 write count: 3360
+set: 374 write count: 3541
+set: 375 write count: 3352
+set: 376 write count: 3315
+set: 377 write count: 3237
+set: 378 write count: 3222
+set: 379 write count: 3325
+set: 380 write count: 3309
+set: 381 write count: 3292
+set: 382 write count: 3228
+set: 383 write count: 3235
+set: 384 write count: 3219
+set: 385 write count: 3158
+set: 386 write count: 3157
+set: 387 write count: 3308
+set: 388 write count: 3374
+set: 389 write count: 3225
+set: 390 write count: 3207
+set: 391 write count: 3152
+set: 392 write count: 3153
+set: 393 write count: 3179
+set: 394 write count: 3226
+set: 395 write count: 3231
+set: 396 write count: 3196
+set: 397 write count: 3141
+set: 398 write count: 3168
+set: 399 write count: 3198
+set: 400 write count: 3164
+set: 401 write count: 3155
+set: 402 write count: 3238
+set: 403 write count: 3420
+set: 404 write count: 3374
+set: 405 write count: 3197
+set: 406 write count: 3287
+set: 407 write count: 3261
+set: 408 write count: 3290
+set: 409 write count: 3214
+set: 410 write count: 3117
+set: 411 write count: 3164
+set: 412 write count: 3197
+set: 413 write count: 3259
+set: 414 write count: 3190
+set: 415 write count: 3173
+set: 416 write count: 3223
+set: 417 write count: 3164
+set: 418 write count: 3240
+set: 419 write count: 3374
+set: 420 write count: 3341
+set: 421 write count: 3245
+set: 422 write count: 3310
+set: 423 write count: 3263
+set: 424 write count: 3213
+set: 425 write count: 3216
+set: 426 write count: 3179
+set: 427 write count: 3232
+set: 428 write count: 3298
+set: 429 write count: 3190
+set: 430 write count: 3198
+set: 431 write count: 3188
+set: 432 write count: 3256
+set: 433 write count: 3212
+set: 434 write count: 3318
+set: 435 write count: 3406
+set: 436 write count: 3408
+set: 437 write count: 3283
+set: 438 write count: 3391
+set: 439 write count: 3272
+set: 440 write count: 3260
+set: 441 write count: 3235
+set: 442 write count: 3249
+set: 443 write count: 3287
+set: 444 write count: 3295
+set: 445 write count: 3283
+set: 446 write count: 3236
+set: 447 write count: 3296
+set: 448 write count: 3031
+set: 449 write count: 2970
+set: 450 write count: 3078
+set: 451 write count: 3103
+set: 452 write count: 3148
+set: 453 write count: 3106
+set: 454 write count: 3052
+set: 455 write count: 3016
+set: 456 write count: 2970
+set: 457 write count: 2955
+set: 458 write count: 2979
+set: 459 write count: 3030
+set: 460 write count: 3010
+set: 461 write count: 2967
+set: 462 write count: 2970
+set: 463 write count: 2969
+set: 464 write count: 3005
+set: 465 write count: 2962
+set: 466 write count: 2942
+set: 467 write count: 3152
+set: 468 write count: 3119
+set: 469 write count: 3080
+set: 470 write count: 3127
+set: 471 write count: 3040
+set: 472 write count: 2983
+set: 473 write count: 2935
+set: 474 write count: 3035
+set: 475 write count: 2994
+set: 476 write count: 2960
+set: 477 write count: 3001
+set: 478 write count: 2932
+set: 479 write count: 2973
+set: 480 write count: 2940
+set: 481 write count: 2902
+set: 482 write count: 2897
+set: 483 write count: 3096
+set: 484 write count: 3124
+set: 485 write count: 3020
+set: 486 write count: 3096
+set: 487 write count: 3006
+set: 488 write count: 2975
+set: 489 write count: 2961
+set: 490 write count: 3009
+set: 491 write count: 2989
+set: 492 write count: 2971
+set: 493 write count: 3015
+set: 494 write count: 3050
+set: 495 write count: 2991
+set: 496 write count: 3069
+set: 497 write count: 3044
+set: 498 write count: 3016
+set: 499 write count: 3202
+set: 500 write count: 3200
+set: 501 write count: 3036
+set: 502 write count: 3142
+set: 503 write count: 2984
+set: 504 write count: 2968
+set: 505 write count: 2976
+set: 506 write count: 2985
+set: 507 write count: 3020
+set: 508 write count: 2999
+set: 509 write count: 3010
+set: 510 write count: 3007
+set: 511 write count: 2978
+set: 512 write count: 3115
+set: 513 write count: 3090
+set: 514 write count: 3126
+set: 515 write count: 3261
+set: 516 write count: 3158
+set: 517 write count: 3029
+set: 518 write count: 3082
+set: 519 write count: 3011
+set: 520 write count: 2973
+set: 521 write count: 2971
+set: 522 write count: 2914
+set: 523 write count: 3005
+set: 524 write count: 2964
+set: 525 write count: 3023
+set: 526 write count: 2977
+set: 527 write count: 2937
+set: 528 write count: 2967
+set: 529 write count: 2986
+set: 530 write count: 3029
+set: 531 write count: 3156
+set: 532 write count: 3451
+set: 533 write count: 3054
+set: 534 write count: 3017
+set: 535 write count: 3012
+set: 536 write count: 2977
+set: 537 write count: 3024
+set: 538 write count: 3304
+set: 539 write count: 2941
+set: 540 write count: 2976
+set: 541 write count: 2944
+set: 542 write count: 2942
+set: 543 write count: 2909
+set: 544 write count: 3307
+set: 545 write count: 3003
+set: 546 write count: 2873
+set: 547 write count: 3055
+set: 548 write count: 3123
+set: 549 write count: 2972
+set: 550 write count: 3054
+set: 551 write count: 3062
+set: 552 write count: 3063
+set: 553 write count: 2875
+set: 554 write count: 2911
+set: 555 write count: 2916
+set: 556 write count: 3186
+set: 557 write count: 2967
+set: 558 write count: 2939
+set: 559 write count: 2958
+set: 560 write count: 2965
+set: 561 write count: 2980
+set: 562 write count: 2969
+set: 563 write count: 3066
+set: 564 write count: 3105
+set: 565 write count: 3013
+set: 566 write count: 3059
+set: 567 write count: 3017
+set: 568 write count: 2942
+set: 569 write count: 2904
+set: 570 write count: 2907
+set: 571 write count: 2989
+set: 572 write count: 2963
+set: 573 write count: 2972
+set: 574 write count: 2966
+set: 575 write count: 2984
+set: 576 write count: 3315
+set: 577 write count: 3255
+set: 578 write count: 3251
+set: 579 write count: 3501
+set: 580 write count: 3501
+set: 581 write count: 3398
+set: 582 write count: 3357
+set: 583 write count: 3357
+set: 584 write count: 3322
+set: 585 write count: 3296
+set: 586 write count: 3297
+set: 587 write count: 3344
+set: 588 write count: 3326
+set: 589 write count: 3333
+set: 590 write count: 3326
+set: 591 write count: 3299
+set: 592 write count: 3316
+set: 593 write count: 3228
+set: 594 write count: 3302
+set: 595 write count: 3433
+set: 596 write count: 3458
+set: 597 write count: 3311
+set: 598 write count: 3431
+set: 599 write count: 3421
+set: 600 write count: 3380
+set: 601 write count: 3262
+set: 602 write count: 3279
+set: 603 write count: 3322
+set: 604 write count: 3365
+set: 605 write count: 3375
+set: 606 write count: 3330
+set: 607 write count: 3308
+set: 608 write count: 3272
+set: 609 write count: 3276
+set: 610 write count: 3294
+set: 611 write count: 3458
+set: 612 write count: 3480
+set: 613 write count: 3433
+set: 614 write count: 3417
+set: 615 write count: 3355
+set: 616 write count: 3322
+set: 617 write count: 3326
+set: 618 write count: 3363
+set: 619 write count: 3302
+set: 620 write count: 3355
+set: 621 write count: 3291
+set: 622 write count: 3310
+set: 623 write count: 3404
+set: 624 write count: 3395
+set: 625 write count: 3346
+set: 626 write count: 3357
+set: 627 write count: 3450
+set: 628 write count: 3507
+set: 629 write count: 3411
+set: 630 write count: 3386
+set: 631 write count: 3369
+set: 632 write count: 3278
+set: 633 write count: 3308
+set: 634 write count: 3329
+set: 635 write count: 3297
+set: 636 write count: 3297
+set: 637 write count: 3229
+set: 638 write count: 3270
+set: 639 write count: 3217
+set: 640 write count: 3338
+set: 641 write count: 3297
+set: 642 write count: 3575
+set: 643 write count: 3470
+set: 644 write count: 3527
+set: 645 write count: 3377
+set: 646 write count: 3306
+set: 647 write count: 3345
+set: 648 write count: 3282
+set: 649 write count: 3287
+set: 650 write count: 3189
+set: 651 write count: 3251
+set: 652 write count: 3333
+set: 653 write count: 3273
+set: 654 write count: 3365
+set: 655 write count: 3366
+set: 656 write count: 3312
+set: 657 write count: 3318
+set: 658 write count: 3302
+set: 659 write count: 3419
+set: 660 write count: 3484
+set: 661 write count: 3436
+set: 662 write count: 3378
+set: 663 write count: 3395
+set: 664 write count: 3354
+set: 665 write count: 3221
+set: 666 write count: 3256
+set: 667 write count: 3364
+set: 668 write count: 3294
+set: 669 write count: 3405
+set: 670 write count: 3435
+set: 671 write count: 3337
+set: 672 write count: 3367
+set: 673 write count: 3458
+set: 674 write count: 3429
+set: 675 write count: 3615
+set: 676 write count: 3581
+set: 677 write count: 3436
+set: 678 write count: 3464
+set: 679 write count: 3378
+set: 680 write count: 3286
+set: 681 write count: 3333
+set: 682 write count: 3373
+set: 683 write count: 3367
+set: 684 write count: 3325
+set: 685 write count: 3417
+set: 686 write count: 3291
+set: 687 write count: 3378
+set: 688 write count: 3366
+set: 689 write count: 3323
+set: 690 write count: 3406
+set: 691 write count: 3536
+set: 692 write count: 3538
+set: 693 write count: 3493
+set: 694 write count: 3580
+set: 695 write count: 3482
+set: 696 write count: 3377
+set: 697 write count: 3405
+set: 698 write count: 3372
+set: 699 write count: 3374
+set: 700 write count: 3357
+set: 701 write count: 3323
+set: 702 write count: 3397
+set: 703 write count: 3453
+set: 704 write count: 3239
+set: 705 write count: 3248
+set: 706 write count: 3234
+set: 707 write count: 3429
+set: 708 write count: 3369
+set: 709 write count: 3366
+set: 710 write count: 3399
+set: 711 write count: 3373
+set: 712 write count: 3245
+set: 713 write count: 3228
+set: 714 write count: 3257
+set: 715 write count: 3279
+set: 716 write count: 3216
+set: 717 write count: 3234
+set: 718 write count: 3242
+set: 719 write count: 3320
+set: 720 write count: 3317
+set: 721 write count: 3300
+set: 722 write count: 3238
+set: 723 write count: 3413
+set: 724 write count: 3383
+set: 725 write count: 3355
+set: 726 write count: 3411
+set: 727 write count: 3322
+set: 728 write count: 3304
+set: 729 write count: 3277
+set: 730 write count: 3302
+set: 731 write count: 3303
+set: 732 write count: 3320
+set: 733 write count: 3256
+set: 734 write count: 3375
+set: 735 write count: 3254
+set: 736 write count: 3364
+set: 737 write count: 3316
+set: 738 write count: 3259
+set: 739 write count: 3469
+set: 740 write count: 3454
+set: 741 write count: 3350
+set: 742 write count: 3333
+set: 743 write count: 3247
+set: 744 write count: 3272
+set: 745 write count: 3284
+set: 746 write count: 3294
+set: 747 write count: 3204
+set: 748 write count: 3236
+set: 749 write count: 3288
+set: 750 write count: 3225
+set: 751 write count: 3304
+set: 752 write count: 3293
+set: 753 write count: 3224
+set: 754 write count: 3199
+set: 755 write count: 3435
+set: 756 write count: 3407
+set: 757 write count: 3255
+set: 758 write count: 3276
+set: 759 write count: 3232
+set: 760 write count: 3210
+set: 761 write count: 3232
+set: 762 write count: 3179
+set: 763 write count: 3158
+set: 764 write count: 3180
+set: 765 write count: 3199
+set: 766 write count: 3268
+set: 767 write count: 3196
+set: 768 write count: 3552
+set: 769 write count: 3523
+set: 770 write count: 3443
+set: 771 write count: 3822
+set: 772 write count: 3804
+set: 773 write count: 3604
+set: 774 write count: 3586
+set: 775 write count: 3607
+set: 776 write count: 3554
+set: 777 write count: 3587
+set: 778 write count: 3587
+set: 779 write count: 3608
+set: 780 write count: 3500
+set: 781 write count: 3544
+set: 782 write count: 3551
+set: 783 write count: 3570
+set: 784 write count: 3606
+set: 785 write count: 3578
+set: 786 write count: 3659
+set: 787 write count: 3845
+set: 788 write count: 3952
+set: 789 write count: 3650
+set: 790 write count: 3734
+set: 791 write count: 3713
+set: 792 write count: 3672
+set: 793 write count: 3572
+set: 794 write count: 3620
+set: 795 write count: 3639
+set: 796 write count: 3684
+set: 797 write count: 3657
+set: 798 write count: 3720
+set: 799 write count: 3579
+set: 800 write count: 3590
+set: 801 write count: 3645
+set: 802 write count: 3609
+set: 803 write count: 3819
+set: 804 write count: 3825
+set: 805 write count: 3704
+set: 806 write count: 3802
+set: 807 write count: 3703
+set: 808 write count: 3665
+set: 809 write count: 3577
+set: 810 write count: 3652
+set: 811 write count: 3622
+set: 812 write count: 3605
+set: 813 write count: 3597
+set: 814 write count: 3608
+set: 815 write count: 3637
+set: 816 write count: 3676
+set: 817 write count: 3563
+set: 818 write count: 3527
+set: 819 write count: 3800
+set: 820 write count: 3895
+set: 821 write count: 3594
+set: 822 write count: 3639
+set: 823 write count: 3609
+set: 824 write count: 3455
+set: 825 write count: 3472
+set: 826 write count: 3499
+set: 827 write count: 3533
+set: 828 write count: 3490
+set: 829 write count: 3511
+set: 830 write count: 3552
+set: 831 write count: 3498
+set: 832 write count: 3498
+set: 833 write count: 3483
+set: 834 write count: 3571
+set: 835 write count: 3852
+set: 836 write count: 3693
+set: 837 write count: 3525
+set: 838 write count: 3508
+set: 839 write count: 3423
+set: 840 write count: 3428
+set: 841 write count: 3300
+set: 842 write count: 3284
+set: 843 write count: 3269
+set: 844 write count: 3252
+set: 845 write count: 3332
+set: 846 write count: 3274
+set: 847 write count: 3306
+set: 848 write count: 3398
+set: 849 write count: 3368
+set: 850 write count: 3352
+set: 851 write count: 3480
+set: 852 write count: 3578
+set: 853 write count: 3470
+set: 854 write count: 3504
+set: 855 write count: 3393
+set: 856 write count: 3356
+set: 857 write count: 3374
+set: 858 write count: 3285
+set: 859 write count: 3386
+set: 860 write count: 3250
+set: 861 write count: 3208
+set: 862 write count: 3303
+set: 863 write count: 3269
+set: 864 write count: 3283
+set: 865 write count: 3267
+set: 866 write count: 3368
+set: 867 write count: 3560
+set: 868 write count: 3553
+set: 869 write count: 3359
+set: 870 write count: 3419
+set: 871 write count: 3273
+set: 872 write count: 3329
+set: 873 write count: 3286
+set: 874 write count: 3246
+set: 875 write count: 3342
+set: 876 write count: 3268
+set: 877 write count: 3283
+set: 878 write count: 3282
+set: 879 write count: 3289
+set: 880 write count: 3337
+set: 881 write count: 3312
+set: 882 write count: 3210
+set: 883 write count: 3431
+set: 884 write count: 3499
+set: 885 write count: 3390
+set: 886 write count: 3376
+set: 887 write count: 3262
+set: 888 write count: 3167
+set: 889 write count: 3207
+set: 890 write count: 3218
+set: 891 write count: 3152
+set: 892 write count: 3143
+set: 893 write count: 3186
+set: 894 write count: 3215
+set: 895 write count: 3217
+set: 896 write count: 2894
+set: 897 write count: 2960
+set: 898 write count: 3037
+set: 899 write count: 3303
+set: 900 write count: 3352
+set: 901 write count: 3101
+set: 902 write count: 3169
+set: 903 write count: 3122
+set: 904 write count: 3027
+set: 905 write count: 2971
+set: 906 write count: 3060
+set: 907 write count: 3087
+set: 908 write count: 3053
+set: 909 write count: 2968
+set: 910 write count: 3031
+set: 911 write count: 2982
+set: 912 write count: 2962
+set: 913 write count: 2934
+set: 914 write count: 2988
+set: 915 write count: 3151
+set: 916 write count: 3161
+set: 917 write count: 3164
+set: 918 write count: 3137
+set: 919 write count: 3048
+set: 920 write count: 2967
+set: 921 write count: 2997
+set: 922 write count: 2984
+set: 923 write count: 3005
+set: 924 write count: 3021
+set: 925 write count: 2942
+set: 926 write count: 2961
+set: 927 write count: 2944
+set: 928 write count: 2933
+set: 929 write count: 2891
+set: 930 write count: 2996
+set: 931 write count: 3178
+set: 932 write count: 3291
+set: 933 write count: 3106
+set: 934 write count: 3173
+set: 935 write count: 3056
+set: 936 write count: 2962
+set: 937 write count: 3056
+set: 938 write count: 2949
+set: 939 write count: 2959
+set: 940 write count: 3073
+set: 941 write count: 3077
+set: 942 write count: 2964
+set: 943 write count: 2990
+set: 944 write count: 3015
+set: 945 write count: 3027
+set: 946 write count: 3009
+set: 947 write count: 3244
+set: 948 write count: 3163
+set: 949 write count: 3102
+set: 950 write count: 3076
+set: 951 write count: 3084
+set: 952 write count: 2961
+set: 953 write count: 2868
+set: 954 write count: 2955
+set: 955 write count: 2904
+set: 956 write count: 2969
+set: 957 write count: 3039
+set: 958 write count: 3006
+set: 959 write count: 3052
+set: 960 write count: 3280
+set: 961 write count: 3201
+set: 962 write count: 3167
+set: 963 write count: 3618
+set: 964 write count: 3630
+set: 965 write count: 3419
+set: 966 write count: 3387
+set: 967 write count: 3369
+set: 968 write count: 3322
+set: 969 write count: 3264
+set: 970 write count: 3229
+set: 971 write count: 3252
+set: 972 write count: 3185
+set: 973 write count: 3218
+set: 974 write count: 3230
+set: 975 write count: 3262
+set: 976 write count: 3231
+set: 977 write count: 3163
+set: 978 write count: 3117
+set: 979 write count: 3302
+set: 980 write count: 3415
+set: 981 write count: 3252
+set: 982 write count: 3164
+set: 983 write count: 3236
+set: 984 write count: 3059
+set: 985 write count: 3155
+set: 986 write count: 2981
+set: 987 write count: 3026
+set: 988 write count: 2997
+set: 989 write count: 2999
+set: 990 write count: 3060
+set: 991 write count: 2998
+set: 992 write count: 3101
+set: 993 write count: 3002
+set: 994 write count: 3170
+set: 995 write count: 3491
+set: 996 write count: 3411
+set: 997 write count: 3163
+set: 998 write count: 3149
+set: 999 write count: 3099
+set: 1000 write count: 3004
+set: 1001 write count: 2993
+set: 1002 write count: 2971
+set: 1003 write count: 3016
+set: 1004 write count: 3022
+set: 1005 write count: 2909
+set: 1006 write count: 2965
+set: 1007 write count: 2897
+set: 1008 write count: 3066
+set: 1009 write count: 3003
+set: 1010 write count: 2997
+set: 1011 write count: 3415
+set: 1012 write count: 3442
+set: 1013 write count: 3329
+set: 1014 write count: 3220
+set: 1015 write count: 3138
+set: 1016 write count: 3028
+set: 1017 write count: 2996
+set: 1018 write count: 3085
+set: 1019 write count: 3023
+set: 1020 write count: 3147
+set: 1021 write count: 3015
+set: 1022 write count: 3128
+set: 1023 write count: 3094
+Cache way writes status: 
+For set: 0
+For way: 0 231
+For way: 1 255
+For way: 2 297
+For way: 3 399
+For way: 4 394
+For way: 5 416
+For way: 6 362
+For way: 7 361
+
+For set: 1
+For way: 0 218
+For way: 1 236
+For way: 2 268
+For way: 3 419
+For way: 4 470
+For way: 5 418
+For way: 6 341
+For way: 7 315
+
+For set: 2
+For way: 0 317
+For way: 1 392
+For way: 2 317
+For way: 3 291
+For way: 4 346
+For way: 5 392
+For way: 6 337
+For way: 7 325
+
+For set: 3
+For way: 0 300
+For way: 1 327
+For way: 2 292
+For way: 3 399
+For way: 4 333
+For way: 5 372
+For way: 6 413
+For way: 7 474
+
+For set: 4
+For way: 0 418
+For way: 1 509
+For way: 2 430
+For way: 3 321
+For way: 4 295
+For way: 5 347
+For way: 6 342
+For way: 7 370
+
+For set: 5
+For way: 0 536
+For way: 1 508
+For way: 2 401
+For way: 3 231
+For way: 4 167
+For way: 5 207
+For way: 6 373
+For way: 7 475
+
+For set: 6
+For way: 0 383
+For way: 1 367
+For way: 2 371
+For way: 3 219
+For way: 4 226
+For way: 5 237
+For way: 6 480
+For way: 7 497
+
+For set: 7
+For way: 0 357
+For way: 1 346
+For way: 2 317
+For way: 3 283
+For way: 4 303
+For way: 5 341
+For way: 6 397
+For way: 7 402
+
+For set: 8
+For way: 0 350
+For way: 1 380
+For way: 2 440
+For way: 3 356
+For way: 4 201
+For way: 5 212
+For way: 6 282
+For way: 7 356
+
+For set: 9
+For way: 0 258
+For way: 1 340
+For way: 2 310
+For way: 3 375
+For way: 4 344
+For way: 5 350
+For way: 6 311
+For way: 7 306
+
+For set: 10
+For way: 0 295
+For way: 1 361
+For way: 2 342
+For way: 3 292
+For way: 4 275
+For way: 5 303
+For way: 6 372
+For way: 7 373
+
+For set: 11
+For way: 0 301
+For way: 1 272
+For way: 2 265
+For way: 3 338
+For way: 4 354
+For way: 5 306
+For way: 6 359
+For way: 7 396
+
+For set: 12
+For way: 0 297
+For way: 1 319
+For way: 2 369
+For way: 3 364
+For way: 4 278
+For way: 5 259
+For way: 6 382
+For way: 7 404
+
+For set: 13
+For way: 0 254
+For way: 1 259
+For way: 2 276
+For way: 3 450
+For way: 4 476
+For way: 5 339
+For way: 6 267
+For way: 7 285
+
+For set: 14
+For way: 0 249
+For way: 1 276
+For way: 2 290
+For way: 3 374
+For way: 4 331
+For way: 5 308
+For way: 6 338
+For way: 7 341
+
+For set: 15
+For way: 0 393
+For way: 1 354
+For way: 2 295
+For way: 3 179
+For way: 4 212
+For way: 5 320
+For way: 6 419
+For way: 7 394
+
+For set: 16
+For way: 0 241
+For way: 1 312
+For way: 2 317
+For way: 3 423
+For way: 4 392
+For way: 5 342
+For way: 6 287
+For way: 7 313
+
+For set: 17
+For way: 0 345
+For way: 1 414
+For way: 2 361
+For way: 3 231
+For way: 4 242
+For way: 5 271
+For way: 6 341
+For way: 7 350
+
+For set: 18
+For way: 0 349
+For way: 1 419
+For way: 2 426
+For way: 3 263
+For way: 4 248
+For way: 5 246
+For way: 6 326
+For way: 7 331
+
+For set: 19
+For way: 0 428
+For way: 1 417
+For way: 2 438
+For way: 3 307
+For way: 4 267
+For way: 5 241
+For way: 6 376
+For way: 7 403
+
+For set: 20
+For way: 0 403
+For way: 1 384
+For way: 2 324
+For way: 3 261
+For way: 4 288
+For way: 5 416
+For way: 6 490
+For way: 7 440
+
+For set: 21
+For way: 0 242
+For way: 1 424
+For way: 2 384
+For way: 3 397
+For way: 4 389
+For way: 5 424
+For way: 6 286
+For way: 7 287
+
+For set: 22
+For way: 0 387
+For way: 1 389
+For way: 2 403
+For way: 3 303
+For way: 4 350
+For way: 5 275
+For way: 6 300
+For way: 7 330
+
+For set: 23
+For way: 0 246
+For way: 1 255
+For way: 2 247
+For way: 3 318
+For way: 4 392
+For way: 5 384
+For way: 6 366
+For way: 7 368
+
+For set: 24
+For way: 0 268
+For way: 1 249
+For way: 2 277
+For way: 3 387
+For way: 4 429
+For way: 5 336
+For way: 6 333
+For way: 7 282
+
+For set: 25
+For way: 0 351
+For way: 1 246
+For way: 2 278
+For way: 3 257
+For way: 4 349
+For way: 5 372
+For way: 6 351
+For way: 7 309
+
+For set: 26
+For way: 0 286
+For way: 1 408
+For way: 2 387
+For way: 3 269
+For way: 4 247
+For way: 5 305
+For way: 6 316
+For way: 7 305
+
+For set: 27
+For way: 0 307
+For way: 1 289
+For way: 2 196
+For way: 3 269
+For way: 4 275
+For way: 5 365
+For way: 6 407
+For way: 7 443
+
+For set: 28
+For way: 0 315
+For way: 1 230
+For way: 2 239
+For way: 3 346
+For way: 4 418
+For way: 5 310
+For way: 6 321
+For way: 7 357
+
+For set: 29
+For way: 0 382
+For way: 1 377
+For way: 2 387
+For way: 3 285
+For way: 4 215
+For way: 5 213
+For way: 6 348
+For way: 7 332
+
+For set: 30
+For way: 0 329
+For way: 1 283
+For way: 2 289
+For way: 3 311
+For way: 4 346
+For way: 5 291
+For way: 6 298
+For way: 7 362
+
+For set: 31
+For way: 0 225
+For way: 1 270
+For way: 2 241
+For way: 3 384
+For way: 4 373
+For way: 5 395
+For way: 6 317
+For way: 7 345
+
+For set: 32
+For way: 0 365
+For way: 1 325
+For way: 2 308
+For way: 3 195
+For way: 4 245
+For way: 5 292
+For way: 6 380
+For way: 7 353
+
+For set: 33
+For way: 0 273
+For way: 1 214
+For way: 2 208
+For way: 3 298
+For way: 4 371
+For way: 5 365
+For way: 6 403
+For way: 7 389
+
+For set: 34
+For way: 0 294
+For way: 1 278
+For way: 2 378
+For way: 3 393
+For way: 4 381
+For way: 5 278
+For way: 6 341
+For way: 7 281
+
+For set: 35
+For way: 0 442
+For way: 1 405
+For way: 2 438
+For way: 3 311
+For way: 4 271
+For way: 5 229
+For way: 6 381
+For way: 7 418
+
+For set: 36
+For way: 0 377
+For way: 1 268
+For way: 2 417
+For way: 3 260
+For way: 4 325
+For way: 5 322
+For way: 6 495
+For way: 7 399
+
+For set: 37
+For way: 0 421
+For way: 1 344
+For way: 2 247
+For way: 3 257
+For way: 4 257
+For way: 5 317
+For way: 6 386
+For way: 7 475
+
+For set: 38
+For way: 0 321
+For way: 1 185
+For way: 2 146
+For way: 3 296
+For way: 4 408
+For way: 5 429
+For way: 6 436
+For way: 7 460
+
+For set: 39
+For way: 0 334
+For way: 1 283
+For way: 2 235
+For way: 3 274
+For way: 4 348
+For way: 5 382
+For way: 6 390
+For way: 7 390
+
+For set: 40
+For way: 0 306
+For way: 1 174
+For way: 2 234
+For way: 3 271
+For way: 4 380
+For way: 5 379
+For way: 6 425
+For way: 7 402
+
+For set: 41
+For way: 0 309
+For way: 1 253
+For way: 2 245
+For way: 3 317
+For way: 4 362
+For way: 5 354
+For way: 6 324
+For way: 7 372
+
+For set: 42
+For way: 0 201
+For way: 1 240
+For way: 2 236
+For way: 3 440
+For way: 4 386
+For way: 5 447
+For way: 6 408
+For way: 7 405
+
+For set: 43
+For way: 0 274
+For way: 1 244
+For way: 2 294
+For way: 3 376
+For way: 4 398
+For way: 5 420
+For way: 6 400
+For way: 7 414
+
+For set: 44
+For way: 0 421
+For way: 1 338
+For way: 2 242
+For way: 3 223
+For way: 4 324
+For way: 5 429
+For way: 6 433
+For way: 7 419
+
+For set: 45
+For way: 0 437
+For way: 1 458
+For way: 2 436
+For way: 3 292
+For way: 4 291
+For way: 5 224
+For way: 6 362
+For way: 7 357
+
+For set: 46
+For way: 0 413
+For way: 1 390
+For way: 2 361
+For way: 3 386
+For way: 4 333
+For way: 5 289
+For way: 6 266
+For way: 7 391
+
+For set: 47
+For way: 0 350
+For way: 1 363
+For way: 2 413
+For way: 3 343
+For way: 4 349
+For way: 5 329
+For way: 6 342
+For way: 7 319
+
+For set: 48
+For way: 0 221
+For way: 1 271
+For way: 2 338
+For way: 3 476
+For way: 4 446
+For way: 5 417
+For way: 6 376
+For way: 7 342
+
+For set: 49
+For way: 0 325
+For way: 1 336
+For way: 2 397
+For way: 3 358
+For way: 4 345
+For way: 5 322
+For way: 6 414
+For way: 7 370
+
+For set: 50
+For way: 0 240
+For way: 1 269
+For way: 2 290
+For way: 3 396
+For way: 4 403
+For way: 5 423
+For way: 6 452
+For way: 7 427
+
+For set: 51
+For way: 0 280
+For way: 1 245
+For way: 2 373
+For way: 3 463
+For way: 4 473
+For way: 5 469
+For way: 6 447
+For way: 7 370
+
+For set: 52
+For way: 0 254
+For way: 1 264
+For way: 2 302
+For way: 3 482
+For way: 4 464
+For way: 5 419
+For way: 6 517
+For way: 7 508
+
+For set: 53
+For way: 0 276
+For way: 1 395
+For way: 2 419
+For way: 3 400
+For way: 4 431
+For way: 5 422
+For way: 6 334
+For way: 7 311
+
+For set: 54
+For way: 0 447
+For way: 1 442
+For way: 2 421
+For way: 3 291
+For way: 4 227
+For way: 5 281
+For way: 6 448
+For way: 7 436
+
+For set: 55
+For way: 0 419
+For way: 1 447
+For way: 2 428
+For way: 3 295
+For way: 4 279
+For way: 5 289
+For way: 6 340
+For way: 7 441
+
+For set: 56
+For way: 0 407
+For way: 1 427
+For way: 2 404
+For way: 3 361
+For way: 4 314
+For way: 5 252
+For way: 6 311
+For way: 7 360
+
+For set: 57
+For way: 0 292
+For way: 1 343
+For way: 2 427
+For way: 3 420
+For way: 4 416
+For way: 5 312
+For way: 6 307
+For way: 7 259
+
+For set: 58
+For way: 0 272
+For way: 1 351
+For way: 2 291
+For way: 3 386
+For way: 4 354
+For way: 5 400
+For way: 6 372
+For way: 7 402
+
+For set: 59
+For way: 0 261
+For way: 1 323
+For way: 2 337
+For way: 3 438
+For way: 4 382
+For way: 5 344
+For way: 6 338
+For way: 7 333
+
+For set: 60
+For way: 0 190
+For way: 1 262
+For way: 2 333
+For way: 3 405
+For way: 4 413
+For way: 5 434
+For way: 6 397
+For way: 7 287
+
+For set: 61
+For way: 0 225
+For way: 1 268
+For way: 2 218
+For way: 3 423
+For way: 4 417
+For way: 5 460
+For way: 6 377
+For way: 7 411
+
+For set: 62
+For way: 0 385
+For way: 1 479
+For way: 2 435
+For way: 3 258
+For way: 4 238
+For way: 5 277
+For way: 6 328
+For way: 7 384
+
+For set: 63
+For way: 0 403
+For way: 1 353
+For way: 2 301
+For way: 3 256
+For way: 4 267
+For way: 5 324
+For way: 6 415
+For way: 7 429
+
+For set: 64
+For way: 0 263
+For way: 1 357
+For way: 2 377
+For way: 3 473
+For way: 4 455
+For way: 5 452
+For way: 6 353
+For way: 7 335
+
+For set: 65
+For way: 0 375
+For way: 1 290
+For way: 2 337
+For way: 3 386
+For way: 4 366
+For way: 5 366
+For way: 6 437
+For way: 7 481
+
+For set: 66
+For way: 0 333
+For way: 1 309
+For way: 2 367
+For way: 3 392
+For way: 4 473
+For way: 5 448
+For way: 6 415
+For way: 7 367
+
+For set: 67
+For way: 0 435
+For way: 1 322
+For way: 2 309
+For way: 3 369
+For way: 4 457
+For way: 5 503
+For way: 6 514
+For way: 7 511
+
+For set: 68
+For way: 0 331
+For way: 1 275
+For way: 2 386
+For way: 3 455
+For way: 4 537
+For way: 5 517
+For way: 6 555
+For way: 7 392
+
+For set: 69
+For way: 0 307
+For way: 1 255
+For way: 2 210
+For way: 3 408
+For way: 4 435
+For way: 5 462
+For way: 6 515
+For way: 7 538
+
+For set: 70
+For way: 0 366
+For way: 1 369
+For way: 2 325
+For way: 3 370
+For way: 4 431
+For way: 5 426
+For way: 6 428
+For way: 7 446
+
+For set: 71
+For way: 0 361
+For way: 1 373
+For way: 2 431
+For way: 3 446
+For way: 4 328
+For way: 5 342
+For way: 6 423
+For way: 7 461
+
+For set: 72
+For way: 0 301
+For way: 1 332
+For way: 2 277
+For way: 3 353
+For way: 4 389
+For way: 5 505
+For way: 6 451
+For way: 7 404
+
+For set: 73
+For way: 0 388
+For way: 1 339
+For way: 2 344
+For way: 3 387
+For way: 4 419
+For way: 5 339
+For way: 6 407
+For way: 7 390
+
+For set: 74
+For way: 0 231
+For way: 1 354
+For way: 2 418
+For way: 3 405
+For way: 4 447
+For way: 5 483
+For way: 6 396
+For way: 7 281
+
+For set: 75
+For way: 0 378
+For way: 1 348
+For way: 2 327
+For way: 3 411
+For way: 4 428
+For way: 5 315
+For way: 6 383
+For way: 7 394
+
+For set: 76
+For way: 0 350
+For way: 1 395
+For way: 2 339
+For way: 3 294
+For way: 4 372
+For way: 5 405
+For way: 6 434
+For way: 7 445
+
+For set: 77
+For way: 0 388
+For way: 1 435
+For way: 2 434
+For way: 3 372
+For way: 4 277
+For way: 5 302
+For way: 6 369
+For way: 7 458
+
+For set: 78
+For way: 0 302
+For way: 1 310
+For way: 2 276
+For way: 3 339
+For way: 4 342
+For way: 5 404
+For way: 6 517
+For way: 7 498
+
+For set: 79
+For way: 0 298
+For way: 1 320
+For way: 2 299
+For way: 3 440
+For way: 4 392
+For way: 5 415
+For way: 6 357
+For way: 7 457
+
+For set: 80
+For way: 0 450
+For way: 1 407
+For way: 2 435
+For way: 3 323
+For way: 4 227
+For way: 5 252
+For way: 6 364
+For way: 7 470
+
+For set: 81
+For way: 0 474
+For way: 1 301
+For way: 2 335
+For way: 3 236
+For way: 4 432
+For way: 5 364
+For way: 6 411
+For way: 7 417
+
+For set: 82
+For way: 0 332
+For way: 1 322
+For way: 2 329
+For way: 3 402
+For way: 4 409
+For way: 5 432
+For way: 6 447
+For way: 7 443
+
+For set: 83
+For way: 0 402
+For way: 1 391
+For way: 2 371
+For way: 3 477
+For way: 4 402
+For way: 5 349
+For way: 6 362
+For way: 7 477
+
+For set: 84
+For way: 0 327
+For way: 1 355
+For way: 2 325
+For way: 3 475
+For way: 4 428
+For way: 5 433
+For way: 6 441
+For way: 7 469
+
+For set: 85
+For way: 0 315
+For way: 1 405
+For way: 2 407
+For way: 3 369
+For way: 4 361
+For way: 5 354
+For way: 6 405
+For way: 7 382
+
+For set: 86
+For way: 0 295
+For way: 1 370
+For way: 2 357
+For way: 3 370
+For way: 4 342
+For way: 5 427
+For way: 6 431
+For way: 7 389
+
+For set: 87
+For way: 0 245
+For way: 1 237
+For way: 2 258
+For way: 3 414
+For way: 4 471
+For way: 5 440
+For way: 6 442
+For way: 7 379
+
+For set: 88
+For way: 0 287
+For way: 1 276
+For way: 2 303
+For way: 3 319
+For way: 4 376
+For way: 5 362
+For way: 6 424
+For way: 7 383
+
+For set: 89
+For way: 0 311
+For way: 1 452
+For way: 2 407
+For way: 3 400
+For way: 4 318
+For way: 5 337
+For way: 6 228
+For way: 7 325
+
+For set: 90
+For way: 0 340
+For way: 1 302
+For way: 2 354
+For way: 3 343
+For way: 4 338
+For way: 5 345
+For way: 6 379
+For way: 7 386
+
+For set: 91
+For way: 0 522
+For way: 1 460
+For way: 2 415
+For way: 3 184
+For way: 4 242
+For way: 5 188
+For way: 6 429
+For way: 7 446
+
+For set: 92
+For way: 0 251
+For way: 1 241
+For way: 2 218
+For way: 3 388
+For way: 4 420
+For way: 5 417
+For way: 6 420
+For way: 7 405
+
+For set: 93
+For way: 0 314
+For way: 1 267
+For way: 2 305
+For way: 3 353
+For way: 4 394
+For way: 5 382
+For way: 6 413
+For way: 7 422
+
+For set: 94
+For way: 0 292
+For way: 1 291
+For way: 2 340
+For way: 3 390
+For way: 4 384
+For way: 5 370
+For way: 6 329
+For way: 7 345
+
+For set: 95
+For way: 0 385
+For way: 1 430
+For way: 2 425
+For way: 3 359
+For way: 4 325
+For way: 5 289
+For way: 6 251
+For way: 7 302
+
+For set: 96
+For way: 0 363
+For way: 1 403
+For way: 2 319
+For way: 3 343
+For way: 4 316
+For way: 5 367
+For way: 6 346
+For way: 7 378
+
+For set: 97
+For way: 0 378
+For way: 1 367
+For way: 2 343
+For way: 3 374
+For way: 4 344
+For way: 5 332
+For way: 6 376
+For way: 7 457
+
+For set: 98
+For way: 0 406
+For way: 1 445
+For way: 2 446
+For way: 3 177
+For way: 4 246
+For way: 5 254
+For way: 6 427
+For way: 7 424
+
+For set: 99
+For way: 0 272
+For way: 1 371
+For way: 2 375
+For way: 3 425
+For way: 4 400
+For way: 5 465
+For way: 6 413
+For way: 7 398
+
+For set: 100
+For way: 0 510
+For way: 1 467
+For way: 2 408
+For way: 3 351
+For way: 4 365
+For way: 5 334
+For way: 6 404
+For way: 7 479
+
+For set: 101
+For way: 0 423
+For way: 1 469
+For way: 2 459
+For way: 3 316
+For way: 4 383
+For way: 5 315
+For way: 6 345
+For way: 7 366
+
+For set: 102
+For way: 0 199
+For way: 1 167
+For way: 2 275
+For way: 3 486
+For way: 4 551
+For way: 5 521
+For way: 6 481
+For way: 7 376
+
+For set: 103
+For way: 0 377
+For way: 1 269
+For way: 2 314
+For way: 3 318
+For way: 4 398
+For way: 5 406
+For way: 6 421
+For way: 7 394
+
+For set: 104
+For way: 0 358
+For way: 1 305
+For way: 2 372
+For way: 3 270
+For way: 4 325
+For way: 5 339
+For way: 6 411
+For way: 7 396
+
+For set: 105
+For way: 0 269
+For way: 1 317
+For way: 2 375
+For way: 3 368
+For way: 4 412
+For way: 5 373
+For way: 6 359
+For way: 7 291
+
+For set: 106
+For way: 0 315
+For way: 1 307
+For way: 2 326
+For way: 3 381
+For way: 4 340
+For way: 5 322
+For way: 6 368
+For way: 7 415
+
+For set: 107
+For way: 0 444
+For way: 1 468
+For way: 2 411
+For way: 3 264
+For way: 4 222
+For way: 5 198
+For way: 6 376
+For way: 7 432
+
+For set: 108
+For way: 0 342
+For way: 1 334
+For way: 2 392
+For way: 3 364
+For way: 4 294
+For way: 5 318
+For way: 6 357
+For way: 7 385
+
+For set: 109
+For way: 0 286
+For way: 1 355
+For way: 2 443
+For way: 3 445
+For way: 4 396
+For way: 5 321
+For way: 6 239
+For way: 7 240
+
+For set: 110
+For way: 0 307
+For way: 1 266
+For way: 2 373
+For way: 3 364
+For way: 4 349
+For way: 5 361
+For way: 6 455
+For way: 7 342
+
+For set: 111
+For way: 0 407
+For way: 1 315
+For way: 2 286
+For way: 3 299
+For way: 4 307
+For way: 5 307
+For way: 6 400
+For way: 7 468
+
+For set: 112
+For way: 0 359
+For way: 1 301
+For way: 2 353
+For way: 3 399
+For way: 4 445
+For way: 5 348
+For way: 6 311
+For way: 7 333
+
+For set: 113
+For way: 0 335
+For way: 1 357
+For way: 2 349
+For way: 3 358
+For way: 4 316
+For way: 5 328
+For way: 6 338
+For way: 7 419
+
+For set: 114
+For way: 0 407
+For way: 1 393
+For way: 2 314
+For way: 3 284
+For way: 4 349
+For way: 5 386
+For way: 6 341
+For way: 7 329
+
+For set: 115
+For way: 0 323
+For way: 1 224
+For way: 2 182
+For way: 3 400
+For way: 4 424
+For way: 5 486
+For way: 6 520
+For way: 7 545
+
+For set: 116
+For way: 0 338
+For way: 1 306
+For way: 2 327
+For way: 3 489
+For way: 4 478
+For way: 5 436
+For way: 6 409
+For way: 7 462
+
+For set: 117
+For way: 0 335
+For way: 1 345
+For way: 2 362
+For way: 3 375
+For way: 4 379
+For way: 5 382
+For way: 6 388
+For way: 7 379
+
+For set: 118
+For way: 0 319
+For way: 1 423
+For way: 2 406
+For way: 3 340
+For way: 4 384
+For way: 5 441
+For way: 6 402
+For way: 7 311
+
+For set: 119
+For way: 0 395
+For way: 1 436
+For way: 2 344
+For way: 3 305
+For way: 4 358
+For way: 5 405
+For way: 6 368
+For way: 7 355
+
+For set: 120
+For way: 0 338
+For way: 1 328
+For way: 2 351
+For way: 3 333
+For way: 4 390
+For way: 5 366
+For way: 6 434
+For way: 7 375
+
+For set: 121
+For way: 0 375
+For way: 1 392
+For way: 2 362
+For way: 3 291
+For way: 4 282
+For way: 5 326
+For way: 6 373
+For way: 7 406
+
+For set: 122
+For way: 0 342
+For way: 1 337
+For way: 2 332
+For way: 3 353
+For way: 4 383
+For way: 5 422
+For way: 6 334
+For way: 7 325
+
+For set: 123
+For way: 0 364
+For way: 1 408
+For way: 2 418
+For way: 3 380
+For way: 4 280
+For way: 5 279
+For way: 6 267
+For way: 7 318
+
+For set: 124
+For way: 0 274
+For way: 1 290
+For way: 2 273
+For way: 3 422
+For way: 4 376
+For way: 5 352
+For way: 6 340
+For way: 7 374
+
+For set: 125
+For way: 0 331
+For way: 1 329
+For way: 2 248
+For way: 3 322
+For way: 4 301
+For way: 5 405
+For way: 6 402
+For way: 7 444
+
+For set: 126
+For way: 0 310
+For way: 1 400
+For way: 2 432
+For way: 3 407
+For way: 4 459
+For way: 5 371
+For way: 6 231
+For way: 7 178
+
+For set: 127
+For way: 0 328
+For way: 1 280
+For way: 2 316
+For way: 3 342
+For way: 4 362
+For way: 5 327
+For way: 6 396
+For way: 7 384
+
+For set: 128
+For way: 0 413
+For way: 1 391
+For way: 2 404
+For way: 3 370
+For way: 4 308
+For way: 5 314
+For way: 6 411
+For way: 7 447
+
+For set: 129
+For way: 0 347
+For way: 1 411
+For way: 2 343
+For way: 3 347
+For way: 4 348
+For way: 5 374
+For way: 6 387
+For way: 7 419
+
+For set: 130
+For way: 0 362
+For way: 1 398
+For way: 2 437
+For way: 3 356
+For way: 4 352
+For way: 5 364
+For way: 6 400
+For way: 7 366
+
+For set: 131
+For way: 0 407
+For way: 1 427
+For way: 2 443
+For way: 3 423
+For way: 4 495
+For way: 5 426
+For way: 6 379
+For way: 7 380
+
+For set: 132
+For way: 0 387
+For way: 1 400
+For way: 2 375
+For way: 3 447
+For way: 4 466
+For way: 5 471
+For way: 6 429
+For way: 7 488
+
+For set: 133
+For way: 0 513
+For way: 1 588
+For way: 2 461
+For way: 3 283
+For way: 4 188
+For way: 5 290
+For way: 6 374
+For way: 7 460
+
+For set: 134
+For way: 0 325
+For way: 1 352
+For way: 2 303
+For way: 3 402
+For way: 4 373
+For way: 5 422
+For way: 6 457
+For way: 7 509
+
+For set: 135
+For way: 0 276
+For way: 1 320
+For way: 2 332
+For way: 3 399
+For way: 4 437
+For way: 5 402
+For way: 6 469
+For way: 7 462
+
+For set: 136
+For way: 0 417
+For way: 1 465
+For way: 2 360
+For way: 3 274
+For way: 4 303
+For way: 5 353
+For way: 6 424
+For way: 7 435
+
+For set: 137
+For way: 0 485
+For way: 1 445
+For way: 2 400
+For way: 3 293
+For way: 4 302
+For way: 5 305
+For way: 6 338
+For way: 7 458
+
+For set: 138
+For way: 0 451
+For way: 1 428
+For way: 2 441
+For way: 3 359
+For way: 4 258
+For way: 5 217
+For way: 6 344
+For way: 7 476
+
+For set: 139
+For way: 0 416
+For way: 1 368
+For way: 2 365
+For way: 3 288
+For way: 4 346
+For way: 5 340
+For way: 6 425
+For way: 7 443
+
+For set: 140
+For way: 0 200
+For way: 1 306
+For way: 2 413
+For way: 3 463
+For way: 4 476
+For way: 5 477
+For way: 6 378
+For way: 7 297
+
+For set: 141
+For way: 0 474
+For way: 1 462
+For way: 2 445
+For way: 3 243
+For way: 4 280
+For way: 5 313
+For way: 6 451
+For way: 7 445
+
+For set: 142
+For way: 0 517
+For way: 1 426
+For way: 2 405
+For way: 3 130
+For way: 4 244
+For way: 5 260
+For way: 6 526
+For way: 7 505
+
+For set: 143
+For way: 0 280
+For way: 1 405
+For way: 2 429
+For way: 3 404
+For way: 4 399
+For way: 5 366
+For way: 6 376
+For way: 7 336
+
+For set: 144
+For way: 0 398
+For way: 1 391
+For way: 2 503
+For way: 3 349
+For way: 4 322
+For way: 5 293
+For way: 6 432
+For way: 7 333
+
+For set: 145
+For way: 0 284
+For way: 1 312
+For way: 2 320
+For way: 3 408
+For way: 4 418
+For way: 5 399
+For way: 6 439
+For way: 7 423
+
+For set: 146
+For way: 0 251
+For way: 1 250
+For way: 2 254
+For way: 3 390
+For way: 4 401
+For way: 5 457
+For way: 6 510
+For way: 7 483
+
+For set: 147
+For way: 0 323
+For way: 1 478
+For way: 2 501
+For way: 3 520
+For way: 4 448
+For way: 5 435
+For way: 6 304
+For way: 7 345
+
+For set: 148
+For way: 0 437
+For way: 1 390
+For way: 2 357
+For way: 3 378
+For way: 4 427
+For way: 5 480
+For way: 6 396
+For way: 7 486
+
+For set: 149
+For way: 0 509
+For way: 1 439
+For way: 2 431
+For way: 3 328
+For way: 4 286
+For way: 5 272
+For way: 6 369
+For way: 7 472
+
+For set: 150
+For way: 0 377
+For way: 1 440
+For way: 2 427
+For way: 3 484
+For way: 4 319
+For way: 5 346
+For way: 6 318
+For way: 7 463
+
+For set: 151
+For way: 0 490
+For way: 1 528
+For way: 2 514
+For way: 3 346
+For way: 4 295
+For way: 5 218
+For way: 6 368
+For way: 7 393
+
+For set: 152
+For way: 0 387
+For way: 1 327
+For way: 2 266
+For way: 3 280
+For way: 4 336
+For way: 5 415
+For way: 6 536
+For way: 7 551
+
+For set: 153
+For way: 0 331
+For way: 1 302
+For way: 2 267
+For way: 3 359
+For way: 4 403
+For way: 5 413
+For way: 6 438
+For way: 7 422
+
+For set: 154
+For way: 0 312
+For way: 1 274
+For way: 2 314
+For way: 3 308
+For way: 4 462
+For way: 5 463
+For way: 6 399
+For way: 7 363
+
+For set: 155
+For way: 0 271
+For way: 1 360
+For way: 2 371
+For way: 3 426
+For way: 4 423
+For way: 5 457
+For way: 6 345
+For way: 7 351
+
+For set: 156
+For way: 0 432
+For way: 1 356
+For way: 2 370
+For way: 3 197
+For way: 4 302
+For way: 5 314
+For way: 6 547
+For way: 7 534
+
+For set: 157
+For way: 0 356
+For way: 1 328
+For way: 2 302
+For way: 3 379
+For way: 4 449
+For way: 5 445
+For way: 6 394
+For way: 7 360
+
+For set: 158
+For way: 0 311
+For way: 1 370
+For way: 2 338
+For way: 3 360
+For way: 4 400
+For way: 5 461
+For way: 6 424
+For way: 7 342
+
+For set: 159
+For way: 0 317
+For way: 1 297
+For way: 2 295
+For way: 3 324
+For way: 4 366
+For way: 5 412
+For way: 6 456
+For way: 7 463
+
+For set: 160
+For way: 0 394
+For way: 1 431
+For way: 2 454
+For way: 3 376
+For way: 4 371
+For way: 5 351
+For way: 6 413
+For way: 7 339
+
+For set: 161
+For way: 0 409
+For way: 1 408
+For way: 2 355
+For way: 3 372
+For way: 4 399
+For way: 5 392
+For way: 6 363
+For way: 7 368
+
+For set: 162
+For way: 0 289
+For way: 1 352
+For way: 2 340
+For way: 3 417
+For way: 4 442
+For way: 5 465
+For way: 6 393
+For way: 7 364
+
+For set: 163
+For way: 0 321
+For way: 1 357
+For way: 2 356
+For way: 3 497
+For way: 4 475
+For way: 5 424
+For way: 6 408
+For way: 7 435
+
+For set: 164
+For way: 0 369
+For way: 1 463
+For way: 2 451
+For way: 3 428
+For way: 4 409
+For way: 5 419
+For way: 6 368
+For way: 7 368
+
+For set: 165
+For way: 0 410
+For way: 1 425
+For way: 2 383
+For way: 3 389
+For way: 4 364
+For way: 5 340
+For way: 6 395
+For way: 7 384
+
+For set: 166
+For way: 0 438
+For way: 1 504
+For way: 2 440
+For way: 3 428
+For way: 4 241
+For way: 5 302
+For way: 6 328
+For way: 7 505
+
+For set: 167
+For way: 0 326
+For way: 1 311
+For way: 2 346
+For way: 3 399
+For way: 4 430
+For way: 5 423
+For way: 6 470
+For way: 7 464
+
+For set: 168
+For way: 0 378
+For way: 1 358
+For way: 2 283
+For way: 3 337
+For way: 4 395
+For way: 5 456
+For way: 6 385
+For way: 7 454
+
+For set: 169
+For way: 0 320
+For way: 1 382
+For way: 2 398
+For way: 3 356
+For way: 4 354
+For way: 5 360
+For way: 6 410
+For way: 7 434
+
+For set: 170
+For way: 0 284
+For way: 1 321
+For way: 2 335
+For way: 3 456
+For way: 4 336
+For way: 5 374
+For way: 6 411
+For way: 7 469
+
+For set: 171
+For way: 0 393
+For way: 1 406
+For way: 2 383
+For way: 3 447
+For way: 4 397
+For way: 5 347
+For way: 6 323
+For way: 7 373
+
+For set: 172
+For way: 0 494
+For way: 1 319
+For way: 2 285
+For way: 3 255
+For way: 4 447
+For way: 5 441
+For way: 6 406
+For way: 7 454
+
+For set: 173
+For way: 0 288
+For way: 1 345
+For way: 2 367
+For way: 3 485
+For way: 4 461
+For way: 5 375
+For way: 6 367
+For way: 7 346
+
+For set: 174
+For way: 0 368
+For way: 1 412
+For way: 2 362
+For way: 3 404
+For way: 4 334
+For way: 5 393
+For way: 6 335
+For way: 7 385
+
+For set: 175
+For way: 0 393
+For way: 1 476
+For way: 2 386
+For way: 3 356
+For way: 4 326
+For way: 5 398
+For way: 6 350
+For way: 7 391
+
+For set: 176
+For way: 0 419
+For way: 1 529
+For way: 2 515
+For way: 3 385
+For way: 4 337
+For way: 5 276
+For way: 6 318
+For way: 7 363
+
+For set: 177
+For way: 0 313
+For way: 1 382
+For way: 2 315
+For way: 3 433
+For way: 4 391
+For way: 5 455
+For way: 6 374
+For way: 7 457
+
+For set: 178
+For way: 0 300
+For way: 1 376
+For way: 2 266
+For way: 3 383
+For way: 4 376
+For way: 5 492
+For way: 6 401
+For way: 7 440
+
+For set: 179
+For way: 0 422
+For way: 1 416
+For way: 2 420
+For way: 3 475
+For way: 4 322
+For way: 5 322
+For way: 6 413
+For way: 7 524
+
+For set: 180
+For way: 0 372
+For way: 1 297
+For way: 2 409
+For way: 3 393
+For way: 4 504
+For way: 5 461
+For way: 6 511
+For way: 7 433
+
+For set: 181
+For way: 0 252
+For way: 1 452
+For way: 2 440
+For way: 3 476
+For way: 4 489
+For way: 5 539
+For way: 6 261
+For way: 7 279
+
+For set: 182
+For way: 0 418
+For way: 1 404
+For way: 2 468
+For way: 3 396
+For way: 4 339
+For way: 5 317
+For way: 6 387
+For way: 7 446
+
+For set: 183
+For way: 0 227
+For way: 1 220
+For way: 2 232
+For way: 3 477
+For way: 4 512
+For way: 5 453
+For way: 6 486
+For way: 7 462
+
+For set: 184
+For way: 0 385
+For way: 1 444
+For way: 2 337
+For way: 3 321
+For way: 4 283
+For way: 5 387
+For way: 6 417
+For way: 7 469
+
+For set: 185
+For way: 0 329
+For way: 1 305
+For way: 2 357
+For way: 3 348
+For way: 4 365
+For way: 5 370
+For way: 6 452
+For way: 7 424
+
+For set: 186
+For way: 0 475
+For way: 1 505
+For way: 2 503
+For way: 3 322
+For way: 4 240
+For way: 5 228
+For way: 6 384
+For way: 7 439
+
+For set: 187
+For way: 0 304
+For way: 1 381
+For way: 2 428
+For way: 3 433
+For way: 4 402
+For way: 5 398
+For way: 6 376
+For way: 7 374
+
+For set: 188
+For way: 0 321
+For way: 1 342
+For way: 2 445
+For way: 3 388
+For way: 4 360
+For way: 5 400
+For way: 6 414
+For way: 7 344
+
+For set: 189
+For way: 0 296
+For way: 1 315
+For way: 2 311
+For way: 3 425
+For way: 4 487
+For way: 5 432
+For way: 6 342
+For way: 7 336
+
+For set: 190
+For way: 0 415
+For way: 1 416
+For way: 2 416
+For way: 3 305
+For way: 4 368
+For way: 5 336
+For way: 6 376
+For way: 7 354
+
+For set: 191
+For way: 0 357
+For way: 1 296
+For way: 2 340
+For way: 3 387
+For way: 4 377
+For way: 5 374
+For way: 6 389
+For way: 7 466
+
+For set: 192
+For way: 0 208
+For way: 1 348
+For way: 2 374
+For way: 3 482
+For way: 4 495
+For way: 5 511
+For way: 6 408
+For way: 7 388
+
+For set: 193
+For way: 0 420
+For way: 1 400
+For way: 2 434
+For way: 3 405
+For way: 4 407
+For way: 5 362
+For way: 6 366
+For way: 7 348
+
+For set: 194
+For way: 0 405
+For way: 1 324
+For way: 2 277
+For way: 3 319
+For way: 4 426
+For way: 5 471
+For way: 6 460
+For way: 7 438
+
+For set: 195
+For way: 0 336
+For way: 1 462
+For way: 2 345
+For way: 3 444
+For way: 4 443
+For way: 5 572
+For way: 6 398
+For way: 7 439
+
+For set: 196
+For way: 0 303
+For way: 1 362
+For way: 2 381
+For way: 3 468
+For way: 4 486
+For way: 5 524
+For way: 6 511
+For way: 7 441
+
+For set: 197
+For way: 0 355
+For way: 1 319
+For way: 2 386
+For way: 3 435
+For way: 4 473
+For way: 5 445
+For way: 6 461
+For way: 7 353
+
+For set: 198
+For way: 0 458
+For way: 1 428
+For way: 2 478
+For way: 3 326
+For way: 4 292
+For way: 5 311
+For way: 6 493
+For way: 7 459
+
+For set: 199
+For way: 0 327
+For way: 1 311
+For way: 2 304
+For way: 3 435
+For way: 4 436
+For way: 5 440
+For way: 6 434
+For way: 7 469
+
+For set: 200
+For way: 0 446
+For way: 1 374
+For way: 2 421
+For way: 3 288
+For way: 4 318
+For way: 5 322
+For way: 6 425
+For way: 7 455
+
+For set: 201
+For way: 0 333
+For way: 1 405
+For way: 2 456
+For way: 3 483
+For way: 4 459
+For way: 5 353
+For way: 6 319
+For way: 7 294
+
+For set: 202
+For way: 0 380
+For way: 1 364
+For way: 2 291
+For way: 3 292
+For way: 4 308
+For way: 5 393
+For way: 6 502
+For way: 7 536
+
+For set: 203
+For way: 0 352
+For way: 1 341
+For way: 2 403
+For way: 3 397
+For way: 4 422
+For way: 5 386
+For way: 6 469
+For way: 7 383
+
+For set: 204
+For way: 0 335
+For way: 1 514
+For way: 2 498
+For way: 3 423
+For way: 4 475
+For way: 5 400
+For way: 6 239
+For way: 7 232
+
+For set: 205
+For way: 0 433
+For way: 1 366
+For way: 2 436
+For way: 3 323
+For way: 4 287
+For way: 5 310
+For way: 6 462
+For way: 7 478
+
+For set: 206
+For way: 0 397
+For way: 1 359
+For way: 2 391
+For way: 3 323
+For way: 4 362
+For way: 5 364
+For way: 6 480
+For way: 7 412
+
+For set: 207
+For way: 0 458
+For way: 1 451
+For way: 2 432
+For way: 3 283
+For way: 4 328
+For way: 5 310
+For way: 6 388
+For way: 7 411
+
+For set: 208
+For way: 0 431
+For way: 1 490
+For way: 2 344
+For way: 3 293
+For way: 4 273
+For way: 5 430
+For way: 6 473
+For way: 7 483
+
+For set: 209
+For way: 0 279
+For way: 1 377
+For way: 2 308
+For way: 3 386
+For way: 4 372
+For way: 5 486
+For way: 6 419
+For way: 7 376
+
+For set: 210
+For way: 0 401
+For way: 1 415
+For way: 2 452
+For way: 3 403
+For way: 4 354
+For way: 5 349
+For way: 6 337
+For way: 7 395
+
+For set: 211
+For way: 0 393
+For way: 1 411
+For way: 2 498
+For way: 3 463
+For way: 4 512
+For way: 5 409
+For way: 6 436
+For way: 7 343
+
+For set: 212
+For way: 0 461
+For way: 1 447
+For way: 2 360
+For way: 3 438
+For way: 4 401
+For way: 5 444
+For way: 6 441
+For way: 7 530
+
+For set: 213
+For way: 0 462
+For way: 1 405
+For way: 2 325
+For way: 3 260
+For way: 4 362
+For way: 5 435
+For way: 6 555
+For way: 7 525
+
+For set: 214
+For way: 0 372
+For way: 1 428
+For way: 2 407
+For way: 3 402
+For way: 4 445
+For way: 5 426
+For way: 6 426
+For way: 7 446
+
+For set: 215
+For way: 0 411
+For way: 1 393
+For way: 2 375
+For way: 3 405
+For way: 4 413
+For way: 5 433
+For way: 6 447
+For way: 7 420
+
+For set: 216
+For way: 0 286
+For way: 1 336
+For way: 2 381
+For way: 3 428
+For way: 4 375
+For way: 5 398
+For way: 6 464
+For way: 7 466
+
+For set: 217
+For way: 0 342
+For way: 1 356
+For way: 2 331
+For way: 3 384
+For way: 4 394
+For way: 5 439
+For way: 6 440
+For way: 7 498
+
+For set: 218
+For way: 0 323
+For way: 1 355
+For way: 2 359
+For way: 3 449
+For way: 4 360
+For way: 5 382
+For way: 6 381
+For way: 7 482
+
+For set: 219
+For way: 0 287
+For way: 1 330
+For way: 2 449
+For way: 3 411
+For way: 4 447
+For way: 5 431
+For way: 6 410
+For way: 7 322
+
+For set: 220
+For way: 0 293
+For way: 1 373
+For way: 2 298
+For way: 3 412
+For way: 4 425
+For way: 5 463
+For way: 6 444
+For way: 7 441
+
+For set: 221
+For way: 0 393
+For way: 1 385
+For way: 2 357
+For way: 3 374
+For way: 4 408
+For way: 5 399
+For way: 6 391
+For way: 7 380
+
+For set: 222
+For way: 0 313
+For way: 1 292
+For way: 2 360
+For way: 3 449
+For way: 4 526
+For way: 5 421
+For way: 6 399
+For way: 7 348
+
+For set: 223
+For way: 0 488
+For way: 1 469
+For way: 2 431
+For way: 3 384
+For way: 4 340
+For way: 5 372
+For way: 6 437
+For way: 7 502
+
+For set: 224
+For way: 0 405
+For way: 1 398
+For way: 2 319
+For way: 3 383
+For way: 4 411
+For way: 5 473
+For way: 6 523
+For way: 7 476
+
+For set: 225
+For way: 0 318
+For way: 1 309
+For way: 2 339
+For way: 3 415
+For way: 4 451
+For way: 5 481
+For way: 6 539
+For way: 7 472
+
+For set: 226
+For way: 0 427
+For way: 1 509
+For way: 2 551
+For way: 3 474
+For way: 4 458
+For way: 5 440
+For way: 6 441
+For way: 7 345
+
+For set: 227
+For way: 0 433
+For way: 1 466
+For way: 2 536
+For way: 3 518
+For way: 4 582
+For way: 5 572
+For way: 6 495
+For way: 7 466
+
+For set: 228
+For way: 0 254
+For way: 1 272
+For way: 2 333
+For way: 3 582
+For way: 4 644
+For way: 5 593
+For way: 6 551
+For way: 7 486
+
+For set: 229
+For way: 0 268
+For way: 1 278
+For way: 2 337
+For way: 3 525
+For way: 4 597
+For way: 5 586
+For way: 6 502
+For way: 7 437
+
+For set: 230
+For way: 0 348
+For way: 1 261
+For way: 2 336
+For way: 3 465
+For way: 4 532
+For way: 5 515
+For way: 6 582
+For way: 7 531
+
+For set: 231
+For way: 0 456
+For way: 1 412
+For way: 2 350
+For way: 3 331
+For way: 4 378
+For way: 5 468
+For way: 6 534
+For way: 7 519
+
+For set: 232
+For way: 0 335
+For way: 1 474
+For way: 2 488
+For way: 3 500
+For way: 4 495
+For way: 5 454
+For way: 6 338
+For way: 7 352
+
+For set: 233
+For way: 0 420
+For way: 1 352
+For way: 2 426
+For way: 3 389
+For way: 4 478
+For way: 5 436
+For way: 6 445
+For way: 7 423
+
+For set: 234
+For way: 0 411
+For way: 1 429
+For way: 2 502
+For way: 3 449
+For way: 4 359
+For way: 5 366
+For way: 6 425
+For way: 7 421
+
+For set: 235
+For way: 0 319
+For way: 1 292
+For way: 2 374
+For way: 3 494
+For way: 4 487
+For way: 5 433
+For way: 6 488
+For way: 7 426
+
+For set: 236
+For way: 0 351
+For way: 1 390
+For way: 2 375
+For way: 3 470
+For way: 4 421
+For way: 5 402
+For way: 6 454
+For way: 7 504
+
+For set: 237
+For way: 0 381
+For way: 1 423
+For way: 2 436
+For way: 3 496
+For way: 4 424
+For way: 5 328
+For way: 6 375
+For way: 7 426
+
+For set: 238
+For way: 0 256
+For way: 1 304
+For way: 2 360
+For way: 3 501
+For way: 4 557
+For way: 5 536
+For way: 6 467
+For way: 7 383
+
+For set: 239
+For way: 0 406
+For way: 1 357
+For way: 2 291
+For way: 3 367
+For way: 4 440
+For way: 5 521
+For way: 6 471
+For way: 7 482
+
+For set: 240
+For way: 0 312
+For way: 1 309
+For way: 2 313
+For way: 3 467
+For way: 4 585
+For way: 5 526
+For way: 6 441
+For way: 7 398
+
+For set: 241
+For way: 0 466
+For way: 1 400
+For way: 2 434
+For way: 3 331
+For way: 4 374
+For way: 5 365
+For way: 6 517
+For way: 7 437
+
+For set: 242
+For way: 0 312
+For way: 1 427
+For way: 2 425
+For way: 3 436
+For way: 4 465
+For way: 5 513
+For way: 6 389
+For way: 7 319
+
+For set: 243
+For way: 0 483
+For way: 1 478
+For way: 2 442
+For way: 3 282
+For way: 4 368
+For way: 5 434
+For way: 6 550
+For way: 7 520
+
+For set: 244
+For way: 0 455
+For way: 1 376
+For way: 2 487
+For way: 3 452
+For way: 4 473
+For way: 5 466
+For way: 6 501
+For way: 7 513
+
+For set: 245
+For way: 0 420
+For way: 1 390
+For way: 2 409
+For way: 3 489
+For way: 4 408
+For way: 5 384
+For way: 6 395
+For way: 7 509
+
+For set: 246
+For way: 0 525
+For way: 1 562
+For way: 2 504
+For way: 3 328
+For way: 4 268
+For way: 5 335
+For way: 6 470
+For way: 7 516
+
+For set: 247
+For way: 0 565
+For way: 1 567
+For way: 2 420
+For way: 3 232
+For way: 4 217
+For way: 5 355
+For way: 6 538
+For way: 7 557
+
+For set: 248
+For way: 0 291
+For way: 1 360
+For way: 2 335
+For way: 3 476
+For way: 4 452
+For way: 5 543
+For way: 6 510
+For way: 7 434
+
+For set: 249
+For way: 0 349
+For way: 1 282
+For way: 2 282
+For way: 3 411
+For way: 4 546
+For way: 5 534
+For way: 6 500
+For way: 7 489
+
+For set: 250
+For way: 0 315
+For way: 1 342
+For way: 2 408
+For way: 3 489
+For way: 4 572
+For way: 5 519
+For way: 6 375
+For way: 7 340
+
+For set: 251
+For way: 0 526
+For way: 1 500
+For way: 2 376
+For way: 3 317
+For way: 4 235
+For way: 5 350
+For way: 6 431
+For way: 7 580
+
+For set: 252
+For way: 0 278
+For way: 1 452
+For way: 2 500
+For way: 3 556
+For way: 4 504
+For way: 5 450
+For way: 6 285
+For way: 7 233
+
+For set: 253
+For way: 0 491
+For way: 1 539
+For way: 2 501
+For way: 3 380
+For way: 4 283
+For way: 5 251
+For way: 6 372
+For way: 7 489
+
+For set: 254
+For way: 0 369
+For way: 1 418
+For way: 2 368
+For way: 3 351
+For way: 4 337
+For way: 5 412
+For way: 6 499
+For way: 7 503
+
+For set: 255
+For way: 0 318
+For way: 1 342
+For way: 2 392
+For way: 3 436
+For way: 4 433
+For way: 5 440
+For way: 6 455
+For way: 7 449
+
+For set: 256
+For way: 0 333
+For way: 1 402
+For way: 2 440
+For way: 3 364
+For way: 4 410
+For way: 5 400
+For way: 6 365
+For way: 7 313
+
+For set: 257
+For way: 0 293
+For way: 1 270
+For way: 2 368
+For way: 3 480
+For way: 4 492
+For way: 5 390
+For way: 6 386
+For way: 7 348
+
+For set: 258
+For way: 0 461
+For way: 1 453
+For way: 2 379
+For way: 3 231
+For way: 4 249
+For way: 5 309
+For way: 6 440
+For way: 7 462
+
+For set: 259
+For way: 0 333
+For way: 1 333
+For way: 2 268
+For way: 3 420
+For way: 4 471
+For way: 5 493
+For way: 6 474
+For way: 7 480
+
+For set: 260
+For way: 0 318
+For way: 1 323
+For way: 2 314
+For way: 3 400
+For way: 4 444
+For way: 5 485
+For way: 6 511
+For way: 7 483
+
+For set: 261
+For way: 0 298
+For way: 1 388
+For way: 2 400
+For way: 3 427
+For way: 4 410
+For way: 5 433
+For way: 6 388
+For way: 7 349
+
+For set: 262
+For way: 0 370
+For way: 1 295
+For way: 2 337
+For way: 3 341
+For way: 4 414
+For way: 5 472
+For way: 6 511
+For way: 7 427
+
+For set: 263
+For way: 0 368
+For way: 1 378
+For way: 2 295
+For way: 3 345
+For way: 4 403
+For way: 5 423
+For way: 6 403
+For way: 7 368
+
+For set: 264
+For way: 0 386
+For way: 1 345
+For way: 2 378
+For way: 3 318
+For way: 4 420
+For way: 5 382
+For way: 6 360
+For way: 7 347
+
+For set: 265
+For way: 0 296
+For way: 1 335
+For way: 2 412
+For way: 3 327
+For way: 4 383
+For way: 5 394
+For way: 6 443
+For way: 7 344
+
+For set: 266
+For way: 0 180
+For way: 1 194
+For way: 2 326
+For way: 3 462
+For way: 4 482
+For way: 5 513
+For way: 6 496
+For way: 7 377
+
+For set: 267
+For way: 0 338
+For way: 1 331
+For way: 2 409
+For way: 3 309
+For way: 4 326
+For way: 5 340
+For way: 6 533
+For way: 7 462
+
+For set: 268
+For way: 0 393
+For way: 1 396
+For way: 2 412
+For way: 3 358
+For way: 4 325
+For way: 5 283
+For way: 6 362
+For way: 7 384
+
+For set: 269
+For way: 0 321
+For way: 1 303
+For way: 2 304
+For way: 3 389
+For way: 4 387
+For way: 5 391
+For way: 6 420
+For way: 7 416
+
+For set: 270
+For way: 0 261
+For way: 1 355
+For way: 2 366
+For way: 3 422
+For way: 4 416
+For way: 5 430
+For way: 6 370
+For way: 7 320
+
+For set: 271
+For way: 0 420
+For way: 1 476
+For way: 2 475
+For way: 3 366
+For way: 4 281
+For way: 5 244
+For way: 6 309
+For way: 7 386
+
+For set: 272
+For way: 0 344
+For way: 1 358
+For way: 2 465
+For way: 3 426
+For way: 4 459
+For way: 5 322
+For way: 6 379
+For way: 7 270
+
+For set: 273
+For way: 0 370
+For way: 1 393
+For way: 2 445
+For way: 3 364
+For way: 4 311
+For way: 5 334
+For way: 6 359
+For way: 7 403
+
+For set: 274
+For way: 0 398
+For way: 1 376
+For way: 2 379
+For way: 3 392
+For way: 4 365
+For way: 5 325
+For way: 6 334
+For way: 7 393
+
+For set: 275
+For way: 0 335
+For way: 1 395
+For way: 2 436
+For way: 3 411
+For way: 4 375
+For way: 5 385
+For way: 6 448
+For way: 7 387
+
+For set: 276
+For way: 0 334
+For way: 1 342
+For way: 2 357
+For way: 3 426
+For way: 4 485
+For way: 5 450
+For way: 6 475
+For way: 7 405
+
+For set: 277
+For way: 0 399
+For way: 1 348
+For way: 2 360
+For way: 3 325
+For way: 4 338
+For way: 5 373
+For way: 6 449
+For way: 7 449
+
+For set: 278
+For way: 0 343
+For way: 1 356
+For way: 2 370
+For way: 3 382
+For way: 4 445
+For way: 5 423
+For way: 6 409
+For way: 7 406
+
+For set: 279
+For way: 0 304
+For way: 1 325
+For way: 2 365
+For way: 3 439
+For way: 4 428
+For way: 5 402
+For way: 6 388
+For way: 7 387
+
+For set: 280
+For way: 0 389
+For way: 1 424
+For way: 2 397
+For way: 3 276
+For way: 4 258
+For way: 5 353
+For way: 6 480
+For way: 7 413
+
+For set: 281
+For way: 0 244
+For way: 1 279
+For way: 2 417
+For way: 3 494
+For way: 4 446
+For way: 5 376
+For way: 6 400
+For way: 7 301
+
+For set: 282
+For way: 0 392
+For way: 1 397
+For way: 2 374
+For way: 3 363
+For way: 4 366
+For way: 5 305
+For way: 6 379
+For way: 7 386
+
+For set: 283
+For way: 0 307
+For way: 1 430
+For way: 2 481
+For way: 3 434
+For way: 4 451
+For way: 5 370
+For way: 6 250
+For way: 7 239
+
+For set: 284
+For way: 0 434
+For way: 1 453
+For way: 2 309
+For way: 3 235
+For way: 4 211
+For way: 5 419
+For way: 6 451
+For way: 7 444
+
+For set: 285
+For way: 0 449
+For way: 1 352
+For way: 2 329
+For way: 3 320
+For way: 4 351
+For way: 5 351
+For way: 6 414
+For way: 7 478
+
+For set: 286
+For way: 0 296
+For way: 1 304
+For way: 2 304
+For way: 3 349
+For way: 4 405
+For way: 5 423
+For way: 6 458
+For way: 7 457
+
+For set: 287
+For way: 0 312
+For way: 1 358
+For way: 2 426
+For way: 3 489
+For way: 4 402
+For way: 5 367
+For way: 6 300
+For way: 7 315
+
+For set: 288
+For way: 0 417
+For way: 1 386
+For way: 2 353
+For way: 3 258
+For way: 4 358
+For way: 5 347
+For way: 6 433
+For way: 7 430
+
+For set: 289
+For way: 0 412
+For way: 1 363
+For way: 2 371
+For way: 3 359
+For way: 4 306
+For way: 5 329
+For way: 6 393
+For way: 7 464
+
+For set: 290
+For way: 0 255
+For way: 1 324
+For way: 2 370
+For way: 3 435
+For way: 4 434
+For way: 5 423
+For way: 6 376
+For way: 7 353
+
+For set: 291
+For way: 0 469
+For way: 1 478
+For way: 2 467
+For way: 3 381
+For way: 4 306
+For way: 5 270
+For way: 6 377
+For way: 7 435
+
+For set: 292
+For way: 0 394
+For way: 1 402
+For way: 2 484
+For way: 3 318
+For way: 4 341
+For way: 5 366
+For way: 6 510
+For way: 7 421
+
+For set: 293
+For way: 0 346
+For way: 1 434
+For way: 2 385
+For way: 3 441
+For way: 4 356
+For way: 5 384
+For way: 6 305
+For way: 7 399
+
+For set: 294
+For way: 0 309
+For way: 1 434
+For way: 2 454
+For way: 3 489
+For way: 4 426
+For way: 5 403
+For way: 6 279
+For way: 7 329
+
+For set: 295
+For way: 0 398
+For way: 1 474
+For way: 2 456
+For way: 3 396
+For way: 4 263
+For way: 5 293
+For way: 6 358
+For way: 7 453
+
+For set: 296
+For way: 0 336
+For way: 1 204
+For way: 2 169
+For way: 3 399
+For way: 4 521
+For way: 5 500
+For way: 6 478
+For way: 7 472
+
+For set: 297
+For way: 0 351
+For way: 1 439
+For way: 2 489
+For way: 3 456
+For way: 4 378
+For way: 5 312
+For way: 6 279
+For way: 7 296
+
+For set: 298
+For way: 0 368
+For way: 1 297
+For way: 2 290
+For way: 3 331
+For way: 4 420
+For way: 5 468
+For way: 6 428
+For way: 7 441
+
+For set: 299
+For way: 0 386
+For way: 1 396
+For way: 2 404
+For way: 3 391
+For way: 4 359
+For way: 5 365
+For way: 6 325
+For way: 7 392
+
+For set: 300
+For way: 0 432
+For way: 1 309
+For way: 2 346
+For way: 3 316
+For way: 4 359
+For way: 5 345
+For way: 6 409
+For way: 7 440
+
+For set: 301
+For way: 0 318
+For way: 1 339
+For way: 2 378
+For way: 3 365
+For way: 4 368
+For way: 5 366
+For way: 6 410
+For way: 7 447
+
+For set: 302
+For way: 0 292
+For way: 1 308
+For way: 2 393
+For way: 3 444
+For way: 4 388
+For way: 5 332
+For way: 6 380
+For way: 7 372
+
+For set: 303
+For way: 0 414
+For way: 1 314
+For way: 2 367
+For way: 3 245
+For way: 4 367
+For way: 5 368
+For way: 6 489
+For way: 7 395
+
+For set: 304
+For way: 0 375
+For way: 1 316
+For way: 2 375
+For way: 3 349
+For way: 4 409
+For way: 5 361
+For way: 6 408
+For way: 7 368
+
+For set: 305
+For way: 0 316
+For way: 1 394
+For way: 2 396
+For way: 3 324
+For way: 4 330
+For way: 5 410
+For way: 6 403
+For way: 7 370
+
+For set: 306
+For way: 0 521
+For way: 1 467
+For way: 2 280
+For way: 3 135
+For way: 4 232
+For way: 5 392
+For way: 6 497
+For way: 7 470
+
+For set: 307
+For way: 0 328
+For way: 1 322
+For way: 2 235
+For way: 3 433
+For way: 4 357
+For way: 5 489
+For way: 6 549
+For way: 7 578
+
+For set: 308
+For way: 0 420
+For way: 1 457
+For way: 2 481
+For way: 3 364
+For way: 4 350
+For way: 5 318
+For way: 6 427
+For way: 7 414
+
+For set: 309
+For way: 0 378
+For way: 1 346
+For way: 2 358
+For way: 3 271
+For way: 4 343
+For way: 5 399
+For way: 6 493
+For way: 7 424
+
+For set: 310
+For way: 0 338
+For way: 1 282
+For way: 2 385
+For way: 3 344
+For way: 4 406
+For way: 5 401
+For way: 6 516
+For way: 7 431
+
+For set: 311
+For way: 0 197
+For way: 1 271
+For way: 2 315
+For way: 3 472
+For way: 4 454
+For way: 5 471
+For way: 6 450
+For way: 7 366
+
+For set: 312
+For way: 0 461
+For way: 1 464
+For way: 2 443
+For way: 3 375
+For way: 4 325
+For way: 5 262
+For way: 6 325
+For way: 7 384
+
+For set: 313
+For way: 0 201
+For way: 1 336
+For way: 2 388
+For way: 3 446
+For way: 4 456
+For way: 5 427
+For way: 6 371
+For way: 7 329
+
+For set: 314
+For way: 0 305
+For way: 1 245
+For way: 2 282
+For way: 3 308
+For way: 4 464
+For way: 5 493
+For way: 6 455
+For way: 7 408
+
+For set: 315
+For way: 0 305
+For way: 1 471
+For way: 2 319
+For way: 3 353
+For way: 4 359
+For way: 5 491
+For way: 6 348
+For way: 7 354
+
+For set: 316
+For way: 0 263
+For way: 1 228
+For way: 2 230
+For way: 3 437
+For way: 4 459
+For way: 5 474
+For way: 6 416
+For way: 7 502
+
+For set: 317
+For way: 0 351
+For way: 1 322
+For way: 2 321
+For way: 3 395
+For way: 4 452
+For way: 5 378
+For way: 6 339
+For way: 7 398
+
+For set: 318
+For way: 0 357
+For way: 1 384
+For way: 2 416
+For way: 3 379
+For way: 4 322
+For way: 5 312
+For way: 6 421
+For way: 7 370
+
+For set: 319
+For way: 0 353
+For way: 1 371
+For way: 2 408
+For way: 3 336
+For way: 4 315
+For way: 5 358
+For way: 6 416
+For way: 7 361
+
+For set: 320
+For way: 0 376
+For way: 1 462
+For way: 2 445
+For way: 3 430
+For way: 4 430
+For way: 5 427
+For way: 6 339
+For way: 7 305
+
+For set: 321
+For way: 0 402
+For way: 1 407
+For way: 2 427
+For way: 3 377
+For way: 4 375
+For way: 5 367
+For way: 6 443
+For way: 7 466
+
+For set: 322
+For way: 0 461
+For way: 1 449
+For way: 2 446
+For way: 3 392
+For way: 4 441
+For way: 5 349
+For way: 6 304
+For way: 7 378
+
+For set: 323
+For way: 0 447
+For way: 1 410
+For way: 2 338
+For way: 3 391
+For way: 4 365
+For way: 5 452
+For way: 6 528
+For way: 7 534
+
+For set: 324
+For way: 0 384
+For way: 1 514
+For way: 2 558
+For way: 3 439
+For way: 4 437
+For way: 5 406
+For way: 6 434
+For way: 7 364
+
+For set: 325
+For way: 0 401
+For way: 1 460
+For way: 2 376
+For way: 3 398
+For way: 4 358
+For way: 5 465
+For way: 6 451
+For way: 7 512
+
+For set: 326
+For way: 0 381
+For way: 1 376
+For way: 2 357
+For way: 3 468
+For way: 4 444
+For way: 5 438
+For way: 6 429
+For way: 7 484
+
+For set: 327
+For way: 0 275
+For way: 1 327
+For way: 2 389
+For way: 3 472
+For way: 4 489
+For way: 5 546
+For way: 6 448
+For way: 7 345
+
+For set: 328
+For way: 0 408
+For way: 1 415
+For way: 2 410
+For way: 3 428
+For way: 4 437
+For way: 5 352
+For way: 6 351
+For way: 7 440
+
+For set: 329
+For way: 0 465
+For way: 1 520
+For way: 2 454
+For way: 3 365
+For way: 4 334
+For way: 5 367
+For way: 6 351
+For way: 7 431
+
+For set: 330
+For way: 0 394
+For way: 1 431
+For way: 2 448
+For way: 3 389
+For way: 4 393
+For way: 5 394
+For way: 6 422
+For way: 7 427
+
+For set: 331
+For way: 0 387
+For way: 1 336
+For way: 2 387
+For way: 3 313
+For way: 4 402
+For way: 5 411
+For way: 6 511
+For way: 7 476
+
+For set: 332
+For way: 0 344
+For way: 1 351
+For way: 2 312
+For way: 3 330
+For way: 4 338
+For way: 5 425
+For way: 6 521
+For way: 7 490
+
+For set: 333
+For way: 0 517
+For way: 1 337
+For way: 2 351
+For way: 3 210
+For way: 4 390
+For way: 5 371
+For way: 6 546
+For way: 7 516
+
+For set: 334
+For way: 0 382
+For way: 1 472
+For way: 2 413
+For way: 3 388
+For way: 4 390
+For way: 5 404
+For way: 6 367
+For way: 7 368
+
+For set: 335
+For way: 0 251
+For way: 1 301
+For way: 2 326
+For way: 3 457
+For way: 4 501
+For way: 5 561
+For way: 6 493
+For way: 7 393
+
+For set: 336
+For way: 0 419
+For way: 1 341
+For way: 2 379
+For way: 3 491
+For way: 4 368
+For way: 5 383
+For way: 6 376
+For way: 7 560
+
+For set: 337
+For way: 0 368
+For way: 1 389
+For way: 2 400
+For way: 3 420
+For way: 4 372
+For way: 5 389
+For way: 6 404
+For way: 7 465
+
+For set: 338
+For way: 0 172
+For way: 1 226
+For way: 2 269
+For way: 3 533
+For way: 4 530
+For way: 5 586
+For way: 6 538
+For way: 7 456
+
+For set: 339
+For way: 0 338
+For way: 1 316
+For way: 2 401
+For way: 3 411
+For way: 4 469
+For way: 5 505
+For way: 6 598
+For way: 7 446
+
+For set: 340
+For way: 0 191
+For way: 1 284
+For way: 2 209
+For way: 3 575
+For way: 4 556
+For way: 5 638
+For way: 6 553
+For way: 7 574
+
+For set: 341
+For way: 0 374
+For way: 1 334
+For way: 2 267
+For way: 3 356
+For way: 4 413
+For way: 5 556
+For way: 6 537
+For way: 7 463
+
+For set: 342
+For way: 0 364
+For way: 1 384
+For way: 2 355
+For way: 3 405
+For way: 4 418
+For way: 5 468
+For way: 6 471
+For way: 7 471
+
+For set: 343
+For way: 0 420
+For way: 1 464
+For way: 2 415
+For way: 3 393
+For way: 4 345
+For way: 5 408
+For way: 6 357
+For way: 7 476
+
+For set: 344
+For way: 0 530
+For way: 1 475
+For way: 2 477
+For way: 3 383
+For way: 4 343
+For way: 5 261
+For way: 6 359
+For way: 7 446
+
+For set: 345
+For way: 0 240
+For way: 1 336
+For way: 2 422
+For way: 3 430
+For way: 4 543
+For way: 5 549
+For way: 6 393
+For way: 7 302
+
+For set: 346
+For way: 0 313
+For way: 1 420
+For way: 2 460
+For way: 3 404
+For way: 4 451
+For way: 5 448
+For way: 6 343
+For way: 7 341
+
+For set: 347
+For way: 0 297
+For way: 1 258
+For way: 2 364
+For way: 3 452
+For way: 4 525
+For way: 5 523
+For way: 6 514
+For way: 7 357
+
+For set: 348
+For way: 0 339
+For way: 1 436
+For way: 2 405
+For way: 3 450
+For way: 4 368
+For way: 5 394
+For way: 6 348
+For way: 7 453
+
+For set: 349
+For way: 0 324
+For way: 1 210
+For way: 2 258
+For way: 3 403
+For way: 4 526
+For way: 5 553
+For way: 6 551
+For way: 7 442
+
+For set: 350
+For way: 0 502
+For way: 1 379
+For way: 2 397
+For way: 3 342
+For way: 4 353
+For way: 5 355
+For way: 6 366
+For way: 7 500
+
+For set: 351
+For way: 0 433
+For way: 1 486
+For way: 2 424
+For way: 3 363
+For way: 4 297
+For way: 5 372
+For way: 6 349
+For way: 7 453
+
+For set: 352
+For way: 0 495
+For way: 1 498
+For way: 2 462
+For way: 3 299
+For way: 4 189
+For way: 5 238
+For way: 6 461
+For way: 7 586
+
+For set: 353
+For way: 0 375
+For way: 1 364
+For way: 2 362
+For way: 3 377
+For way: 4 433
+For way: 5 463
+For way: 6 461
+For way: 7 376
+
+For set: 354
+For way: 0 501
+For way: 1 467
+For way: 2 335
+For way: 3 306
+For way: 4 328
+For way: 5 427
+For way: 6 414
+For way: 7 498
+
+For set: 355
+For way: 0 439
+For way: 1 336
+For way: 2 296
+For way: 3 408
+For way: 4 508
+For way: 5 506
+For way: 6 519
+For way: 7 528
+
+For set: 356
+For way: 0 463
+For way: 1 502
+For way: 2 520
+For way: 3 501
+For way: 4 485
+For way: 5 384
+For way: 6 310
+For way: 7 395
+
+For set: 357
+For way: 0 326
+For way: 1 383
+For way: 2 421
+For way: 3 488
+For way: 4 411
+For way: 5 420
+For way: 6 403
+For way: 7 482
+
+For set: 358
+For way: 0 353
+For way: 1 458
+For way: 2 500
+For way: 3 554
+For way: 4 464
+For way: 5 399
+For way: 6 255
+For way: 7 345
+
+For set: 359
+For way: 0 415
+For way: 1 340
+For way: 2 403
+For way: 3 412
+For way: 4 392
+For way: 5 376
+For way: 6 481
+For way: 7 454
+
+For set: 360
+For way: 0 256
+For way: 1 338
+For way: 2 364
+For way: 3 525
+For way: 4 453
+For way: 5 426
+For way: 6 420
+For way: 7 466
+
+For set: 361
+For way: 0 453
+For way: 1 415
+For way: 2 372
+For way: 3 318
+For way: 4 297
+For way: 5 387
+For way: 6 444
+For way: 7 516
+
+For set: 362
+For way: 0 408
+For way: 1 451
+For way: 2 529
+For way: 3 541
+For way: 4 354
+For way: 5 293
+For way: 6 254
+For way: 7 381
+
+For set: 363
+For way: 0 315
+For way: 1 269
+For way: 2 268
+For way: 3 377
+For way: 4 488
+For way: 5 483
+For way: 6 484
+For way: 7 450
+
+For set: 364
+For way: 0 407
+For way: 1 487
+For way: 2 486
+For way: 3 425
+For way: 4 405
+For way: 5 383
+For way: 6 337
+For way: 7 369
+
+For set: 365
+For way: 0 324
+For way: 1 414
+For way: 2 346
+For way: 3 409
+For way: 4 441
+For way: 5 515
+For way: 6 398
+For way: 7 389
+
+For set: 366
+For way: 0 406
+For way: 1 378
+For way: 2 368
+For way: 3 331
+For way: 4 387
+For way: 5 377
+For way: 6 495
+For way: 7 496
+
+For set: 367
+For way: 0 380
+For way: 1 342
+For way: 2 432
+For way: 3 404
+For way: 4 501
+For way: 5 443
+For way: 6 449
+For way: 7 332
+
+For set: 368
+For way: 0 430
+For way: 1 412
+For way: 2 313
+For way: 3 381
+For way: 4 340
+For way: 5 354
+For way: 6 466
+For way: 7 512
+
+For set: 369
+For way: 0 371
+For way: 1 329
+For way: 2 256
+For way: 3 389
+For way: 4 456
+For way: 5 488
+For way: 6 477
+For way: 7 514
+
+For set: 370
+For way: 0 352
+For way: 1 354
+For way: 2 373
+For way: 3 461
+For way: 4 508
+For way: 5 430
+For way: 6 395
+For way: 7 403
+
+For set: 371
+For way: 0 447
+For way: 1 408
+For way: 2 425
+For way: 3 449
+For way: 4 470
+For way: 5 425
+For way: 6 422
+For way: 7 490
+
+For set: 372
+For way: 0 436
+For way: 1 424
+For way: 2 362
+For way: 3 439
+For way: 4 395
+For way: 5 450
+For way: 6 460
+For way: 7 565
+
+For set: 373
+For way: 0 434
+For way: 1 324
+For way: 2 405
+For way: 3 482
+For way: 4 415
+For way: 5 376
+For way: 6 411
+For way: 7 513
+
+For set: 374
+For way: 0 503
+For way: 1 403
+For way: 2 373
+For way: 3 351
+For way: 4 393
+For way: 5 406
+For way: 6 528
+For way: 7 584
+
+For set: 375
+For way: 0 443
+For way: 1 524
+For way: 2 513
+For way: 3 346
+For way: 4 364
+For way: 5 349
+For way: 6 402
+For way: 7 411
+
+For set: 376
+For way: 0 374
+For way: 1 337
+For way: 2 430
+For way: 3 384
+For way: 4 457
+For way: 5 454
+For way: 6 497
+For way: 7 382
+
+For set: 377
+For way: 0 326
+For way: 1 383
+For way: 2 461
+For way: 3 482
+For way: 4 426
+For way: 5 386
+For way: 6 364
+For way: 7 409
+
+For set: 378
+For way: 0 443
+For way: 1 415
+For way: 2 362
+For way: 3 327
+For way: 4 337
+For way: 5 407
+For way: 6 411
+For way: 7 520
+
+For set: 379
+For way: 0 278
+For way: 1 321
+For way: 2 347
+For way: 3 523
+For way: 4 450
+For way: 5 489
+For way: 6 441
+For way: 7 476
+
+For set: 380
+For way: 0 343
+For way: 1 427
+For way: 2 428
+For way: 3 486
+For way: 4 460
+For way: 5 435
+For way: 6 381
+For way: 7 349
+
+For set: 381
+For way: 0 389
+For way: 1 435
+For way: 2 401
+For way: 3 323
+For way: 4 420
+For way: 5 494
+For way: 6 446
+For way: 7 384
+
+For set: 382
+For way: 0 459
+For way: 1 421
+For way: 2 324
+For way: 3 284
+For way: 4 376
+For way: 5 479
+For way: 6 447
+For way: 7 438
+
+For set: 383
+For way: 0 386
+For way: 1 431
+For way: 2 428
+For way: 3 380
+For way: 4 354
+For way: 5 388
+For way: 6 452
+For way: 7 416
+
+For set: 384
+For way: 0 321
+For way: 1 357
+For way: 2 360
+For way: 3 375
+For way: 4 399
+For way: 5 450
+For way: 6 508
+For way: 7 449
+
+For set: 385
+For way: 0 292
+For way: 1 416
+For way: 2 460
+For way: 3 449
+For way: 4 402
+For way: 5 384
+For way: 6 376
+For way: 7 379
+
+For set: 386
+For way: 0 428
+For way: 1 364
+For way: 2 440
+For way: 3 332
+For way: 4 361
+For way: 5 338
+For way: 6 475
+For way: 7 419
+
+For set: 387
+For way: 0 430
+For way: 1 454
+For way: 2 479
+For way: 3 312
+For way: 4 361
+For way: 5 342
+For way: 6 461
+For way: 7 469
+
+For set: 388
+For way: 0 317
+For way: 1 287
+For way: 2 362
+For way: 3 442
+For way: 4 566
+For way: 5 521
+For way: 6 462
+For way: 7 417
+
+For set: 389
+For way: 0 365
+For way: 1 421
+For way: 2 481
+For way: 3 377
+For way: 4 397
+For way: 5 386
+For way: 6 412
+For way: 7 386
+
+For set: 390
+For way: 0 329
+For way: 1 316
+For way: 2 381
+For way: 3 377
+For way: 4 423
+For way: 5 483
+For way: 6 500
+For way: 7 398
+
+For set: 391
+For way: 0 271
+For way: 1 259
+For way: 2 304
+For way: 3 493
+For way: 4 469
+For way: 5 480
+For way: 6 458
+For way: 7 418
+
+For set: 392
+For way: 0 426
+For way: 1 474
+For way: 2 482
+For way: 3 327
+For way: 4 285
+For way: 5 296
+For way: 6 414
+For way: 7 449
+
+For set: 393
+For way: 0 302
+For way: 1 424
+For way: 2 333
+For way: 3 390
+For way: 4 408
+For way: 5 520
+For way: 6 430
+For way: 7 372
+
+For set: 394
+For way: 0 434
+For way: 1 382
+For way: 2 381
+For way: 3 285
+For way: 4 329
+For way: 5 364
+For way: 6 517
+For way: 7 534
+
+For set: 395
+For way: 0 343
+For way: 1 289
+For way: 2 301
+For way: 3 409
+For way: 4 418
+For way: 5 498
+For way: 6 482
+For way: 7 491
+
+For set: 396
+For way: 0 514
+For way: 1 439
+For way: 2 472
+For way: 3 321
+For way: 4 298
+For way: 5 264
+For way: 6 418
+For way: 7 470
+
+For set: 397
+For way: 0 349
+For way: 1 335
+For way: 2 366
+For way: 3 373
+For way: 4 387
+For way: 5 408
+For way: 6 491
+For way: 7 432
+
+For set: 398
+For way: 0 524
+For way: 1 532
+For way: 2 413
+For way: 3 291
+For way: 4 236
+For way: 5 297
+For way: 6 413
+For way: 7 462
+
+For set: 399
+For way: 0 483
+For way: 1 273
+For way: 2 269
+For way: 3 289
+For way: 4 490
+For way: 5 438
+For way: 6 493
+For way: 7 463
+
+For set: 400
+For way: 0 379
+For way: 1 379
+For way: 2 378
+For way: 3 483
+For way: 4 448
+For way: 5 362
+For way: 6 324
+For way: 7 411
+
+For set: 401
+For way: 0 324
+For way: 1 353
+For way: 2 335
+For way: 3 486
+For way: 4 445
+For way: 5 438
+For way: 6 365
+For way: 7 409
+
+For set: 402
+For way: 0 332
+For way: 1 450
+For way: 2 426
+For way: 3 400
+For way: 4 398
+For way: 5 417
+For way: 6 389
+For way: 7 426
+
+For set: 403
+For way: 0 363
+For way: 1 301
+For way: 2 299
+For way: 3 431
+For way: 4 497
+For way: 5 502
+For way: 6 485
+For way: 7 542
+
+For set: 404
+For way: 0 305
+For way: 1 443
+For way: 2 502
+For way: 3 544
+For way: 4 446
+For way: 5 432
+For way: 6 309
+For way: 7 393
+
+For set: 405
+For way: 0 445
+For way: 1 374
+For way: 2 386
+For way: 3 349
+For way: 4 425
+For way: 5 370
+For way: 6 411
+For way: 7 437
+
+For set: 406
+For way: 0 393
+For way: 1 419
+For way: 2 355
+For way: 3 436
+For way: 4 433
+For way: 5 397
+For way: 6 423
+For way: 7 431
+
+For set: 407
+For way: 0 452
+For way: 1 492
+For way: 2 477
+For way: 3 276
+For way: 4 351
+For way: 5 359
+For way: 6 428
+For way: 7 426
+
+For set: 408
+For way: 0 310
+For way: 1 311
+For way: 2 302
+For way: 3 454
+For way: 4 494
+For way: 5 497
+For way: 6 455
+For way: 7 467
+
+For set: 409
+For way: 0 321
+For way: 1 374
+For way: 2 363
+For way: 3 429
+For way: 4 397
+For way: 5 406
+For way: 6 432
+For way: 7 492
+
+For set: 410
+For way: 0 257
+For way: 1 243
+For way: 2 355
+For way: 3 395
+For way: 4 446
+For way: 5 526
+For way: 6 542
+For way: 7 353
+
+For set: 411
+For way: 0 435
+For way: 1 420
+For way: 2 344
+For way: 3 343
+For way: 4 330
+For way: 5 393
+For way: 6 415
+For way: 7 484
+
+For set: 412
+For way: 0 314
+For way: 1 326
+For way: 2 278
+For way: 3 353
+For way: 4 429
+For way: 5 512
+For way: 6 506
+For way: 7 479
+
+For set: 413
+For way: 0 502
+For way: 1 440
+For way: 2 281
+For way: 3 309
+For way: 4 324
+For way: 5 426
+For way: 6 480
+For way: 7 497
+
+For set: 414
+For way: 0 422
+For way: 1 380
+For way: 2 398
+For way: 3 260
+For way: 4 329
+For way: 5 402
+For way: 6 551
+For way: 7 448
+
+For set: 415
+For way: 0 428
+For way: 1 389
+For way: 2 417
+For way: 3 339
+For way: 4 366
+For way: 5 372
+For way: 6 425
+For way: 7 437
+
+For set: 416
+For way: 0 420
+For way: 1 369
+For way: 2 370
+For way: 3 259
+For way: 4 334
+For way: 5 479
+For way: 6 563
+For way: 7 429
+
+For set: 417
+For way: 0 391
+For way: 1 403
+For way: 2 366
+For way: 3 357
+For way: 4 362
+For way: 5 335
+For way: 6 483
+For way: 7 467
+
+For set: 418
+For way: 0 391
+For way: 1 355
+For way: 2 403
+For way: 3 364
+For way: 4 399
+For way: 5 403
+For way: 6 456
+For way: 7 469
+
+For set: 419
+For way: 0 449
+For way: 1 447
+For way: 2 437
+For way: 3 399
+For way: 4 476
+For way: 5 399
+For way: 6 354
+For way: 7 413
+
+For set: 420
+For way: 0 461
+For way: 1 494
+For way: 2 497
+For way: 3 329
+For way: 4 358
+For way: 5 335
+For way: 6 449
+For way: 7 418
+
+For set: 421
+For way: 0 345
+For way: 1 381
+For way: 2 431
+For way: 3 395
+For way: 4 412
+For way: 5 427
+For way: 6 415
+For way: 7 439
+
+For set: 422
+For way: 0 339
+For way: 1 455
+For way: 2 418
+For way: 3 410
+For way: 4 436
+For way: 5 459
+For way: 6 370
+For way: 7 423
+
+For set: 423
+For way: 0 448
+For way: 1 542
+For way: 2 493
+For way: 3 373
+For way: 4 355
+For way: 5 342
+For way: 6 366
+For way: 7 344
+
+For set: 424
+For way: 0 240
+For way: 1 332
+For way: 2 445
+For way: 3 549
+For way: 4 511
+For way: 5 441
+For way: 6 378
+For way: 7 317
+
+For set: 425
+For way: 0 292
+For way: 1 360
+For way: 2 396
+For way: 3 441
+For way: 4 429
+For way: 5 428
+For way: 6 414
+For way: 7 456
+
+For set: 426
+For way: 0 316
+For way: 1 434
+For way: 2 483
+For way: 3 437
+For way: 4 418
+For way: 5 425
+For way: 6 382
+For way: 7 284
+
+For set: 427
+For way: 0 412
+For way: 1 417
+For way: 2 428
+For way: 3 410
+For way: 4 370
+For way: 5 331
+For way: 6 428
+For way: 7 436
+
+For set: 428
+For way: 0 408
+For way: 1 426
+For way: 2 411
+For way: 3 352
+For way: 4 375
+For way: 5 423
+For way: 6 475
+For way: 7 428
+
+For set: 429
+For way: 0 391
+For way: 1 330
+For way: 2 384
+For way: 3 348
+For way: 4 414
+For way: 5 401
+For way: 6 464
+For way: 7 458
+
+For set: 430
+For way: 0 401
+For way: 1 423
+For way: 2 452
+For way: 3 310
+For way: 4 278
+For way: 5 336
+For way: 6 516
+For way: 7 482
+
+For set: 431
+For way: 0 430
+For way: 1 501
+For way: 2 470
+For way: 3 326
+For way: 4 299
+For way: 5 330
+For way: 6 402
+For way: 7 430
+
+For set: 432
+For way: 0 356
+For way: 1 382
+For way: 2 430
+For way: 3 481
+For way: 4 372
+For way: 5 359
+For way: 6 386
+For way: 7 490
+
+For set: 433
+For way: 0 306
+For way: 1 336
+For way: 2 400
+For way: 3 532
+For way: 4 499
+For way: 5 410
+For way: 6 380
+For way: 7 349
+
+For set: 434
+For way: 0 263
+For way: 1 367
+For way: 2 410
+For way: 3 461
+For way: 4 538
+For way: 5 564
+For way: 6 388
+For way: 7 327
+
+For set: 435
+For way: 0 347
+For way: 1 431
+For way: 2 478
+For way: 3 361
+For way: 4 420
+For way: 5 520
+For way: 6 501
+For way: 7 348
+
+For set: 436
+For way: 0 418
+For way: 1 426
+For way: 2 436
+For way: 3 358
+For way: 4 333
+For way: 5 398
+For way: 6 537
+For way: 7 502
+
+For set: 437
+For way: 0 208
+For way: 1 367
+For way: 2 385
+For way: 3 478
+For way: 4 492
+For way: 5 514
+For way: 6 450
+For way: 7 389
+
+For set: 438
+For way: 0 427
+For way: 1 402
+For way: 2 414
+For way: 3 295
+For way: 4 415
+For way: 5 460
+For way: 6 515
+For way: 7 463
+
+For set: 439
+For way: 0 348
+For way: 1 493
+For way: 2 468
+For way: 3 465
+For way: 4 429
+For way: 5 392
+For way: 6 326
+For way: 7 351
+
+For set: 440
+For way: 0 309
+For way: 1 370
+For way: 2 436
+For way: 3 527
+For way: 4 456
+For way: 5 411
+For way: 6 339
+For way: 7 412
+
+For set: 441
+For way: 0 291
+For way: 1 292
+For way: 2 375
+For way: 3 478
+For way: 4 528
+For way: 5 485
+For way: 6 454
+For way: 7 332
+
+For set: 442
+For way: 0 360
+For way: 1 378
+For way: 2 381
+For way: 3 427
+For way: 4 462
+For way: 5 374
+For way: 6 434
+For way: 7 433
+
+For set: 443
+For way: 0 372
+For way: 1 477
+For way: 2 524
+For way: 3 365
+For way: 4 345
+For way: 5 405
+For way: 6 434
+For way: 7 365
+
+For set: 444
+For way: 0 479
+For way: 1 390
+For way: 2 401
+For way: 3 361
+For way: 4 367
+For way: 5 373
+For way: 6 400
+For way: 7 524
+
+For set: 445
+For way: 0 404
+For way: 1 396
+For way: 2 379
+For way: 3 445
+For way: 4 464
+For way: 5 386
+For way: 6 358
+For way: 7 451
+
+For set: 446
+For way: 0 334
+For way: 1 344
+For way: 2 342
+For way: 3 426
+For way: 4 388
+For way: 5 400
+For way: 6 482
+For way: 7 520
+
+For set: 447
+For way: 0 397
+For way: 1 391
+For way: 2 432
+For way: 3 406
+For way: 4 407
+For way: 5 411
+For way: 6 421
+For way: 7 431
+
+For set: 448
+For way: 0 337
+For way: 1 274
+For way: 2 309
+For way: 3 392
+For way: 4 375
+For way: 5 381
+For way: 6 458
+For way: 7 505
+
+For set: 449
+For way: 0 304
+For way: 1 274
+For way: 2 316
+For way: 3 392
+For way: 4 460
+For way: 5 473
+For way: 6 410
+For way: 7 341
+
+For set: 450
+For way: 0 409
+For way: 1 481
+For way: 2 452
+For way: 3 377
+For way: 4 271
+For way: 5 267
+For way: 6 382
+For way: 7 439
+
+For set: 451
+For way: 0 407
+For way: 1 431
+For way: 2 387
+For way: 3 348
+For way: 4 401
+For way: 5 409
+For way: 6 361
+For way: 7 359
+
+For set: 452
+For way: 0 353
+For way: 1 408
+For way: 2 369
+For way: 3 429
+For way: 4 392
+For way: 5 413
+For way: 6 378
+For way: 7 406
+
+For set: 453
+For way: 0 324
+For way: 1 341
+For way: 2 437
+For way: 3 451
+For way: 4 494
+For way: 5 415
+For way: 6 349
+For way: 7 295
+
+For set: 454
+For way: 0 278
+For way: 1 358
+For way: 2 445
+For way: 3 417
+For way: 4 417
+For way: 5 386
+For way: 6 421
+For way: 7 330
+
+For set: 455
+For way: 0 338
+For way: 1 429
+For way: 2 512
+For way: 3 406
+For way: 4 333
+For way: 5 343
+For way: 6 326
+For way: 7 329
+
+For set: 456
+For way: 0 523
+For way: 1 488
+For way: 2 316
+For way: 3 142
+For way: 4 175
+For way: 5 319
+For way: 6 487
+For way: 7 520
+
+For set: 457
+For way: 0 374
+For way: 1 382
+For way: 2 328
+For way: 3 283
+For way: 4 280
+For way: 5 341
+For way: 6 509
+For way: 7 458
+
+For set: 458
+For way: 0 449
+For way: 1 444
+For way: 2 431
+For way: 3 289
+For way: 4 350
+For way: 5 281
+For way: 6 356
+For way: 7 379
+
+For set: 459
+For way: 0 286
+For way: 1 198
+For way: 2 247
+For way: 3 420
+For way: 4 451
+For way: 5 458
+For way: 6 502
+For way: 7 468
+
+For set: 460
+For way: 0 333
+For way: 1 386
+For way: 2 360
+For way: 3 381
+For way: 4 417
+For way: 5 380
+For way: 6 384
+For way: 7 369
+
+For set: 461
+For way: 0 366
+For way: 1 388
+For way: 2 347
+For way: 3 363
+For way: 4 343
+For way: 5 339
+For way: 6 418
+For way: 7 403
+
+For set: 462
+For way: 0 368
+For way: 1 372
+For way: 2 228
+For way: 3 287
+For way: 4 310
+For way: 5 429
+For way: 6 494
+For way: 7 482
+
+For set: 463
+For way: 0 225
+For way: 1 258
+For way: 2 203
+For way: 3 470
+For way: 4 464
+For way: 5 459
+For way: 6 425
+For way: 7 465
+
+For set: 464
+For way: 0 350
+For way: 1 277
+For way: 2 210
+For way: 3 340
+For way: 4 376
+For way: 5 438
+For way: 6 483
+For way: 7 531
+
+For set: 465
+For way: 0 250
+For way: 1 306
+For way: 2 322
+For way: 3 432
+For way: 4 475
+For way: 5 414
+For way: 6 395
+For way: 7 368
+
+For set: 466
+For way: 0 340
+For way: 1 207
+For way: 2 240
+For way: 3 351
+For way: 4 469
+For way: 5 444
+For way: 6 453
+For way: 7 438
+
+For set: 467
+For way: 0 357
+For way: 1 386
+For way: 2 383
+For way: 3 454
+For way: 4 429
+For way: 5 439
+For way: 6 292
+For way: 7 412
+
+For set: 468
+For way: 0 484
+For way: 1 419
+For way: 2 451
+For way: 3 303
+For way: 4 282
+For way: 5 261
+For way: 6 442
+For way: 7 477
+
+For set: 469
+For way: 0 382
+For way: 1 338
+For way: 2 380
+For way: 3 314
+For way: 4 354
+For way: 5 351
+For way: 6 494
+For way: 7 467
+
+For set: 470
+For way: 0 331
+For way: 1 487
+For way: 2 444
+For way: 3 346
+For way: 4 352
+For way: 5 385
+For way: 6 385
+For way: 7 397
+
+For set: 471
+For way: 0 315
+For way: 1 345
+For way: 2 358
+For way: 3 375
+For way: 4 380
+For way: 5 396
+For way: 6 441
+For way: 7 430
+
+For set: 472
+For way: 0 432
+For way: 1 539
+For way: 2 515
+For way: 3 336
+For way: 4 280
+For way: 5 230
+For way: 6 298
+For way: 7 353
+
+For set: 473
+For way: 0 363
+For way: 1 316
+For way: 2 176
+For way: 3 298
+For way: 4 323
+For way: 5 476
+For way: 6 477
+For way: 7 506
+
+For set: 474
+For way: 0 465
+For way: 1 338
+For way: 2 328
+For way: 3 292
+For way: 4 444
+For way: 5 318
+For way: 6 423
+For way: 7 427
+
+For set: 475
+For way: 0 386
+For way: 1 402
+For way: 2 453
+For way: 3 310
+For way: 4 393
+For way: 5 353
+For way: 6 377
+For way: 7 320
+
+For set: 476
+For way: 0 366
+For way: 1 444
+For way: 2 377
+For way: 3 309
+For way: 4 365
+For way: 5 420
+For way: 6 368
+For way: 7 311
+
+For set: 477
+For way: 0 323
+For way: 1 457
+For way: 2 447
+For way: 3 406
+For way: 4 369
+For way: 5 420
+For way: 6 288
+For way: 7 291
+
+For set: 478
+For way: 0 347
+For way: 1 407
+For way: 2 363
+For way: 3 377
+For way: 4 438
+For way: 5 403
+For way: 6 300
+For way: 7 297
+
+For set: 479
+For way: 0 503
+For way: 1 310
+For way: 2 185
+For way: 3 150
+For way: 4 361
+For way: 5 475
+For way: 6 479
+For way: 7 510
+
+For set: 480
+For way: 0 411
+For way: 1 421
+For way: 2 449
+For way: 3 363
+For way: 4 355
+For way: 5 276
+For way: 6 368
+For way: 7 297
+
+For set: 481
+For way: 0 298
+For way: 1 354
+For way: 2 384
+For way: 3 411
+For way: 4 314
+For way: 5 352
+For way: 6 385
+For way: 7 404
+
+For set: 482
+For way: 0 315
+For way: 1 336
+For way: 2 319
+For way: 3 299
+For way: 4 318
+For way: 5 409
+For way: 6 498
+For way: 7 403
+
+For set: 483
+For way: 0 288
+For way: 1 419
+For way: 2 328
+For way: 3 462
+For way: 4 383
+For way: 5 478
+For way: 6 356
+For way: 7 382
+
+For set: 484
+For way: 0 300
+For way: 1 389
+For way: 2 407
+For way: 3 428
+For way: 4 440
+For way: 5 402
+For way: 6 404
+For way: 7 354
+
+For set: 485
+For way: 0 361
+For way: 1 367
+For way: 2 283
+For way: 3 309
+For way: 4 412
+For way: 5 522
+For way: 6 410
+For way: 7 356
+
+For set: 486
+For way: 0 337
+For way: 1 286
+For way: 2 321
+For way: 3 337
+For way: 4 410
+For way: 5 443
+For way: 6 503
+For way: 7 459
+
+For set: 487
+For way: 0 425
+For way: 1 436
+For way: 2 467
+For way: 3 299
+For way: 4 225
+For way: 5 288
+For way: 6 426
+For way: 7 440
+
+For set: 488
+For way: 0 312
+For way: 1 269
+For way: 2 256
+For way: 3 313
+For way: 4 423
+For way: 5 514
+For way: 6 478
+For way: 7 410
+
+For set: 489
+For way: 0 303
+For way: 1 285
+For way: 2 341
+For way: 3 433
+For way: 4 406
+For way: 5 408
+For way: 6 397
+For way: 7 388
+
+For set: 490
+For way: 0 399
+For way: 1 369
+For way: 2 374
+For way: 3 365
+For way: 4 309
+For way: 5 305
+For way: 6 415
+For way: 7 473
+
+For set: 491
+For way: 0 258
+For way: 1 320
+For way: 2 436
+For way: 3 398
+For way: 4 439
+For way: 5 479
+For way: 6 413
+For way: 7 246
+
+For set: 492
+For way: 0 330
+For way: 1 386
+For way: 2 373
+For way: 3 370
+For way: 4 339
+For way: 5 382
+For way: 6 386
+For way: 7 405
+
+For set: 493
+For way: 0 397
+For way: 1 367
+For way: 2 397
+For way: 3 416
+For way: 4 386
+For way: 5 286
+For way: 6 354
+For way: 7 412
+
+For set: 494
+For way: 0 299
+For way: 1 300
+For way: 2 285
+For way: 3 378
+For way: 4 417
+For way: 5 458
+For way: 6 476
+For way: 7 437
+
+For set: 495
+For way: 0 324
+For way: 1 459
+For way: 2 514
+For way: 3 331
+For way: 4 353
+For way: 5 330
+For way: 6 371
+For way: 7 309
+
+For set: 496
+For way: 0 355
+For way: 1 377
+For way: 2 382
+For way: 3 443
+For way: 4 399
+For way: 5 346
+For way: 6 370
+For way: 7 397
+
+For set: 497
+For way: 0 371
+For way: 1 378
+For way: 2 393
+For way: 3 404
+For way: 4 389
+For way: 5 316
+For way: 6 396
+For way: 7 397
+
+For set: 498
+For way: 0 364
+For way: 1 291
+For way: 2 298
+For way: 3 363
+For way: 4 388
+For way: 5 424
+For way: 6 453
+For way: 7 435
+
+For set: 499
+For way: 0 250
+For way: 1 232
+For way: 2 281
+For way: 3 465
+For way: 4 563
+For way: 5 533
+For way: 6 448
+For way: 7 430
+
+For set: 500
+For way: 0 417
+For way: 1 426
+For way: 2 427
+For way: 3 400
+For way: 4 445
+For way: 5 313
+For way: 6 377
+For way: 7 395
+
+For set: 501
+For way: 0 359
+For way: 1 425
+For way: 2 423
+For way: 3 502
+For way: 4 397
+For way: 5 300
+For way: 6 244
+For way: 7 386
+
+For set: 502
+For way: 0 390
+For way: 1 381
+For way: 2 412
+For way: 3 421
+For way: 4 361
+For way: 5 341
+For way: 6 378
+For way: 7 458
+
+For set: 503
+For way: 0 411
+For way: 1 406
+For way: 2 398
+For way: 3 335
+For way: 4 304
+For way: 5 267
+For way: 6 400
+For way: 7 463
+
+For set: 504
+For way: 0 333
+For way: 1 337
+For way: 2 302
+For way: 3 335
+For way: 4 297
+For way: 5 395
+For way: 6 491
+For way: 7 478
+
+For set: 505
+For way: 0 303
+For way: 1 268
+For way: 2 388
+For way: 3 427
+For way: 4 347
+For way: 5 365
+For way: 6 455
+For way: 7 423
+
+For set: 506
+For way: 0 437
+For way: 1 450
+For way: 2 384
+For way: 3 316
+For way: 4 221
+For way: 5 303
+For way: 6 394
+For way: 7 480
+
+For set: 507
+For way: 0 272
+For way: 1 340
+For way: 2 328
+For way: 3 402
+For way: 4 415
+For way: 5 454
+For way: 6 420
+For way: 7 389
+
+For set: 508
+For way: 0 439
+For way: 1 451
+For way: 2 331
+For way: 3 282
+For way: 4 224
+For way: 5 314
+For way: 6 434
+For way: 7 524
+
+For set: 509
+For way: 0 420
+For way: 1 374
+For way: 2 411
+For way: 3 357
+For way: 4 301
+For way: 5 290
+For way: 6 416
+For way: 7 441
+
+For set: 510
+For way: 0 397
+For way: 1 403
+For way: 2 405
+For way: 3 355
+For way: 4 292
+For way: 5 298
+For way: 6 411
+For way: 7 446
+
+For set: 511
+For way: 0 391
+For way: 1 418
+For way: 2 373
+For way: 3 312
+For way: 4 359
+For way: 5 388
+For way: 6 371
+For way: 7 366
+
+For set: 512
+For way: 0 443
+For way: 1 427
+For way: 2 366
+For way: 3 293
+For way: 4 314
+For way: 5 354
+For way: 6 480
+For way: 7 438
+
+For set: 513
+For way: 0 395
+For way: 1 475
+For way: 2 462
+For way: 3 397
+For way: 4 300
+For way: 5 289
+For way: 6 340
+For way: 7 432
+
+For set: 514
+For way: 0 422
+For way: 1 390
+For way: 2 396
+For way: 3 353
+For way: 4 388
+For way: 5 374
+For way: 6 381
+For way: 7 422
+
+For set: 515
+For way: 0 462
+For way: 1 453
+For way: 2 437
+For way: 3 377
+For way: 4 303
+For way: 5 324
+For way: 6 385
+For way: 7 520
+
+For set: 516
+For way: 0 455
+For way: 1 519
+For way: 2 469
+For way: 3 251
+For way: 4 272
+For way: 5 289
+For way: 6 459
+For way: 7 444
+
+For set: 517
+For way: 0 386
+For way: 1 288
+For way: 2 284
+For way: 3 301
+For way: 4 414
+For way: 5 483
+For way: 6 437
+For way: 7 436
+
+For set: 518
+For way: 0 288
+For way: 1 408
+For way: 2 443
+For way: 3 403
+For way: 4 422
+For way: 5 440
+For way: 6 375
+For way: 7 303
+
+For set: 519
+For way: 0 330
+For way: 1 347
+For way: 2 343
+For way: 3 379
+For way: 4 453
+For way: 5 424
+For way: 6 387
+For way: 7 348
+
+For set: 520
+For way: 0 348
+For way: 1 368
+For way: 2 299
+For way: 3 367
+For way: 4 377
+For way: 5 396
+For way: 6 383
+For way: 7 435
+
+For set: 521
+For way: 0 323
+For way: 1 374
+For way: 2 376
+For way: 3 331
+For way: 4 341
+For way: 5 346
+For way: 6 465
+For way: 7 415
+
+For set: 522
+For way: 0 348
+For way: 1 284
+For way: 2 316
+For way: 3 332
+For way: 4 363
+For way: 5 374
+For way: 6 458
+For way: 7 439
+
+For set: 523
+For way: 0 376
+For way: 1 290
+For way: 2 290
+For way: 3 320
+For way: 4 432
+For way: 5 395
+For way: 6 430
+For way: 7 472
+
+For set: 524
+For way: 0 458
+For way: 1 404
+For way: 2 364
+For way: 3 325
+For way: 4 260
+For way: 5 289
+For way: 6 376
+For way: 7 488
+
+For set: 525
+For way: 0 365
+For way: 1 381
+For way: 2 308
+For way: 3 312
+For way: 4 320
+For way: 5 403
+For way: 6 472
+For way: 7 462
+
+For set: 526
+For way: 0 288
+For way: 1 299
+For way: 2 301
+For way: 3 427
+For way: 4 423
+For way: 5 381
+For way: 6 420
+For way: 7 438
+
+For set: 527
+For way: 0 441
+For way: 1 336
+For way: 2 295
+For way: 3 319
+For way: 4 391
+For way: 5 360
+For way: 6 388
+For way: 7 407
+
+For set: 528
+For way: 0 376
+For way: 1 345
+For way: 2 256
+For way: 3 378
+For way: 4 302
+For way: 5 392
+For way: 6 419
+For way: 7 499
+
+For set: 529
+For way: 0 443
+For way: 1 398
+For way: 2 442
+For way: 3 273
+For way: 4 264
+For way: 5 263
+For way: 6 429
+For way: 7 474
+
+For set: 530
+For way: 0 306
+For way: 1 341
+For way: 2 355
+For way: 3 469
+For way: 4 479
+For way: 5 374
+For way: 6 357
+For way: 7 348
+
+For set: 531
+For way: 0 418
+For way: 1 375
+For way: 2 332
+For way: 3 401
+For way: 4 450
+For way: 5 414
+For way: 6 387
+For way: 7 379
+
+For set: 532
+For way: 0 472
+For way: 1 415
+For way: 2 382
+For way: 3 364
+For way: 4 440
+For way: 5 444
+For way: 6 444
+For way: 7 490
+
+For set: 533
+For way: 0 362
+For way: 1 386
+For way: 2 306
+For way: 3 360
+For way: 4 417
+For way: 5 454
+For way: 6 398
+For way: 7 371
+
+For set: 534
+For way: 0 287
+For way: 1 331
+For way: 2 326
+For way: 3 460
+For way: 4 428
+For way: 5 447
+For way: 6 352
+For way: 7 386
+
+For set: 535
+For way: 0 403
+For way: 1 418
+For way: 2 310
+For way: 3 315
+For way: 4 346
+For way: 5 422
+For way: 6 388
+For way: 7 410
+
+For set: 536
+For way: 0 451
+For way: 1 364
+For way: 2 345
+For way: 3 239
+For way: 4 339
+For way: 5 328
+For way: 6 429
+For way: 7 482
+
+For set: 537
+For way: 0 349
+For way: 1 267
+For way: 2 350
+For way: 3 401
+For way: 4 429
+For way: 5 420
+For way: 6 435
+For way: 7 373
+
+For set: 538
+For way: 0 415
+For way: 1 429
+For way: 2 474
+For way: 3 450
+For way: 4 396
+For way: 5 336
+For way: 6 381
+For way: 7 423
+
+For set: 539
+For way: 0 401
+For way: 1 341
+For way: 2 379
+For way: 3 323
+For way: 4 403
+For way: 5 345
+For way: 6 399
+For way: 7 350
+
+For set: 540
+For way: 0 331
+For way: 1 236
+For way: 2 370
+For way: 3 374
+For way: 4 476
+For way: 5 446
+For way: 6 428
+For way: 7 315
+
+For set: 541
+For way: 0 275
+For way: 1 269
+For way: 2 332
+For way: 3 382
+For way: 4 425
+For way: 5 419
+For way: 6 446
+For way: 7 396
+
+For set: 542
+For way: 0 348
+For way: 1 298
+For way: 2 307
+For way: 3 319
+For way: 4 378
+For way: 5 447
+For way: 6 447
+For way: 7 398
+
+For set: 543
+For way: 0 358
+For way: 1 342
+For way: 2 295
+For way: 3 354
+For way: 4 382
+For way: 5 402
+For way: 6 404
+For way: 7 372
+
+For set: 544
+For way: 0 342
+For way: 1 482
+For way: 2 449
+For way: 3 415
+For way: 4 448
+For way: 5 456
+For way: 6 346
+For way: 7 369
+
+For set: 545
+For way: 0 390
+For way: 1 311
+For way: 2 363
+For way: 3 420
+For way: 4 406
+For way: 5 355
+For way: 6 384
+For way: 7 374
+
+For set: 546
+For way: 0 198
+For way: 1 246
+For way: 2 269
+For way: 3 468
+For way: 4 458
+For way: 5 427
+For way: 6 422
+For way: 7 385
+
+For set: 547
+For way: 0 220
+For way: 1 216
+For way: 2 323
+For way: 3 478
+For way: 4 459
+For way: 5 480
+For way: 6 476
+For way: 7 403
+
+For set: 548
+For way: 0 361
+For way: 1 442
+For way: 2 390
+For way: 3 462
+For way: 4 424
+For way: 5 382
+For way: 6 300
+For way: 7 362
+
+For set: 549
+For way: 0 381
+For way: 1 382
+For way: 2 284
+For way: 3 347
+For way: 4 307
+For way: 5 393
+For way: 6 407
+For way: 7 471
+
+For set: 550
+For way: 0 346
+For way: 1 223
+For way: 2 325
+For way: 3 366
+For way: 4 438
+For way: 5 415
+For way: 6 499
+For way: 7 442
+
+For set: 551
+For way: 0 424
+For way: 1 373
+For way: 2 429
+For way: 3 418
+For way: 4 409
+For way: 5 346
+For way: 6 329
+For way: 7 334
+
+For set: 552
+For way: 0 448
+For way: 1 358
+For way: 2 321
+For way: 3 295
+For way: 4 322
+For way: 5 349
+For way: 6 459
+For way: 7 511
+
+For set: 553
+For way: 0 252
+For way: 1 241
+For way: 2 251
+For way: 3 378
+For way: 4 485
+For way: 5 480
+For way: 6 409
+For way: 7 379
+
+For set: 554
+For way: 0 253
+For way: 1 280
+For way: 2 366
+For way: 3 450
+For way: 4 445
+For way: 5 424
+For way: 6 382
+For way: 7 311
+
+For set: 555
+For way: 0 324
+For way: 1 426
+For way: 2 401
+For way: 3 326
+For way: 4 406
+For way: 5 405
+For way: 6 297
+For way: 7 331
+
+For set: 556
+For way: 0 371
+For way: 1 422
+For way: 2 485
+For way: 3 372
+For way: 4 308
+For way: 5 367
+For way: 6 458
+For way: 7 403
+
+For set: 557
+For way: 0 418
+For way: 1 340
+For way: 2 297
+For way: 3 335
+For way: 4 294
+For way: 5 351
+For way: 6 424
+For way: 7 508
+
+For set: 558
+For way: 0 269
+For way: 1 305
+For way: 2 337
+For way: 3 424
+For way: 4 399
+For way: 5 400
+For way: 6 368
+For way: 7 437
+
+For set: 559
+For way: 0 312
+For way: 1 329
+For way: 2 376
+For way: 3 412
+For way: 4 352
+For way: 5 333
+For way: 6 396
+For way: 7 448
+
+For set: 560
+For way: 0 331
+For way: 1 278
+For way: 2 352
+For way: 3 359
+For way: 4 405
+For way: 5 415
+For way: 6 470
+For way: 7 355
+
+For set: 561
+For way: 0 387
+For way: 1 411
+For way: 2 378
+For way: 3 345
+For way: 4 334
+For way: 5 351
+For way: 6 383
+For way: 7 391
+
+For set: 562
+For way: 0 378
+For way: 1 400
+For way: 2 382
+For way: 3 349
+For way: 4 392
+For way: 5 390
+For way: 6 365
+For way: 7 313
+
+For set: 563
+For way: 0 324
+For way: 1 450
+For way: 2 425
+For way: 3 378
+For way: 4 383
+For way: 5 422
+For way: 6 347
+For way: 7 337
+
+For set: 564
+For way: 0 352
+For way: 1 392
+For way: 2 347
+For way: 3 346
+For way: 4 379
+For way: 5 448
+For way: 6 413
+For way: 7 428
+
+For set: 565
+For way: 0 450
+For way: 1 376
+For way: 2 420
+For way: 3 269
+For way: 4 276
+For way: 5 282
+For way: 6 464
+For way: 7 476
+
+For set: 566
+For way: 0 390
+For way: 1 420
+For way: 2 344
+For way: 3 321
+For way: 4 298
+For way: 5 364
+For way: 6 461
+For way: 7 461
+
+For set: 567
+For way: 0 414
+For way: 1 422
+For way: 2 394
+For way: 3 271
+For way: 4 252
+For way: 5 355
+For way: 6 458
+For way: 7 451
+
+For set: 568
+For way: 0 362
+For way: 1 381
+For way: 2 300
+For way: 3 286
+For way: 4 303
+For way: 5 387
+For way: 6 464
+For way: 7 459
+
+For set: 569
+For way: 0 332
+For way: 1 377
+For way: 2 312
+For way: 3 375
+For way: 4 331
+For way: 5 380
+For way: 6 355
+For way: 7 442
+
+For set: 570
+For way: 0 249
+For way: 1 283
+For way: 2 313
+For way: 3 418
+For way: 4 452
+For way: 5 438
+For way: 6 387
+For way: 7 367
+
+For set: 571
+For way: 0 226
+For way: 1 197
+For way: 2 259
+For way: 3 450
+For way: 4 477
+For way: 5 492
+For way: 6 480
+For way: 7 408
+
+For set: 572
+For way: 0 271
+For way: 1 211
+For way: 2 190
+For way: 3 353
+For way: 4 483
+For way: 5 535
+For way: 6 474
+For way: 7 446
+
+For set: 573
+For way: 0 345
+For way: 1 472
+For way: 2 434
+For way: 3 473
+For way: 4 413
+For way: 5 337
+For way: 6 215
+For way: 7 283
+
+For set: 574
+For way: 0 428
+For way: 1 347
+For way: 2 318
+For way: 3 224
+For way: 4 308
+For way: 5 416
+For way: 6 486
+For way: 7 439
+
+For set: 575
+For way: 0 353
+For way: 1 369
+For way: 2 332
+For way: 3 349
+For way: 4 443
+For way: 5 476
+For way: 6 341
+For way: 7 321
+
+For set: 576
+For way: 0 354
+For way: 1 312
+For way: 2 338
+For way: 3 470
+For way: 4 449
+For way: 5 437
+For way: 6 451
+For way: 7 504
+
+For set: 577
+For way: 0 390
+For way: 1 413
+For way: 2 400
+For way: 3 426
+For way: 4 363
+For way: 5 365
+For way: 6 404
+For way: 7 494
+
+For set: 578
+For way: 0 437
+For way: 1 485
+For way: 2 479
+For way: 3 449
+For way: 4 403
+For way: 5 306
+For way: 6 309
+For way: 7 383
+
+For set: 579
+For way: 0 385
+For way: 1 422
+For way: 2 472
+For way: 3 417
+For way: 4 466
+For way: 5 509
+For way: 6 444
+For way: 7 386
+
+For set: 580
+For way: 0 432
+For way: 1 535
+For way: 2 509
+For way: 3 509
+For way: 4 427
+For way: 5 389
+For way: 6 320
+For way: 7 380
+
+For set: 581
+For way: 0 391
+For way: 1 422
+For way: 2 471
+For way: 3 445
+For way: 4 493
+For way: 5 461
+For way: 6 338
+For way: 7 377
+
+For set: 582
+For way: 0 298
+For way: 1 294
+For way: 2 287
+For way: 3 484
+For way: 4 503
+For way: 5 550
+For way: 6 472
+For way: 7 469
+
+For set: 583
+For way: 0 461
+For way: 1 498
+For way: 2 445
+For way: 3 460
+For way: 4 419
+For way: 5 315
+For way: 6 340
+For way: 7 419
+
+For set: 584
+For way: 0 317
+For way: 1 407
+For way: 2 512
+For way: 3 463
+For way: 4 442
+For way: 5 418
+For way: 6 416
+For way: 7 347
+
+For set: 585
+For way: 0 475
+For way: 1 430
+For way: 2 387
+For way: 3 392
+For way: 4 461
+For way: 5 388
+For way: 6 385
+For way: 7 378
+
+For set: 586
+For way: 0 392
+For way: 1 462
+For way: 2 437
+For way: 3 432
+For way: 4 384
+For way: 5 384
+For way: 6 395
+For way: 7 411
+
+For set: 587
+For way: 0 327
+For way: 1 378
+For way: 2 390
+For way: 3 484
+For way: 4 466
+For way: 5 451
+For way: 6 425
+For way: 7 423
+
+For set: 588
+For way: 0 516
+For way: 1 503
+For way: 2 398
+For way: 3 316
+For way: 4 297
+For way: 5 356
+For way: 6 433
+For way: 7 507
+
+For set: 589
+For way: 0 471
+For way: 1 368
+For way: 2 371
+For way: 3 314
+For way: 4 333
+For way: 5 369
+For way: 6 527
+For way: 7 580
+
+For set: 590
+For way: 0 448
+For way: 1 371
+For way: 2 416
+For way: 3 329
+For way: 4 336
+For way: 5 354
+For way: 6 514
+For way: 7 558
+
+For set: 591
+For way: 0 482
+For way: 1 418
+For way: 2 428
+For way: 3 310
+For way: 4 354
+For way: 5 384
+For way: 6 455
+For way: 7 468
+
+For set: 592
+For way: 0 471
+For way: 1 543
+For way: 2 489
+For way: 3 409
+For way: 4 373
+For way: 5 350
+For way: 6 274
+For way: 7 407
+
+For set: 593
+For way: 0 394
+For way: 1 470
+For way: 2 526
+For way: 3 362
+For way: 4 330
+For way: 5 363
+For way: 6 419
+For way: 7 364
+
+For set: 594
+For way: 0 340
+For way: 1 284
+For way: 2 347
+For way: 3 442
+For way: 4 436
+For way: 5 426
+For way: 6 524
+For way: 7 503
+
+For set: 595
+For way: 0 473
+For way: 1 482
+For way: 2 442
+For way: 3 417
+For way: 4 360
+For way: 5 353
+For way: 6 406
+For way: 7 500
+
+For set: 596
+For way: 0 411
+For way: 1 422
+For way: 2 536
+For way: 3 406
+For way: 4 461
+For way: 5 370
+For way: 6 497
+For way: 7 355
+
+For set: 597
+For way: 0 358
+For way: 1 367
+For way: 2 421
+For way: 3 421
+For way: 4 433
+For way: 5 421
+For way: 6 456
+For way: 7 434
+
+For set: 598
+For way: 0 377
+For way: 1 456
+For way: 2 427
+For way: 3 423
+For way: 4 461
+For way: 5 467
+For way: 6 409
+For way: 7 411
+
+For set: 599
+For way: 0 361
+For way: 1 374
+For way: 2 370
+For way: 3 459
+For way: 4 449
+For way: 5 469
+For way: 6 484
+For way: 7 455
+
+For set: 600
+For way: 0 428
+For way: 1 414
+For way: 2 424
+For way: 3 378
+For way: 4 365
+For way: 5 364
+For way: 6 483
+For way: 7 524
+
+For set: 601
+For way: 0 404
+For way: 1 414
+For way: 2 399
+For way: 3 413
+For way: 4 425
+For way: 5 434
+For way: 6 377
+For way: 7 396
+
+For set: 602
+For way: 0 272
+For way: 1 324
+For way: 2 351
+For way: 3 514
+For way: 4 487
+For way: 5 455
+For way: 6 452
+For way: 7 424
+
+For set: 603
+For way: 0 306
+For way: 1 341
+For way: 2 367
+For way: 3 411
+For way: 4 520
+For way: 5 490
+For way: 6 470
+For way: 7 417
+
+For set: 604
+For way: 0 399
+For way: 1 385
+For way: 2 389
+For way: 3 371
+For way: 4 460
+For way: 5 438
+For way: 6 479
+For way: 7 444
+
+For set: 605
+For way: 0 367
+For way: 1 512
+For way: 2 511
+For way: 3 436
+For way: 4 385
+For way: 5 439
+For way: 6 373
+For way: 7 352
+
+For set: 606
+For way: 0 321
+For way: 1 375
+For way: 2 463
+For way: 3 443
+For way: 4 432
+For way: 5 425
+For way: 6 466
+For way: 7 405
+
+For set: 607
+For way: 0 484
+For way: 1 500
+For way: 2 466
+For way: 3 346
+For way: 4 277
+For way: 5 303
+For way: 6 412
+For way: 7 520
+
+For set: 608
+For way: 0 460
+For way: 1 440
+For way: 2 447
+For way: 3 388
+For way: 4 336
+For way: 5 332
+For way: 6 415
+For way: 7 454
+
+For set: 609
+For way: 0 322
+For way: 1 341
+For way: 2 398
+For way: 3 480
+For way: 4 449
+For way: 5 409
+For way: 6 439
+For way: 7 438
+
+For set: 610
+For way: 0 427
+For way: 1 447
+For way: 2 552
+For way: 3 470
+For way: 4 478
+For way: 5 290
+For way: 6 360
+For way: 7 270
+
+For set: 611
+For way: 0 433
+For way: 1 479
+For way: 2 364
+For way: 3 429
+For way: 4 362
+For way: 5 429
+For way: 6 431
+For way: 7 531
+
+For set: 612
+For way: 0 414
+For way: 1 399
+For way: 2 359
+For way: 3 450
+For way: 4 360
+For way: 5 468
+For way: 6 482
+For way: 7 548
+
+For set: 613
+For way: 0 494
+For way: 1 566
+For way: 2 542
+For way: 3 411
+For way: 4 318
+For way: 5 282
+For way: 6 346
+For way: 7 474
+
+For set: 614
+For way: 0 375
+For way: 1 419
+For way: 2 369
+For way: 3 434
+For way: 4 424
+For way: 5 450
+For way: 6 471
+For way: 7 475
+
+For set: 615
+For way: 0 406
+For way: 1 453
+For way: 2 524
+For way: 3 410
+For way: 4 386
+For way: 5 393
+For way: 6 432
+For way: 7 351
+
+For set: 616
+For way: 0 476
+For way: 1 459
+For way: 2 432
+For way: 3 283
+For way: 4 336
+For way: 5 379
+For way: 6 470
+For way: 7 487
+
+For set: 617
+For way: 0 375
+For way: 1 403
+For way: 2 410
+For way: 3 399
+For way: 4 372
+For way: 5 397
+For way: 6 489
+For way: 7 481
+
+For set: 618
+For way: 0 439
+For way: 1 497
+For way: 2 411
+For way: 3 432
+For way: 4 390
+For way: 5 405
+For way: 6 374
+For way: 7 415
+
+For set: 619
+For way: 0 446
+For way: 1 375
+For way: 2 319
+For way: 3 386
+For way: 4 482
+For way: 5 438
+For way: 6 408
+For way: 7 448
+
+For set: 620
+For way: 0 485
+For way: 1 386
+For way: 2 432
+For way: 3 311
+For way: 4 394
+For way: 5 349
+For way: 6 497
+For way: 7 501
+
+For set: 621
+For way: 0 320
+For way: 1 396
+For way: 2 364
+For way: 3 488
+For way: 4 437
+For way: 5 473
+For way: 6 383
+For way: 7 430
+
+For set: 622
+For way: 0 280
+For way: 1 420
+For way: 2 425
+For way: 3 493
+For way: 4 481
+For way: 5 479
+For way: 6 353
+For way: 7 379
+
+For set: 623
+For way: 0 427
+For way: 1 549
+For way: 2 373
+For way: 3 372
+For way: 4 344
+For way: 5 518
+For way: 6 432
+For way: 7 389
+
+For set: 624
+For way: 0 290
+For way: 1 228
+For way: 2 239
+For way: 3 510
+For way: 4 570
+For way: 5 507
+For way: 6 522
+For way: 7 529
+
+For set: 625
+For way: 0 411
+For way: 1 428
+For way: 2 478
+For way: 3 419
+For way: 4 455
+For way: 5 399
+For way: 6 389
+For way: 7 367
+
+For set: 626
+For way: 0 316
+For way: 1 409
+For way: 2 368
+For way: 3 482
+For way: 4 425
+For way: 5 453
+For way: 6 429
+For way: 7 475
+
+For set: 627
+For way: 0 419
+For way: 1 445
+For way: 2 457
+For way: 3 513
+For way: 4 439
+For way: 5 386
+For way: 6 387
+For way: 7 404
+
+For set: 628
+For way: 0 422
+For way: 1 356
+For way: 2 500
+For way: 3 464
+For way: 4 458
+For way: 5 438
+For way: 6 476
+For way: 7 393
+
+For set: 629
+For way: 0 348
+For way: 1 420
+For way: 2 509
+For way: 3 463
+For way: 4 433
+For way: 5 434
+For way: 6 405
+For way: 7 399
+
+For set: 630
+For way: 0 392
+For way: 1 413
+For way: 2 397
+For way: 3 431
+For way: 4 489
+For way: 5 515
+For way: 6 362
+For way: 7 387
+
+For set: 631
+For way: 0 313
+For way: 1 333
+For way: 2 325
+For way: 3 481
+For way: 4 498
+For way: 5 502
+For way: 6 423
+For way: 7 494
+
+For set: 632
+For way: 0 308
+For way: 1 323
+For way: 2 398
+For way: 3 494
+For way: 4 513
+For way: 5 486
+For way: 6 400
+For way: 7 356
+
+For set: 633
+For way: 0 359
+For way: 1 417
+For way: 2 337
+For way: 3 387
+For way: 4 366
+For way: 5 412
+For way: 6 511
+For way: 7 519
+
+For set: 634
+For way: 0 368
+For way: 1 364
+For way: 2 324
+For way: 3 456
+For way: 4 484
+For way: 5 423
+For way: 6 426
+For way: 7 484
+
+For set: 635
+For way: 0 392
+For way: 1 433
+For way: 2 409
+For way: 3 402
+For way: 4 341
+For way: 5 348
+For way: 6 449
+For way: 7 523
+
+For set: 636
+For way: 0 509
+For way: 1 531
+For way: 2 526
+For way: 3 348
+For way: 4 273
+For way: 5 265
+For way: 6 382
+For way: 7 463
+
+For set: 637
+For way: 0 328
+For way: 1 483
+For way: 2 450
+For way: 3 434
+For way: 4 451
+For way: 5 428
+For way: 6 309
+For way: 7 346
+
+For set: 638
+For way: 0 396
+For way: 1 380
+For way: 2 432
+For way: 3 377
+For way: 4 409
+For way: 5 444
+For way: 6 409
+For way: 7 423
+
+For set: 639
+For way: 0 367
+For way: 1 358
+For way: 2 382
+For way: 3 399
+For way: 4 479
+For way: 5 436
+For way: 6 446
+For way: 7 350
+
+For set: 640
+For way: 0 518
+For way: 1 441
+For way: 2 387
+For way: 3 397
+For way: 4 368
+For way: 5 378
+For way: 6 334
+For way: 7 515
+
+For set: 641
+For way: 0 355
+For way: 1 429
+For way: 2 459
+For way: 3 414
+For way: 4 384
+For way: 5 434
+For way: 6 433
+For way: 7 389
+
+For set: 642
+For way: 0 484
+For way: 1 469
+For way: 2 430
+For way: 3 401
+For way: 4 419
+For way: 5 432
+For way: 6 466
+For way: 7 474
+
+For set: 643
+For way: 0 460
+For way: 1 419
+For way: 2 314
+For way: 3 392
+For way: 4 439
+For way: 5 475
+For way: 6 451
+For way: 7 520
+
+For set: 644
+For way: 0 404
+For way: 1 466
+For way: 2 452
+For way: 3 425
+For way: 4 372
+For way: 5 413
+For way: 6 484
+For way: 7 511
+
+For set: 645
+For way: 0 501
+For way: 1 393
+For way: 2 440
+For way: 3 366
+For way: 4 410
+For way: 5 401
+For way: 6 456
+For way: 7 410
+
+For set: 646
+For way: 0 438
+For way: 1 403
+For way: 2 370
+For way: 3 377
+For way: 4 433
+For way: 5 373
+For way: 6 436
+For way: 7 476
+
+For set: 647
+For way: 0 333
+For way: 1 414
+For way: 2 461
+For way: 3 489
+For way: 4 491
+For way: 5 456
+For way: 6 404
+For way: 7 297
+
+For set: 648
+For way: 0 317
+For way: 1 335
+For way: 2 449
+For way: 3 472
+For way: 4 504
+For way: 5 470
+For way: 6 429
+For way: 7 306
+
+For set: 649
+For way: 0 254
+For way: 1 262
+For way: 2 268
+For way: 3 466
+For way: 4 488
+For way: 5 504
+For way: 6 540
+For way: 7 505
+
+For set: 650
+For way: 0 336
+For way: 1 407
+For way: 2 426
+For way: 3 362
+For way: 4 336
+For way: 5 397
+For way: 6 488
+For way: 7 437
+
+For set: 651
+For way: 0 379
+For way: 1 318
+For way: 2 333
+For way: 3 415
+For way: 4 477
+For way: 5 451
+For way: 6 430
+For way: 7 448
+
+For set: 652
+For way: 0 425
+For way: 1 355
+For way: 2 400
+For way: 3 385
+For way: 4 451
+For way: 5 419
+For way: 6 464
+For way: 7 434
+
+For set: 653
+For way: 0 394
+For way: 1 312
+For way: 2 300
+For way: 3 375
+For way: 4 415
+For way: 5 443
+For way: 6 500
+For way: 7 534
+
+For set: 654
+For way: 0 498
+For way: 1 505
+For way: 2 503
+For way: 3 420
+For way: 4 440
+For way: 5 278
+For way: 6 319
+For way: 7 402
+
+For set: 655
+For way: 0 404
+For way: 1 354
+For way: 2 445
+For way: 3 399
+For way: 4 391
+For way: 5 374
+For way: 6 521
+For way: 7 478
+
+For set: 656
+For way: 0 422
+For way: 1 420
+For way: 2 496
+For way: 3 377
+For way: 4 337
+For way: 5 340
+For way: 6 480
+For way: 7 440
+
+For set: 657
+For way: 0 440
+For way: 1 473
+For way: 2 547
+For way: 3 323
+For way: 4 309
+For way: 5 272
+For way: 6 510
+For way: 7 444
+
+For set: 658
+For way: 0 362
+For way: 1 390
+For way: 2 399
+For way: 3 399
+For way: 4 401
+For way: 5 396
+For way: 6 476
+For way: 7 479
+
+For set: 659
+For way: 0 442
+For way: 1 412
+For way: 2 424
+For way: 3 409
+For way: 4 339
+For way: 5 337
+For way: 6 509
+For way: 7 547
+
+For set: 660
+For way: 0 406
+For way: 1 456
+For way: 2 441
+For way: 3 425
+For way: 4 493
+For way: 5 491
+For way: 6 398
+For way: 7 374
+
+For set: 661
+For way: 0 357
+For way: 1 474
+For way: 2 450
+For way: 3 432
+For way: 4 481
+For way: 5 485
+For way: 6 356
+For way: 7 401
+
+For set: 662
+For way: 0 319
+For way: 1 380
+For way: 2 447
+For way: 3 489
+For way: 4 498
+For way: 5 471
+For way: 6 397
+For way: 7 377
+
+For set: 663
+For way: 0 345
+For way: 1 416
+For way: 2 467
+For way: 3 523
+For way: 4 443
+For way: 5 447
+For way: 6 349
+For way: 7 405
+
+For set: 664
+For way: 0 371
+For way: 1 388
+For way: 2 459
+For way: 3 492
+For way: 4 398
+For way: 5 397
+For way: 6 414
+For way: 7 435
+
+For set: 665
+For way: 0 396
+For way: 1 361
+For way: 2 429
+For way: 3 308
+For way: 4 343
+For way: 5 393
+For way: 6 548
+For way: 7 443
+
+For set: 666
+For way: 0 431
+For way: 1 376
+For way: 2 319
+For way: 3 290
+For way: 4 408
+For way: 5 460
+For way: 6 475
+For way: 7 497
+
+For set: 667
+For way: 0 332
+For way: 1 306
+For way: 2 250
+For way: 3 422
+For way: 4 528
+For way: 5 562
+For way: 6 489
+For way: 7 475
+
+For set: 668
+For way: 0 414
+For way: 1 246
+For way: 2 238
+For way: 3 291
+For way: 4 474
+For way: 5 531
+For way: 6 583
+For way: 7 517
+
+For set: 669
+For way: 0 305
+For way: 1 317
+For way: 2 395
+For way: 3 542
+For way: 4 481
+For way: 5 463
+For way: 6 470
+For way: 7 432
+
+For set: 670
+For way: 0 305
+For way: 1 352
+For way: 2 281
+For way: 3 471
+For way: 4 482
+For way: 5 522
+For way: 6 503
+For way: 7 519
+
+For set: 671
+For way: 0 413
+For way: 1 376
+For way: 2 353
+For way: 3 392
+For way: 4 422
+For way: 5 471
+For way: 6 440
+For way: 7 470
+
+For set: 672
+For way: 0 395
+For way: 1 437
+For way: 2 387
+For way: 3 351
+For way: 4 385
+For way: 5 423
+For way: 6 479
+For way: 7 510
+
+For set: 673
+For way: 0 371
+For way: 1 478
+For way: 2 523
+For way: 3 548
+For way: 4 574
+For way: 5 440
+For way: 6 249
+For way: 7 275
+
+For set: 674
+For way: 0 400
+For way: 1 387
+For way: 2 412
+For way: 3 439
+For way: 4 422
+For way: 5 450
+For way: 6 426
+For way: 7 493
+
+For set: 675
+For way: 0 363
+For way: 1 441
+For way: 2 464
+For way: 3 509
+For way: 4 478
+For way: 5 452
+For way: 6 444
+For way: 7 464
+
+For set: 676
+For way: 0 437
+For way: 1 470
+For way: 2 451
+For way: 3 504
+For way: 4 569
+For way: 5 466
+For way: 6 312
+For way: 7 372
+
+For set: 677
+For way: 0 433
+For way: 1 325
+For way: 2 403
+For way: 3 376
+For way: 4 478
+For way: 5 445
+For way: 6 520
+For way: 7 456
+
+For set: 678
+For way: 0 474
+For way: 1 471
+For way: 2 497
+For way: 3 492
+For way: 4 471
+For way: 5 377
+For way: 6 379
+For way: 7 303
+
+For set: 679
+For way: 0 371
+For way: 1 348
+For way: 2 397
+For way: 3 449
+For way: 4 426
+For way: 5 383
+For way: 6 500
+For way: 7 504
+
+For set: 680
+For way: 0 350
+For way: 1 402
+For way: 2 494
+For way: 3 375
+For way: 4 388
+For way: 5 388
+For way: 6 479
+For way: 7 410
+
+For set: 681
+For way: 0 350
+For way: 1 321
+For way: 2 401
+For way: 3 396
+For way: 4 464
+For way: 5 468
+For way: 6 479
+For way: 7 454
+
+For set: 682
+For way: 0 376
+For way: 1 402
+For way: 2 406
+For way: 3 534
+For way: 4 496
+For way: 5 398
+For way: 6 336
+For way: 7 425
+
+For set: 683
+For way: 0 371
+For way: 1 277
+For way: 2 255
+For way: 3 328
+For way: 4 517
+For way: 5 597
+For way: 6 532
+For way: 7 490
+
+For set: 684
+For way: 0 313
+For way: 1 297
+For way: 2 349
+For way: 3 468
+For way: 4 450
+For way: 5 487
+For way: 6 509
+For way: 7 452
+
+For set: 685
+For way: 0 436
+For way: 1 482
+For way: 2 520
+For way: 3 433
+For way: 4 438
+For way: 5 380
+For way: 6 360
+For way: 7 368
+
+For set: 686
+For way: 0 395
+For way: 1 487
+For way: 2 518
+For way: 3 405
+For way: 4 338
+For way: 5 340
+For way: 6 406
+For way: 7 402
+
+For set: 687
+For way: 0 279
+For way: 1 307
+For way: 2 333
+For way: 3 478
+For way: 4 557
+For way: 5 556
+For way: 6 454
+For way: 7 414
+
+For set: 688
+For way: 0 276
+For way: 1 360
+For way: 2 419
+For way: 3 529
+For way: 4 487
+For way: 5 486
+For way: 6 414
+For way: 7 395
+
+For set: 689
+For way: 0 430
+For way: 1 443
+For way: 2 480
+For way: 3 338
+For way: 4 337
+For way: 5 340
+For way: 6 523
+For way: 7 432
+
+For set: 690
+For way: 0 391
+For way: 1 376
+For way: 2 343
+For way: 3 451
+For way: 4 477
+For way: 5 456
+For way: 6 440
+For way: 7 472
+
+For set: 691
+For way: 0 430
+For way: 1 368
+For way: 2 419
+For way: 3 456
+For way: 4 509
+For way: 5 431
+For way: 6 484
+For way: 7 439
+
+For set: 692
+For way: 0 377
+For way: 1 436
+For way: 2 443
+For way: 3 454
+For way: 4 450
+For way: 5 447
+For way: 6 446
+For way: 7 485
+
+For set: 693
+For way: 0 390
+For way: 1 342
+For way: 2 407
+For way: 3 366
+For way: 4 463
+For way: 5 481
+For way: 6 567
+For way: 7 477
+
+For set: 694
+For way: 0 371
+For way: 1 499
+For way: 2 428
+For way: 3 478
+For way: 4 437
+For way: 5 530
+For way: 6 398
+For way: 7 439
+
+For set: 695
+For way: 0 378
+For way: 1 452
+For way: 2 448
+For way: 3 427
+For way: 4 431
+For way: 5 451
+For way: 6 469
+For way: 7 426
+
+For set: 696
+For way: 0 395
+For way: 1 317
+For way: 2 349
+For way: 3 383
+For way: 4 541
+For way: 5 512
+For way: 6 440
+For way: 7 440
+
+For set: 697
+For way: 0 327
+For way: 1 406
+For way: 2 466
+For way: 3 495
+For way: 4 491
+For way: 5 413
+For way: 6 416
+For way: 7 391
+
+For set: 698
+For way: 0 288
+For way: 1 457
+For way: 2 466
+For way: 3 493
+For way: 4 485
+For way: 5 418
+For way: 6 383
+For way: 7 382
+
+For set: 699
+For way: 0 327
+For way: 1 348
+For way: 2 433
+For way: 3 469
+For way: 4 528
+For way: 5 441
+For way: 6 450
+For way: 7 378
+
+For set: 700
+For way: 0 376
+For way: 1 281
+For way: 2 303
+For way: 3 413
+For way: 4 535
+For way: 5 511
+For way: 6 475
+For way: 7 463
+
+For set: 701
+For way: 0 351
+For way: 1 469
+For way: 2 561
+For way: 3 484
+For way: 4 413
+For way: 5 382
+For way: 6 326
+For way: 7 337
+
+For set: 702
+For way: 0 303
+For way: 1 300
+For way: 2 370
+For way: 3 490
+For way: 4 464
+For way: 5 482
+For way: 6 530
+For way: 7 458
+
+For set: 703
+For way: 0 425
+For way: 1 502
+For way: 2 477
+For way: 3 484
+For way: 4 482
+For way: 5 347
+For way: 6 378
+For way: 7 358
+
+For set: 704
+For way: 0 479
+For way: 1 418
+For way: 2 366
+For way: 3 327
+For way: 4 446
+For way: 5 413
+For way: 6 382
+For way: 7 408
+
+For set: 705
+For way: 0 443
+For way: 1 493
+For way: 2 394
+For way: 3 268
+For way: 4 334
+For way: 5 430
+For way: 6 450
+For way: 7 436
+
+For set: 706
+For way: 0 300
+For way: 1 332
+For way: 2 326
+For way: 3 434
+For way: 4 417
+For way: 5 481
+For way: 6 491
+For way: 7 453
+
+For set: 707
+For way: 0 402
+For way: 1 419
+For way: 2 374
+For way: 3 406
+For way: 4 386
+For way: 5 462
+For way: 6 470
+For way: 7 510
+
+For set: 708
+For way: 0 386
+For way: 1 456
+For way: 2 343
+For way: 3 371
+For way: 4 387
+For way: 5 486
+For way: 6 446
+For way: 7 494
+
+For set: 709
+For way: 0 499
+For way: 1 318
+For way: 2 246
+For way: 3 279
+For way: 4 385
+For way: 5 519
+For way: 6 541
+For way: 7 579
+
+For set: 710
+For way: 0 356
+For way: 1 431
+For way: 2 430
+For way: 3 434
+For way: 4 471
+For way: 5 452
+For way: 6 430
+For way: 7 395
+
+For set: 711
+For way: 0 347
+For way: 1 450
+For way: 2 381
+For way: 3 387
+For way: 4 439
+For way: 5 531
+For way: 6 434
+For way: 7 404
+
+For set: 712
+For way: 0 427
+For way: 1 456
+For way: 2 350
+For way: 3 357
+For way: 4 348
+For way: 5 437
+For way: 6 394
+For way: 7 476
+
+For set: 713
+For way: 0 353
+For way: 1 289
+For way: 2 266
+For way: 3 380
+For way: 4 464
+For way: 5 511
+For way: 6 481
+For way: 7 484
+
+For set: 714
+For way: 0 304
+For way: 1 291
+For way: 2 252
+For way: 3 406
+For way: 4 423
+For way: 5 521
+For way: 6 554
+For way: 7 506
+
+For set: 715
+For way: 0 338
+For way: 1 356
+For way: 2 404
+For way: 3 435
+For way: 4 431
+For way: 5 513
+For way: 6 456
+For way: 7 346
+
+For set: 716
+For way: 0 273
+For way: 1 421
+For way: 2 526
+For way: 3 512
+For way: 4 460
+For way: 5 424
+For way: 6 338
+For way: 7 262
+
+For set: 717
+For way: 0 363
+For way: 1 365
+For way: 2 411
+For way: 3 396
+For way: 4 401
+For way: 5 434
+For way: 6 433
+For way: 7 431
+
+For set: 718
+For way: 0 472
+For way: 1 326
+For way: 2 367
+For way: 3 255
+For way: 4 450
+For way: 5 433
+For way: 6 469
+For way: 7 470
+
+For set: 719
+For way: 0 403
+For way: 1 497
+For way: 2 522
+For way: 3 387
+For way: 4 423
+For way: 5 378
+For way: 6 349
+For way: 7 361
+
+For set: 720
+For way: 0 539
+For way: 1 535
+For way: 2 464
+For way: 3 323
+For way: 4 261
+For way: 5 276
+For way: 6 405
+For way: 7 514
+
+For set: 721
+For way: 0 410
+For way: 1 497
+For way: 2 469
+For way: 3 385
+For way: 4 326
+For way: 5 391
+For way: 6 426
+For way: 7 396
+
+For set: 722
+For way: 0 304
+For way: 1 292
+For way: 2 217
+For way: 3 386
+For way: 4 476
+For way: 5 529
+For way: 6 517
+For way: 7 517
+
+For set: 723
+For way: 0 444
+For way: 1 422
+For way: 2 317
+For way: 3 426
+For way: 4 377
+For way: 5 450
+For way: 6 442
+For way: 7 535
+
+For set: 724
+For way: 0 500
+For way: 1 512
+For way: 2 396
+For way: 3 337
+For way: 4 399
+For way: 5 416
+For way: 6 418
+For way: 7 405
+
+For set: 725
+For way: 0 369
+For way: 1 361
+For way: 2 354
+For way: 3 475
+For way: 4 437
+For way: 5 464
+For way: 6 401
+For way: 7 494
+
+For set: 726
+For way: 0 339
+For way: 1 331
+For way: 2 332
+For way: 3 430
+For way: 4 429
+For way: 5 455
+For way: 6 548
+For way: 7 547
+
+For set: 727
+For way: 0 430
+For way: 1 346
+For way: 2 413
+For way: 3 404
+For way: 4 421
+For way: 5 449
+For way: 6 424
+For way: 7 435
+
+For set: 728
+For way: 0 361
+For way: 1 347
+For way: 2 265
+For way: 3 450
+For way: 4 479
+For way: 5 487
+For way: 6 429
+For way: 7 486
+
+For set: 729
+For way: 0 261
+For way: 1 374
+For way: 2 404
+For way: 3 479
+For way: 4 467
+For way: 5 557
+For way: 6 412
+For way: 7 323
+
+For set: 730
+For way: 0 437
+For way: 1 453
+For way: 2 470
+For way: 3 431
+For way: 4 386
+For way: 5 304
+For way: 6 386
+For way: 7 435
+
+For set: 731
+For way: 0 339
+For way: 1 375
+For way: 2 364
+For way: 3 378
+For way: 4 369
+For way: 5 405
+For way: 6 545
+For way: 7 528
+
+For set: 732
+For way: 0 280
+For way: 1 283
+For way: 2 279
+For way: 3 520
+For way: 4 452
+For way: 5 506
+For way: 6 478
+For way: 7 522
+
+For set: 733
+For way: 0 352
+For way: 1 460
+For way: 2 457
+For way: 3 457
+For way: 4 434
+For way: 5 432
+For way: 6 349
+For way: 7 315
+
+For set: 734
+For way: 0 418
+For way: 1 527
+For way: 2 526
+For way: 3 454
+For way: 4 328
+For way: 5 384
+For way: 6 356
+For way: 7 382
+
+For set: 735
+For way: 0 447
+For way: 1 454
+For way: 2 379
+For way: 3 317
+For way: 4 376
+For way: 5 406
+For way: 6 420
+For way: 7 455
+
+For set: 736
+For way: 0 351
+For way: 1 341
+For way: 2 297
+For way: 3 405
+For way: 4 430
+For way: 5 491
+For way: 6 527
+For way: 7 522
+
+For set: 737
+For way: 0 362
+For way: 1 389
+For way: 2 450
+For way: 3 449
+For way: 4 446
+For way: 5 350
+For way: 6 465
+For way: 7 405
+
+For set: 738
+For way: 0 500
+For way: 1 389
+For way: 2 366
+For way: 3 303
+For way: 4 374
+For way: 5 368
+For way: 6 439
+For way: 7 520
+
+For set: 739
+For way: 0 548
+For way: 1 546
+For way: 2 454
+For way: 3 420
+For way: 4 353
+For way: 5 371
+For way: 6 352
+For way: 7 425
+
+For set: 740
+For way: 0 460
+For way: 1 530
+For way: 2 520
+For way: 3 418
+For way: 4 374
+For way: 5 335
+For way: 6 384
+For way: 7 433
+
+For set: 741
+For way: 0 408
+For way: 1 413
+For way: 2 434
+For way: 3 423
+For way: 4 525
+For way: 5 457
+For way: 6 360
+For way: 7 330
+
+For set: 742
+For way: 0 374
+For way: 1 218
+For way: 2 320
+For way: 3 361
+For way: 4 492
+For way: 5 522
+For way: 6 575
+For way: 7 471
+
+For set: 743
+For way: 0 364
+For way: 1 426
+For way: 2 452
+For way: 3 485
+For way: 4 404
+For way: 5 354
+For way: 6 340
+For way: 7 422
+
+For set: 744
+For way: 0 471
+For way: 1 443
+For way: 2 419
+For way: 3 352
+For way: 4 361
+For way: 5 370
+For way: 6 401
+For way: 7 455
+
+For set: 745
+For way: 0 209
+For way: 1 272
+For way: 2 253
+For way: 3 490
+For way: 4 614
+For way: 5 601
+For way: 6 418
+For way: 7 427
+
+For set: 746
+For way: 0 322
+For way: 1 296
+For way: 2 403
+For way: 3 508
+For way: 4 495
+For way: 5 423
+For way: 6 456
+For way: 7 391
+
+For set: 747
+For way: 0 314
+For way: 1 354
+For way: 2 352
+For way: 3 437
+For way: 4 397
+For way: 5 425
+For way: 6 484
+For way: 7 441
+
+For set: 748
+For way: 0 373
+For way: 1 318
+For way: 2 280
+For way: 3 400
+For way: 4 440
+For way: 5 479
+For way: 6 503
+For way: 7 443
+
+For set: 749
+For way: 0 427
+For way: 1 431
+For way: 2 425
+For way: 3 453
+For way: 4 374
+For way: 5 345
+For way: 6 353
+For way: 7 480
+
+For set: 750
+For way: 0 330
+For way: 1 410
+For way: 2 346
+For way: 3 384
+For way: 4 399
+For way: 5 484
+For way: 6 438
+For way: 7 434
+
+For set: 751
+For way: 0 325
+For way: 1 295
+For way: 2 422
+For way: 3 514
+For way: 4 489
+For way: 5 445
+For way: 6 432
+For way: 7 382
+
+For set: 752
+For way: 0 425
+For way: 1 464
+For way: 2 413
+For way: 3 413
+For way: 4 435
+For way: 5 391
+For way: 6 355
+For way: 7 397
+
+For set: 753
+For way: 0 375
+For way: 1 177
+For way: 2 213
+For way: 3 322
+For way: 4 513
+For way: 5 534
+For way: 6 569
+For way: 7 521
+
+For set: 754
+For way: 0 453
+For way: 1 485
+For way: 2 372
+For way: 3 345
+For way: 4 384
+For way: 5 401
+For way: 6 353
+For way: 7 406
+
+For set: 755
+For way: 0 430
+For way: 1 376
+For way: 2 396
+For way: 3 449
+For way: 4 471
+For way: 5 425
+For way: 6 426
+For way: 7 462
+
+For set: 756
+For way: 0 242
+For way: 1 274
+For way: 2 348
+For way: 3 534
+For way: 4 540
+For way: 5 499
+For way: 6 502
+For way: 7 468
+
+For set: 757
+For way: 0 394
+For way: 1 418
+For way: 2 372
+For way: 3 353
+For way: 4 388
+For way: 5 467
+For way: 6 426
+For way: 7 437
+
+For set: 758
+For way: 0 394
+For way: 1 344
+For way: 2 343
+For way: 3 408
+For way: 4 427
+For way: 5 415
+For way: 6 458
+For way: 7 487
+
+For set: 759
+For way: 0 374
+For way: 1 449
+For way: 2 446
+For way: 3 442
+For way: 4 465
+For way: 5 369
+For way: 6 331
+For way: 7 356
+
+For set: 760
+For way: 0 327
+For way: 1 391
+For way: 2 434
+For way: 3 496
+For way: 4 513
+For way: 5 400
+For way: 6 359
+For way: 7 290
+
+For set: 761
+For way: 0 431
+For way: 1 366
+For way: 2 339
+For way: 3 324
+For way: 4 450
+For way: 5 449
+For way: 6 456
+For way: 7 417
+
+For set: 762
+For way: 0 332
+For way: 1 341
+For way: 2 387
+For way: 3 433
+For way: 4 400
+For way: 5 426
+For way: 6 438
+For way: 7 422
+
+For set: 763
+For way: 0 417
+For way: 1 447
+For way: 2 413
+For way: 3 408
+For way: 4 370
+For way: 5 372
+For way: 6 364
+For way: 7 367
+
+For set: 764
+For way: 0 335
+For way: 1 252
+For way: 2 379
+For way: 3 412
+For way: 4 453
+For way: 5 450
+For way: 6 480
+For way: 7 419
+
+For set: 765
+For way: 0 345
+For way: 1 249
+For way: 2 371
+For way: 3 378
+For way: 4 528
+For way: 5 509
+For way: 6 459
+For way: 7 360
+
+For set: 766
+For way: 0 293
+For way: 1 350
+For way: 2 393
+For way: 3 412
+For way: 4 504
+For way: 5 554
+For way: 6 428
+For way: 7 334
+
+For set: 767
+For way: 0 374
+For way: 1 353
+For way: 2 298
+For way: 3 376
+For way: 4 461
+For way: 5 491
+For way: 6 423
+For way: 7 420
+
+For set: 768
+For way: 0 509
+For way: 1 440
+For way: 2 421
+For way: 3 341
+For way: 4 415
+For way: 5 416
+For way: 6 520
+For way: 7 490
+
+For set: 769
+For way: 0 443
+For way: 1 378
+For way: 2 408
+For way: 3 446
+For way: 4 430
+For way: 5 420
+For way: 6 483
+For way: 7 515
+
+For set: 770
+For way: 0 426
+For way: 1 495
+For way: 2 560
+For way: 3 430
+For way: 4 346
+For way: 5 342
+For way: 6 445
+For way: 7 399
+
+For set: 771
+For way: 0 563
+For way: 1 511
+For way: 2 556
+For way: 3 483
+For way: 4 400
+For way: 5 339
+For way: 6 444
+For way: 7 526
+
+For set: 772
+For way: 0 521
+For way: 1 553
+For way: 2 486
+For way: 3 434
+For way: 4 326
+For way: 5 346
+For way: 6 522
+For way: 7 616
+
+For set: 773
+For way: 0 246
+For way: 1 371
+For way: 2 336
+For way: 3 503
+For way: 4 536
+For way: 5 653
+For way: 6 520
+For way: 7 439
+
+For set: 774
+For way: 0 403
+For way: 1 516
+For way: 2 610
+For way: 3 436
+For way: 4 378
+For way: 5 383
+For way: 6 444
+For way: 7 416
+
+For set: 775
+For way: 0 386
+For way: 1 337
+For way: 2 274
+For way: 3 462
+For way: 4 472
+For way: 5 530
+For way: 6 576
+For way: 7 570
+
+For set: 776
+For way: 0 334
+For way: 1 313
+For way: 2 268
+For way: 3 507
+For way: 4 534
+For way: 5 547
+For way: 6 500
+For way: 7 551
+
+For set: 777
+For way: 0 412
+For way: 1 490
+For way: 2 390
+For way: 3 387
+For way: 4 353
+For way: 5 479
+For way: 6 549
+For way: 7 527
+
+For set: 778
+For way: 0 310
+For way: 1 490
+For way: 2 489
+For way: 3 534
+For way: 4 521
+For way: 5 515
+For way: 6 365
+For way: 7 363
+
+For set: 779
+For way: 0 423
+For way: 1 295
+For way: 2 306
+For way: 3 379
+For way: 4 564
+For way: 5 555
+For way: 6 544
+For way: 7 542
+
+For set: 780
+For way: 0 348
+For way: 1 377
+For way: 2 360
+For way: 3 568
+For way: 4 502
+For way: 5 420
+For way: 6 437
+For way: 7 488
+
+For set: 781
+For way: 0 470
+For way: 1 482
+For way: 2 482
+For way: 3 487
+For way: 4 486
+For way: 5 421
+For way: 6 338
+For way: 7 378
+
+For set: 782
+For way: 0 376
+For way: 1 458
+For way: 2 426
+For way: 3 404
+For way: 4 447
+For way: 5 497
+For way: 6 455
+For way: 7 488
+
+For set: 783
+For way: 0 345
+For way: 1 396
+For way: 2 378
+For way: 3 534
+For way: 4 547
+For way: 5 511
+For way: 6 457
+For way: 7 402
+
+For set: 784
+For way: 0 357
+For way: 1 393
+For way: 2 466
+For way: 3 429
+For way: 4 482
+For way: 5 523
+For way: 6 531
+For way: 7 425
+
+For set: 785
+For way: 0 471
+For way: 1 483
+For way: 2 550
+For way: 3 357
+For way: 4 405
+For way: 5 394
+For way: 6 503
+For way: 7 415
+
+For set: 786
+For way: 0 462
+For way: 1 456
+For way: 2 437
+For way: 3 456
+For way: 4 495
+For way: 5 429
+For way: 6 462
+For way: 7 462
+
+For set: 787
+For way: 0 413
+For way: 1 403
+For way: 2 267
+For way: 3 501
+For way: 4 499
+For way: 5 569
+For way: 6 596
+For way: 7 597
+
+For set: 788
+For way: 0 456
+For way: 1 487
+For way: 2 460
+For way: 3 579
+For way: 4 539
+For way: 5 489
+For way: 6 414
+For way: 7 528
+
+For set: 789
+For way: 0 415
+For way: 1 450
+For way: 2 409
+For way: 3 405
+For way: 4 483
+For way: 5 510
+For way: 6 513
+For way: 7 465
+
+For set: 790
+For way: 0 462
+For way: 1 420
+For way: 2 452
+For way: 3 527
+For way: 4 459
+For way: 5 460
+For way: 6 445
+For way: 7 509
+
+For set: 791
+For way: 0 390
+For way: 1 308
+For way: 2 367
+For way: 3 490
+For way: 4 529
+For way: 5 576
+For way: 6 591
+For way: 7 462
+
+For set: 792
+For way: 0 359
+For way: 1 341
+For way: 2 381
+For way: 3 533
+For way: 4 492
+For way: 5 471
+For way: 6 535
+For way: 7 560
+
+For set: 793
+For way: 0 435
+For way: 1 584
+For way: 2 647
+For way: 3 487
+For way: 4 390
+For way: 5 330
+For way: 6 331
+For way: 7 368
+
+For set: 794
+For way: 0 580
+For way: 1 413
+For way: 2 426
+For way: 3 247
+For way: 4 361
+For way: 5 411
+For way: 6 607
+For way: 7 575
+
+For set: 795
+For way: 0 345
+For way: 1 394
+For way: 2 404
+For way: 3 445
+For way: 4 522
+For way: 5 552
+For way: 6 512
+For way: 7 465
+
+For set: 796
+For way: 0 478
+For way: 1 437
+For way: 2 475
+For way: 3 397
+For way: 4 426
+For way: 5 382
+For way: 6 524
+For way: 7 565
+
+For set: 797
+For way: 0 398
+For way: 1 474
+For way: 2 431
+For way: 3 530
+For way: 4 435
+For way: 5 426
+For way: 6 448
+For way: 7 515
+
+For set: 798
+For way: 0 404
+For way: 1 375
+For way: 2 364
+For way: 3 515
+For way: 4 551
+For way: 5 492
+For way: 6 501
+For way: 7 518
+
+For set: 799
+For way: 0 263
+For way: 1 373
+For way: 2 453
+For way: 3 512
+For way: 4 540
+For way: 5 566
+For way: 6 499
+For way: 7 373
+
+For set: 800
+For way: 0 398
+For way: 1 403
+For way: 2 464
+For way: 3 486
+For way: 4 427
+For way: 5 463
+For way: 6 487
+For way: 7 462
+
+For set: 801
+For way: 0 409
+For way: 1 472
+For way: 2 461
+For way: 3 451
+For way: 4 475
+For way: 5 489
+For way: 6 426
+For way: 7 462
+
+For set: 802
+For way: 0 454
+For way: 1 457
+For way: 2 428
+For way: 3 439
+For way: 4 423
+For way: 5 435
+For way: 6 464
+For way: 7 509
+
+For set: 803
+For way: 0 461
+For way: 1 551
+For way: 2 530
+For way: 3 509
+For way: 4 465
+For way: 5 466
+For way: 6 373
+For way: 7 464
+
+For set: 804
+For way: 0 504
+For way: 1 436
+For way: 2 492
+For way: 3 403
+For way: 4 495
+For way: 5 481
+For way: 6 527
+For way: 7 487
+
+For set: 805
+For way: 0 354
+For way: 1 354
+For way: 2 388
+For way: 3 463
+For way: 4 521
+For way: 5 610
+For way: 6 581
+For way: 7 433
+
+For set: 806
+For way: 0 382
+For way: 1 317
+For way: 2 266
+For way: 3 483
+For way: 4 500
+For way: 5 572
+For way: 6 620
+For way: 7 662
+
+For set: 807
+For way: 0 433
+For way: 1 432
+For way: 2 470
+For way: 3 546
+For way: 4 479
+For way: 5 375
+For way: 6 454
+For way: 7 514
+
+For set: 808
+For way: 0 488
+For way: 1 430
+For way: 2 372
+For way: 3 397
+For way: 4 484
+For way: 5 490
+For way: 6 472
+For way: 7 532
+
+For set: 809
+For way: 0 457
+For way: 1 360
+For way: 2 413
+For way: 3 415
+For way: 4 515
+For way: 5 489
+For way: 6 436
+For way: 7 492
+
+For set: 810
+For way: 0 368
+For way: 1 450
+For way: 2 531
+For way: 3 497
+For way: 4 424
+For way: 5 437
+For way: 6 473
+For way: 7 472
+
+For set: 811
+For way: 0 442
+For way: 1 523
+For way: 2 454
+For way: 3 440
+For way: 4 445
+For way: 5 498
+For way: 6 389
+For way: 7 431
+
+For set: 812
+For way: 0 494
+For way: 1 503
+For way: 2 508
+For way: 3 506
+For way: 4 416
+For way: 5 300
+For way: 6 379
+For way: 7 499
+
+For set: 813
+For way: 0 291
+For way: 1 322
+For way: 2 330
+For way: 3 523
+For way: 4 550
+For way: 5 585
+For way: 6 513
+For way: 7 483
+
+For set: 814
+For way: 0 415
+For way: 1 372
+For way: 2 309
+For way: 3 433
+For way: 4 530
+For way: 5 524
+For way: 6 495
+For way: 7 530
+
+For set: 815
+For way: 0 448
+For way: 1 385
+For way: 2 449
+For way: 3 545
+For way: 4 432
+For way: 5 423
+For way: 6 408
+For way: 7 547
+
+For set: 816
+For way: 0 594
+For way: 1 539
+For way: 2 510
+For way: 3 273
+For way: 4 286
+For way: 5 332
+For way: 6 563
+For way: 7 579
+
+For set: 817
+For way: 0 481
+For way: 1 548
+For way: 2 481
+For way: 3 372
+For way: 4 318
+For way: 5 408
+For way: 6 460
+For way: 7 495
+
+For set: 818
+For way: 0 414
+For way: 1 453
+For way: 2 335
+For way: 3 410
+For way: 4 386
+For way: 5 502
+For way: 6 503
+For way: 7 524
+
+For set: 819
+For way: 0 482
+For way: 1 468
+For way: 2 419
+For way: 3 343
+For way: 4 385
+For way: 5 471
+For way: 6 629
+For way: 7 603
+
+For set: 820
+For way: 0 425
+For way: 1 515
+For way: 2 569
+For way: 3 450
+For way: 4 458
+For way: 5 497
+For way: 6 519
+For way: 7 462
+
+For set: 821
+For way: 0 550
+For way: 1 421
+For way: 2 361
+For way: 3 388
+For way: 4 337
+For way: 5 387
+For way: 6 484
+For way: 7 666
+
+For set: 822
+For way: 0 308
+For way: 1 333
+For way: 2 372
+For way: 3 537
+For way: 4 604
+For way: 5 590
+For way: 6 485
+For way: 7 410
+
+For set: 823
+For way: 0 365
+For way: 1 548
+For way: 2 535
+For way: 3 579
+For way: 4 559
+For way: 5 449
+For way: 6 246
+For way: 7 328
+
+For set: 824
+For way: 0 379
+For way: 1 291
+For way: 2 222
+For way: 3 385
+For way: 4 477
+For way: 5 536
+For way: 6 592
+For way: 7 573
+
+For set: 825
+For way: 0 305
+For way: 1 318
+For way: 2 327
+For way: 3 448
+For way: 4 523
+For way: 5 575
+For way: 6 522
+For way: 7 454
+
+For set: 826
+For way: 0 338
+For way: 1 473
+For way: 2 552
+For way: 3 523
+For way: 4 415
+For way: 5 423
+For way: 6 359
+For way: 7 416
+
+For set: 827
+For way: 0 375
+For way: 1 365
+For way: 2 362
+For way: 3 466
+For way: 4 435
+For way: 5 505
+For way: 6 536
+For way: 7 489
+
+For set: 828
+For way: 0 507
+For way: 1 499
+For way: 2 371
+For way: 3 284
+For way: 4 340
+For way: 5 437
+For way: 6 531
+For way: 7 521
+
+For set: 829
+For way: 0 308
+For way: 1 326
+For way: 2 420
+For way: 3 516
+For way: 4 489
+For way: 5 501
+For way: 6 515
+For way: 7 436
+
+For set: 830
+For way: 0 516
+For way: 1 507
+For way: 2 470
+For way: 3 390
+For way: 4 429
+For way: 5 399
+For way: 6 430
+For way: 7 411
+
+For set: 831
+For way: 0 475
+For way: 1 470
+For way: 2 461
+For way: 3 332
+For way: 4 358
+For way: 5 387
+For way: 6 491
+For way: 7 524
+
+For set: 832
+For way: 0 423
+For way: 1 435
+For way: 2 473
+For way: 3 483
+For way: 4 558
+For way: 5 428
+For way: 6 372
+For way: 7 326
+
+For set: 833
+For way: 0 464
+For way: 1 457
+For way: 2 417
+For way: 3 350
+For way: 4 327
+For way: 5 445
+For way: 6 519
+For way: 7 504
+
+For set: 834
+For way: 0 524
+For way: 1 515
+For way: 2 468
+For way: 3 348
+For way: 4 360
+For way: 5 376
+For way: 6 466
+For way: 7 514
+
+For set: 835
+For way: 0 516
+For way: 1 614
+For way: 2 599
+For way: 3 525
+For way: 4 430
+For way: 5 382
+For way: 6 353
+For way: 7 433
+
+For set: 836
+For way: 0 388
+For way: 1 367
+For way: 2 452
+For way: 3 504
+For way: 4 525
+For way: 5 506
+For way: 6 536
+For way: 7 415
+
+For set: 837
+For way: 0 426
+For way: 1 441
+For way: 2 437
+For way: 3 465
+For way: 4 429
+For way: 5 441
+For way: 6 421
+For way: 7 465
+
+For set: 838
+For way: 0 347
+For way: 1 310
+For way: 2 342
+For way: 3 441
+For way: 4 535
+For way: 5 545
+For way: 6 522
+For way: 7 466
+
+For set: 839
+For way: 0 410
+For way: 1 409
+For way: 2 348
+For way: 3 394
+For way: 4 401
+For way: 5 461
+For way: 6 495
+For way: 7 505
+
+For set: 840
+For way: 0 288
+For way: 1 336
+For way: 2 421
+For way: 3 548
+For way: 4 539
+For way: 5 470
+For way: 6 429
+For way: 7 397
+
+For set: 841
+For way: 0 496
+For way: 1 499
+For way: 2 411
+For way: 3 288
+For way: 4 196
+For way: 5 322
+For way: 6 510
+For way: 7 578
+
+For set: 842
+For way: 0 393
+For way: 1 369
+For way: 2 377
+For way: 3 348
+For way: 4 414
+For way: 5 431
+For way: 6 478
+For way: 7 474
+
+For set: 843
+For way: 0 396
+For way: 1 462
+For way: 2 411
+For way: 3 373
+For way: 4 357
+For way: 5 448
+For way: 6 424
+For way: 7 398
+
+For set: 844
+For way: 0 492
+For way: 1 429
+For way: 2 331
+For way: 3 289
+For way: 4 293
+For way: 5 378
+For way: 6 472
+For way: 7 568
+
+For set: 845
+For way: 0 369
+For way: 1 249
+For way: 2 357
+For way: 3 384
+For way: 4 492
+For way: 5 528
+For way: 6 533
+For way: 7 420
+
+For set: 846
+For way: 0 413
+For way: 1 424
+For way: 2 382
+For way: 3 450
+For way: 4 330
+For way: 5 385
+For way: 6 367
+For way: 7 523
+
+For set: 847
+For way: 0 402
+For way: 1 377
+For way: 2 301
+For way: 3 322
+For way: 4 417
+For way: 5 516
+For way: 6 490
+For way: 7 481
+
+For set: 848
+For way: 0 348
+For way: 1 434
+For way: 2 426
+For way: 3 436
+For way: 4 389
+For way: 5 485
+For way: 6 440
+For way: 7 440
+
+For set: 849
+For way: 0 501
+For way: 1 425
+For way: 2 342
+For way: 3 326
+For way: 4 367
+For way: 5 413
+For way: 6 455
+For way: 7 539
+
+For set: 850
+For way: 0 302
+For way: 1 366
+For way: 2 396
+For way: 3 548
+For way: 4 473
+For way: 5 406
+For way: 6 414
+For way: 7 447
+
+For set: 851
+For way: 0 377
+For way: 1 420
+For way: 2 490
+For way: 3 471
+For way: 4 521
+For way: 5 404
+For way: 6 428
+For way: 7 369
+
+For set: 852
+For way: 0 500
+For way: 1 429
+For way: 2 415
+For way: 3 386
+For way: 4 443
+For way: 5 376
+For way: 6 514
+For way: 7 515
+
+For set: 853
+For way: 0 374
+For way: 1 345
+For way: 2 301
+For way: 3 514
+For way: 4 530
+For way: 5 459
+For way: 6 461
+For way: 7 486
+
+For set: 854
+For way: 0 369
+For way: 1 469
+For way: 2 516
+For way: 3 458
+For way: 4 430
+For way: 5 407
+For way: 6 445
+For way: 7 410
+
+For set: 855
+For way: 0 272
+For way: 1 249
+For way: 2 296
+For way: 3 502
+For way: 4 545
+For way: 5 515
+For way: 6 522
+For way: 7 492
+
+For set: 856
+For way: 0 481
+For way: 1 501
+For way: 2 459
+For way: 3 372
+For way: 4 397
+For way: 5 361
+For way: 6 361
+For way: 7 424
+
+For set: 857
+For way: 0 454
+For way: 1 458
+For way: 2 443
+For way: 3 384
+For way: 4 415
+For way: 5 371
+For way: 6 417
+For way: 7 432
+
+For set: 858
+For way: 0 342
+For way: 1 450
+For way: 2 518
+For way: 3 480
+For way: 4 441
+For way: 5 434
+For way: 6 298
+For way: 7 322
+
+For set: 859
+For way: 0 377
+For way: 1 411
+For way: 2 396
+For way: 3 437
+For way: 4 470
+For way: 5 479
+For way: 6 395
+For way: 7 421
+
+For set: 860
+For way: 0 466
+For way: 1 423
+For way: 2 369
+For way: 3 337
+For way: 4 305
+For way: 5 390
+For way: 6 467
+For way: 7 493
+
+For set: 861
+For way: 0 492
+For way: 1 448
+For way: 2 414
+For way: 3 293
+For way: 4 329
+For way: 5 362
+For way: 6 437
+For way: 7 433
+
+For set: 862
+For way: 0 382
+For way: 1 450
+For way: 2 490
+For way: 3 480
+For way: 4 384
+For way: 5 403
+For way: 6 316
+For way: 7 398
+
+For set: 863
+For way: 0 280
+For way: 1 314
+For way: 2 256
+For way: 3 523
+For way: 4 469
+For way: 5 469
+For way: 6 441
+For way: 7 517
+
+For set: 864
+For way: 0 340
+For way: 1 494
+For way: 2 501
+For way: 3 396
+For way: 4 363
+For way: 5 457
+For way: 6 405
+For way: 7 327
+
+For set: 865
+For way: 0 368
+For way: 1 408
+For way: 2 402
+For way: 3 471
+For way: 4 384
+For way: 5 448
+For way: 6 379
+For way: 7 407
+
+For set: 866
+For way: 0 282
+For way: 1 325
+For way: 2 430
+For way: 3 471
+For way: 4 456
+For way: 5 462
+For way: 6 510
+For way: 7 432
+
+For set: 867
+For way: 0 424
+For way: 1 379
+For way: 2 421
+For way: 3 439
+For way: 4 416
+For way: 5 539
+For way: 6 512
+For way: 7 430
+
+For set: 868
+For way: 0 343
+For way: 1 451
+For way: 2 493
+For way: 3 527
+For way: 4 455
+For way: 5 408
+For way: 6 417
+For way: 7 459
+
+For set: 869
+For way: 0 399
+For way: 1 438
+For way: 2 453
+For way: 3 481
+For way: 4 422
+For way: 5 417
+For way: 6 342
+For way: 7 407
+
+For set: 870
+For way: 0 436
+For way: 1 440
+For way: 2 386
+For way: 3 425
+For way: 4 418
+For way: 5 446
+For way: 6 432
+For way: 7 436
+
+For set: 871
+For way: 0 496
+For way: 1 457
+For way: 2 343
+For way: 3 408
+For way: 4 351
+For way: 5 370
+For way: 6 352
+For way: 7 496
+
+For set: 872
+For way: 0 341
+For way: 1 312
+For way: 2 342
+For way: 3 425
+For way: 4 539
+For way: 5 502
+For way: 6 432
+For way: 7 436
+
+For set: 873
+For way: 0 420
+For way: 1 501
+For way: 2 504
+For way: 3 426
+For way: 4 383
+For way: 5 313
+For way: 6 310
+For way: 7 429
+
+For set: 874
+For way: 0 410
+For way: 1 434
+For way: 2 348
+For way: 3 342
+For way: 4 375
+For way: 5 459
+For way: 6 443
+For way: 7 435
+
+For set: 875
+For way: 0 375
+For way: 1 340
+For way: 2 271
+For way: 3 413
+For way: 4 379
+For way: 5 430
+For way: 6 543
+For way: 7 591
+
+For set: 876
+For way: 0 478
+For way: 1 446
+For way: 2 385
+For way: 3 273
+For way: 4 331
+For way: 5 403
+For way: 6 491
+For way: 7 461
+
+For set: 877
+For way: 0 305
+For way: 1 265
+For way: 2 327
+For way: 3 477
+For way: 4 520
+For way: 5 473
+For way: 6 484
+For way: 7 432
+
+For set: 878
+For way: 0 405
+For way: 1 453
+For way: 2 330
+For way: 3 444
+For way: 4 326
+For way: 5 428
+For way: 6 393
+For way: 7 503
+
+For set: 879
+For way: 0 405
+For way: 1 447
+For way: 2 413
+For way: 3 420
+For way: 4 379
+For way: 5 401
+For way: 6 415
+For way: 7 409
+
+For set: 880
+For way: 0 441
+For way: 1 284
+For way: 2 319
+For way: 3 354
+For way: 4 530
+For way: 5 447
+For way: 6 501
+For way: 7 461
+
+For set: 881
+For way: 0 465
+For way: 1 438
+For way: 2 428
+For way: 3 365
+For way: 4 429
+For way: 5 331
+For way: 6 416
+For way: 7 440
+
+For set: 882
+For way: 0 340
+For way: 1 346
+For way: 2 369
+For way: 3 375
+For way: 4 394
+For way: 5 398
+For way: 6 517
+For way: 7 471
+
+For set: 883
+For way: 0 293
+For way: 1 475
+For way: 2 508
+For way: 3 450
+For way: 4 473
+For way: 5 548
+For way: 6 395
+For way: 7 289
+
+For set: 884
+For way: 0 433
+For way: 1 414
+For way: 2 449
+For way: 3 363
+For way: 4 408
+For way: 5 423
+For way: 6 510
+For way: 7 499
+
+For set: 885
+For way: 0 498
+For way: 1 368
+For way: 2 463
+For way: 3 361
+For way: 4 399
+For way: 5 347
+For way: 6 465
+For way: 7 489
+
+For set: 886
+For way: 0 444
+For way: 1 479
+For way: 2 525
+For way: 3 282
+For way: 4 307
+For way: 5 336
+For way: 6 513
+For way: 7 490
+
+For set: 887
+For way: 0 288
+For way: 1 309
+For way: 2 386
+For way: 3 482
+For way: 4 479
+For way: 5 486
+For way: 6 446
+For way: 7 386
+
+For set: 888
+For way: 0 437
+For way: 1 485
+For way: 2 423
+For way: 3 351
+For way: 4 262
+For way: 5 355
+For way: 6 394
+For way: 7 460
+
+For set: 889
+For way: 0 311
+For way: 1 480
+For way: 2 472
+For way: 3 436
+For way: 4 452
+For way: 5 470
+For way: 6 285
+For way: 7 301
+
+For set: 890
+For way: 0 354
+For way: 1 371
+For way: 2 382
+For way: 3 451
+For way: 4 394
+For way: 5 429
+For way: 6 397
+For way: 7 440
+
+For set: 891
+For way: 0 375
+For way: 1 380
+For way: 2 363
+For way: 3 448
+For way: 4 410
+For way: 5 345
+For way: 6 417
+For way: 7 414
+
+For set: 892
+For way: 0 329
+For way: 1 399
+For way: 2 397
+For way: 3 441
+For way: 4 384
+For way: 5 367
+For way: 6 381
+For way: 7 445
+
+For set: 893
+For way: 0 400
+For way: 1 421
+For way: 2 440
+For way: 3 384
+For way: 4 373
+For way: 5 370
+For way: 6 430
+For way: 7 368
+
+For set: 894
+For way: 0 399
+For way: 1 422
+For way: 2 415
+For way: 3 427
+For way: 4 349
+For way: 5 326
+For way: 6 398
+For way: 7 479
+
+For set: 895
+For way: 0 351
+For way: 1 543
+For way: 2 511
+For way: 3 391
+For way: 4 356
+For way: 5 392
+For way: 6 334
+For way: 7 339
+
+For set: 896
+For way: 0 344
+For way: 1 383
+For way: 2 376
+For way: 3 341
+For way: 4 328
+For way: 5 327
+For way: 6 407
+For way: 7 388
+
+For set: 897
+For way: 0 343
+For way: 1 388
+For way: 2 383
+For way: 3 382
+For way: 4 361
+For way: 5 386
+For way: 6 317
+For way: 7 400
+
+For set: 898
+For way: 0 350
+For way: 1 343
+For way: 2 324
+For way: 3 372
+For way: 4 305
+For way: 5 390
+For way: 6 478
+For way: 7 475
+
+For set: 899
+For way: 0 227
+For way: 1 301
+For way: 2 379
+For way: 3 522
+For way: 4 575
+For way: 5 557
+For way: 6 398
+For way: 7 344
+
+For set: 900
+For way: 0 461
+For way: 1 469
+For way: 2 442
+For way: 3 404
+For way: 4 371
+For way: 5 394
+For way: 6 341
+For way: 7 470
+
+For set: 901
+For way: 0 369
+For way: 1 335
+For way: 2 380
+For way: 3 392
+For way: 4 415
+For way: 5 366
+For way: 6 450
+For way: 7 394
+
+For set: 902
+For way: 0 331
+For way: 1 367
+For way: 2 294
+For way: 3 382
+For way: 4 423
+For way: 5 476
+For way: 6 448
+For way: 7 448
+
+For set: 903
+For way: 0 305
+For way: 1 340
+For way: 2 398
+For way: 3 448
+For way: 4 382
+For way: 5 398
+For way: 6 438
+For way: 7 413
+
+For set: 904
+For way: 0 271
+For way: 1 225
+For way: 2 288
+For way: 3 439
+For way: 4 482
+For way: 5 479
+For way: 6 458
+For way: 7 385
+
+For set: 905
+For way: 0 239
+For way: 1 352
+For way: 2 294
+For way: 3 437
+For way: 4 411
+For way: 5 460
+For way: 6 376
+For way: 7 402
+
+For set: 906
+For way: 0 319
+For way: 1 234
+For way: 2 204
+For way: 3 349
+For way: 4 457
+For way: 5 499
+For way: 6 516
+For way: 7 482
+
+For set: 907
+For way: 0 321
+For way: 1 349
+For way: 2 380
+For way: 3 443
+For way: 4 409
+For way: 5 386
+For way: 6 399
+For way: 7 400
+
+For set: 908
+For way: 0 395
+For way: 1 420
+For way: 2 367
+For way: 3 335
+For way: 4 342
+For way: 5 365
+For way: 6 422
+For way: 7 407
+
+For set: 909
+For way: 0 342
+For way: 1 313
+For way: 2 348
+For way: 3 337
+For way: 4 373
+For way: 5 427
+For way: 6 437
+For way: 7 391
+
+For set: 910
+For way: 0 364
+For way: 1 408
+For way: 2 486
+For way: 3 328
+For way: 4 334
+For way: 5 329
+For way: 6 414
+For way: 7 368
+
+For set: 911
+For way: 0 213
+For way: 1 333
+For way: 2 321
+For way: 3 491
+For way: 4 475
+For way: 5 464
+For way: 6 325
+For way: 7 360
+
+For set: 912
+For way: 0 294
+For way: 1 393
+For way: 2 396
+For way: 3 417
+For way: 4 376
+For way: 5 397
+For way: 6 356
+For way: 7 333
+
+For set: 913
+For way: 0 197
+For way: 1 188
+For way: 2 285
+For way: 3 454
+For way: 4 474
+For way: 5 490
+For way: 6 465
+For way: 7 381
+
+For set: 914
+For way: 0 354
+For way: 1 372
+For way: 2 346
+For way: 3 347
+For way: 4 334
+For way: 5 376
+For way: 6 446
+For way: 7 413
+
+For set: 915
+For way: 0 366
+For way: 1 378
+For way: 2 409
+For way: 3 342
+For way: 4 407
+For way: 5 415
+For way: 6 431
+For way: 7 403
+
+For set: 916
+For way: 0 383
+For way: 1 240
+For way: 2 197
+For way: 3 362
+For way: 4 475
+For way: 5 508
+For way: 6 474
+For way: 7 522
+
+For set: 917
+For way: 0 421
+For way: 1 387
+For way: 2 361
+For way: 3 309
+For way: 4 352
+For way: 5 443
+For way: 6 458
+For way: 7 433
+
+For set: 918
+For way: 0 381
+For way: 1 469
+For way: 2 430
+For way: 3 330
+For way: 4 316
+For way: 5 374
+For way: 6 412
+For way: 7 425
+
+For set: 919
+For way: 0 295
+For way: 1 405
+For way: 2 418
+For way: 3 371
+For way: 4 413
+For way: 5 406
+For way: 6 365
+For way: 7 375
+
+For set: 920
+For way: 0 435
+For way: 1 401
+For way: 2 385
+For way: 3 249
+For way: 4 276
+For way: 5 298
+For way: 6 446
+For way: 7 477
+
+For set: 921
+For way: 0 425
+For way: 1 431
+For way: 2 422
+For way: 3 286
+For way: 4 339
+For way: 5 325
+For way: 6 378
+For way: 7 391
+
+For set: 922
+For way: 0 333
+For way: 1 274
+For way: 2 239
+For way: 3 379
+For way: 4 414
+For way: 5 447
+For way: 6 436
+For way: 7 462
+
+For set: 923
+For way: 0 347
+For way: 1 373
+For way: 2 365
+For way: 3 390
+For way: 4 403
+For way: 5 374
+For way: 6 399
+For way: 7 354
+
+For set: 924
+For way: 0 398
+For way: 1 408
+For way: 2 404
+For way: 3 359
+For way: 4 338
+For way: 5 275
+For way: 6 409
+For way: 7 430
+
+For set: 925
+For way: 0 382
+For way: 1 412
+For way: 2 440
+For way: 3 301
+For way: 4 336
+For way: 5 290
+For way: 6 415
+For way: 7 366
+
+For set: 926
+For way: 0 291
+For way: 1 209
+For way: 2 201
+For way: 3 366
+For way: 4 427
+For way: 5 442
+For way: 6 501
+For way: 7 524
+
+For set: 927
+For way: 0 296
+For way: 1 300
+For way: 2 418
+For way: 3 454
+For way: 4 420
+For way: 5 398
+For way: 6 345
+For way: 7 313
+
+For set: 928
+For way: 0 408
+For way: 1 355
+For way: 2 234
+For way: 3 256
+For way: 4 300
+For way: 5 480
+For way: 6 489
+For way: 7 411
+
+For set: 929
+For way: 0 327
+For way: 1 392
+For way: 2 414
+For way: 3 403
+For way: 4 313
+For way: 5 341
+For way: 6 341
+For way: 7 360
+
+For set: 930
+For way: 0 311
+For way: 1 376
+For way: 2 444
+For way: 3 420
+For way: 4 421
+For way: 5 356
+For way: 6 361
+For way: 7 307
+
+For set: 931
+For way: 0 501
+For way: 1 507
+For way: 2 417
+For way: 3 240
+For way: 4 184
+For way: 5 307
+For way: 6 499
+For way: 7 523
+
+For set: 932
+For way: 0 372
+For way: 1 367
+For way: 2 327
+For way: 3 414
+For way: 4 490
+For way: 5 461
+For way: 6 429
+For way: 7 431
+
+For set: 933
+For way: 0 345
+For way: 1 401
+For way: 2 431
+For way: 3 437
+For way: 4 367
+For way: 5 407
+For way: 6 359
+For way: 7 359
+
+For set: 934
+For way: 0 406
+For way: 1 374
+For way: 2 321
+For way: 3 285
+For way: 4 375
+For way: 5 415
+For way: 6 496
+For way: 7 501
+
+For set: 935
+For way: 0 429
+For way: 1 398
+For way: 2 374
+For way: 3 272
+For way: 4 302
+For way: 5 339
+For way: 6 501
+For way: 7 441
+
+For set: 936
+For way: 0 445
+For way: 1 420
+For way: 2 435
+For way: 3 251
+For way: 4 203
+For way: 5 276
+For way: 6 479
+For way: 7 453
+
+For set: 937
+For way: 0 272
+For way: 1 371
+For way: 2 371
+For way: 3 401
+For way: 4 489
+For way: 5 475
+For way: 6 330
+For way: 7 347
+
+For set: 938
+For way: 0 453
+For way: 1 390
+For way: 2 256
+For way: 3 234
+For way: 4 312
+For way: 5 437
+For way: 6 417
+For way: 7 450
+
+For set: 939
+For way: 0 325
+For way: 1 356
+For way: 2 309
+For way: 3 379
+For way: 4 335
+For way: 5 385
+For way: 6 421
+For way: 7 449
+
+For set: 940
+For way: 0 277
+For way: 1 284
+For way: 2 350
+For way: 3 407
+For way: 4 418
+For way: 5 440
+For way: 6 474
+For way: 7 423
+
+For set: 941
+For way: 0 397
+For way: 1 317
+For way: 2 367
+For way: 3 432
+For way: 4 382
+For way: 5 365
+For way: 6 379
+For way: 7 438
+
+For set: 942
+For way: 0 282
+For way: 1 292
+For way: 2 264
+For way: 3 410
+For way: 4 361
+For way: 5 466
+For way: 6 459
+For way: 7 430
+
+For set: 943
+For way: 0 366
+For way: 1 323
+For way: 2 296
+For way: 3 399
+For way: 4 415
+For way: 5 365
+For way: 6 407
+For way: 7 419
+
+For set: 944
+For way: 0 359
+For way: 1 290
+For way: 2 278
+For way: 3 399
+For way: 4 405
+For way: 5 393
+For way: 6 419
+For way: 7 472
+
+For set: 945
+For way: 0 407
+For way: 1 381
+For way: 2 420
+For way: 3 296
+For way: 4 320
+For way: 5 297
+For way: 6 453
+For way: 7 453
+
+For set: 946
+For way: 0 313
+For way: 1 461
+For way: 2 428
+For way: 3 375
+For way: 4 382
+For way: 5 407
+For way: 6 319
+For way: 7 324
+
+For set: 947
+For way: 0 478
+For way: 1 438
+For way: 2 399
+For way: 3 223
+For way: 4 314
+For way: 5 371
+For way: 6 518
+For way: 7 503
+
+For set: 948
+For way: 0 390
+For way: 1 413
+For way: 2 385
+For way: 3 325
+For way: 4 328
+For way: 5 395
+For way: 6 471
+For way: 7 456
+
+For set: 949
+For way: 0 371
+For way: 1 419
+For way: 2 418
+For way: 3 367
+For way: 4 387
+For way: 5 394
+For way: 6 359
+For way: 7 387
+
+For set: 950
+For way: 0 488
+For way: 1 475
+For way: 2 286
+For way: 3 171
+For way: 4 215
+For way: 5 449
+For way: 6 496
+For way: 7 496
+
+For set: 951
+For way: 0 434
+For way: 1 380
+For way: 2 391
+For way: 3 289
+For way: 4 367
+For way: 5 329
+For way: 6 432
+For way: 7 462
+
+For set: 952
+For way: 0 382
+For way: 1 351
+For way: 2 274
+For way: 3 275
+For way: 4 392
+For way: 5 489
+For way: 6 399
+For way: 7 399
+
+For set: 953
+For way: 0 317
+For way: 1 345
+For way: 2 341
+For way: 3 353
+For way: 4 379
+For way: 5 398
+For way: 6 367
+For way: 7 368
+
+For set: 954
+For way: 0 346
+For way: 1 404
+For way: 2 359
+For way: 3 402
+For way: 4 320
+For way: 5 338
+For way: 6 349
+For way: 7 437
+
+For set: 955
+For way: 0 237
+For way: 1 331
+For way: 2 404
+For way: 3 379
+For way: 4 414
+For way: 5 392
+For way: 6 412
+For way: 7 335
+
+For set: 956
+For way: 0 216
+For way: 1 379
+For way: 2 453
+For way: 3 434
+For way: 4 456
+For way: 5 488
+For way: 6 348
+For way: 7 195
+
+For set: 957
+For way: 0 402
+For way: 1 434
+For way: 2 436
+For way: 3 321
+For way: 4 271
+For way: 5 340
+For way: 6 391
+For way: 7 444
+
+For set: 958
+For way: 0 463
+For way: 1 477
+For way: 2 383
+For way: 3 228
+For way: 4 235
+For way: 5 325
+For way: 6 427
+For way: 7 468
+
+For set: 959
+For way: 0 364
+For way: 1 327
+For way: 2 367
+For way: 3 359
+For way: 4 339
+For way: 5 360
+For way: 6 486
+For way: 7 450
+
+For set: 960
+For way: 0 416
+For way: 1 440
+For way: 2 482
+For way: 3 468
+For way: 4 439
+For way: 5 330
+For way: 6 352
+For way: 7 353
+
+For set: 961
+For way: 0 381
+For way: 1 261
+For way: 2 346
+For way: 3 339
+For way: 4 469
+For way: 5 470
+For way: 6 471
+For way: 7 464
+
+For set: 962
+For way: 0 166
+For way: 1 351
+For way: 2 378
+For way: 3 508
+For way: 4 518
+For way: 5 513
+For way: 6 394
+For way: 7 339
+
+For set: 963
+For way: 0 328
+For way: 1 402
+For way: 2 465
+For way: 3 504
+For way: 4 507
+For way: 5 512
+For way: 6 492
+For way: 7 408
+
+For set: 964
+For way: 0 428
+For way: 1 433
+For way: 2 442
+For way: 3 460
+For way: 4 458
+For way: 5 430
+For way: 6 484
+For way: 7 495
+
+For set: 965
+For way: 0 296
+For way: 1 297
+For way: 2 321
+For way: 3 509
+For way: 4 550
+For way: 5 467
+For way: 6 513
+For way: 7 466
+
+For set: 966
+For way: 0 430
+For way: 1 453
+For way: 2 517
+For way: 3 415
+For way: 4 372
+For way: 5 345
+For way: 6 424
+For way: 7 431
+
+For set: 967
+For way: 0 437
+For way: 1 480
+For way: 2 486
+For way: 3 460
+For way: 4 450
+For way: 5 384
+For way: 6 329
+For way: 7 343
+
+For set: 968
+For way: 0 439
+For way: 1 486
+For way: 2 315
+For way: 3 354
+For way: 4 342
+For way: 5 467
+For way: 6 447
+For way: 7 472
+
+For set: 969
+For way: 0 370
+For way: 1 350
+For way: 2 345
+For way: 3 410
+For way: 4 429
+For way: 5 391
+For way: 6 482
+For way: 7 487
+
+For set: 970
+For way: 0 464
+For way: 1 452
+For way: 2 459
+For way: 3 479
+For way: 4 370
+For way: 5 210
+For way: 6 340
+For way: 7 455
+
+For set: 971
+For way: 0 276
+For way: 1 254
+For way: 2 307
+For way: 3 417
+For way: 4 510
+For way: 5 528
+For way: 6 526
+For way: 7 434
+
+For set: 972
+For way: 0 396
+For way: 1 389
+For way: 2 397
+For way: 3 341
+For way: 4 381
+For way: 5 380
+For way: 6 453
+For way: 7 448
+
+For set: 973
+For way: 0 435
+For way: 1 432
+For way: 2 441
+For way: 3 384
+For way: 4 405
+For way: 5 384
+For way: 6 358
+For way: 7 379
+
+For set: 974
+For way: 0 461
+For way: 1 465
+For way: 2 316
+For way: 3 249
+For way: 4 303
+For way: 5 471
+For way: 6 504
+For way: 7 461
+
+For set: 975
+For way: 0 384
+For way: 1 468
+For way: 2 485
+For way: 3 470
+For way: 4 355
+For way: 5 333
+For way: 6 334
+For way: 7 433
+
+For set: 976
+For way: 0 314
+For way: 1 207
+For way: 2 213
+For way: 3 420
+For way: 4 495
+For way: 5 471
+For way: 6 546
+For way: 7 565
+
+For set: 977
+For way: 0 415
+For way: 1 432
+For way: 2 484
+For way: 3 373
+For way: 4 368
+For way: 5 310
+For way: 6 385
+For way: 7 396
+
+For set: 978
+For way: 0 338
+For way: 1 403
+For way: 2 375
+For way: 3 390
+For way: 4 378
+For way: 5 388
+For way: 6 414
+For way: 7 431
+
+For set: 979
+For way: 0 360
+For way: 1 417
+For way: 2 485
+For way: 3 491
+For way: 4 403
+For way: 5 382
+For way: 6 365
+For way: 7 399
+
+For set: 980
+For way: 0 354
+For way: 1 406
+For way: 2 430
+For way: 3 495
+For way: 4 448
+For way: 5 443
+For way: 6 433
+For way: 7 406
+
+For set: 981
+For way: 0 422
+For way: 1 562
+For way: 2 499
+For way: 3 363
+For way: 4 278
+For way: 5 361
+For way: 6 338
+For way: 7 429
+
+For set: 982
+For way: 0 488
+For way: 1 399
+For way: 2 443
+For way: 3 279
+For way: 4 312
+For way: 5 271
+For way: 6 474
+For way: 7 498
+
+For set: 983
+For way: 0 351
+For way: 1 520
+For way: 2 529
+For way: 3 393
+For way: 4 354
+For way: 5 343
+For way: 6 334
+For way: 7 412
+
+For set: 984
+For way: 0 429
+For way: 1 377
+For way: 2 391
+For way: 3 297
+For way: 4 284
+For way: 5 257
+For way: 6 489
+For way: 7 535
+
+For set: 985
+For way: 0 413
+For way: 1 487
+For way: 2 458
+For way: 3 326
+For way: 4 355
+For way: 5 368
+For way: 6 360
+For way: 7 388
+
+For set: 986
+For way: 0 397
+For way: 1 429
+For way: 2 358
+For way: 3 359
+For way: 4 369
+For way: 5 365
+For way: 6 346
+For way: 7 358
+
+For set: 987
+For way: 0 325
+For way: 1 440
+For way: 2 412
+For way: 3 363
+For way: 4 359
+For way: 5 420
+For way: 6 370
+For way: 7 337
+
+For set: 988
+For way: 0 186
+For way: 1 337
+For way: 2 382
+For way: 3 439
+For way: 4 457
+For way: 5 490
+For way: 6 394
+For way: 7 312
+
+For set: 989
+For way: 0 336
+For way: 1 203
+For way: 2 260
+For way: 3 322
+For way: 4 448
+For way: 5 454
+For way: 6 490
+For way: 7 486
+
+For set: 990
+For way: 0 315
+For way: 1 322
+For way: 2 340
+For way: 3 402
+For way: 4 409
+For way: 5 413
+For way: 6 467
+For way: 7 392
+
+For set: 991
+For way: 0 324
+For way: 1 341
+For way: 2 345
+For way: 3 472
+For way: 4 407
+For way: 5 357
+For way: 6 337
+For way: 7 415
+
+For set: 992
+For way: 0 312
+For way: 1 459
+For way: 2 444
+For way: 3 370
+For way: 4 401
+For way: 5 445
+For way: 6 349
+For way: 7 321
+
+For set: 993
+For way: 0 486
+For way: 1 448
+For way: 2 463
+For way: 3 251
+For way: 4 253
+For way: 5 212
+For way: 6 432
+For way: 7 457
+
+For set: 994
+For way: 0 396
+For way: 1 469
+For way: 2 492
+For way: 3 416
+For way: 4 336
+For way: 5 325
+For way: 6 337
+For way: 7 399
+
+For set: 995
+For way: 0 583
+For way: 1 459
+For way: 2 414
+For way: 3 232
+For way: 4 348
+For way: 5 358
+For way: 6 546
+For way: 7 551
+
+For set: 996
+For way: 0 485
+For way: 1 440
+For way: 2 371
+For way: 3 370
+For way: 4 378
+For way: 5 441
+For way: 6 412
+For way: 7 514
+
+For set: 997
+For way: 0 325
+For way: 1 331
+For way: 2 252
+For way: 3 374
+For way: 4 408
+For way: 5 498
+For way: 6 487
+For way: 7 488
+
+For set: 998
+For way: 0 259
+For way: 1 273
+For way: 2 238
+For way: 3 432
+For way: 4 454
+For way: 5 504
+For way: 6 480
+For way: 7 509
+
+For set: 999
+For way: 0 412
+For way: 1 318
+For way: 2 334
+For way: 3 305
+For way: 4 374
+For way: 5 398
+For way: 6 473
+For way: 7 485
+
+For set: 1000
+For way: 0 411
+For way: 1 391
+For way: 2 393
+For way: 3 322
+For way: 4 368
+For way: 5 358
+For way: 6 386
+For way: 7 375
+
+For set: 1001
+For way: 0 288
+For way: 1 274
+For way: 2 305
+For way: 3 425
+For way: 4 443
+For way: 5 433
+For way: 6 453
+For way: 7 372
+
+For set: 1002
+For way: 0 191
+For way: 1 300
+For way: 2 439
+For way: 3 484
+For way: 4 445
+For way: 5 449
+For way: 6 393
+For way: 7 270
+
+For set: 1003
+For way: 0 314
+For way: 1 412
+For way: 2 314
+For way: 3 346
+For way: 4 384
+For way: 5 514
+For way: 6 388
+For way: 7 344
+
+For set: 1004
+For way: 0 403
+For way: 1 432
+For way: 2 428
+For way: 3 362
+For way: 4 263
+For way: 5 290
+For way: 6 407
+For way: 7 437
+
+For set: 1005
+For way: 0 302
+For way: 1 357
+For way: 2 361
+For way: 3 387
+For way: 4 393
+For way: 5 393
+For way: 6 401
+For way: 7 315
+
+For set: 1006
+For way: 0 332
+For way: 1 320
+For way: 2 378
+For way: 3 464
+For way: 4 381
+For way: 5 331
+For way: 6 352
+For way: 7 407
+
+For set: 1007
+For way: 0 259
+For way: 1 217
+For way: 2 295
+For way: 3 391
+For way: 4 432
+For way: 5 421
+For way: 6 473
+For way: 7 409
+
+For set: 1008
+For way: 0 459
+For way: 1 442
+For way: 2 321
+For way: 3 202
+For way: 4 259
+For way: 5 393
+For way: 6 504
+For way: 7 486
+
+For set: 1009
+For way: 0 426
+For way: 1 371
+For way: 2 357
+For way: 3 317
+For way: 4 312
+For way: 5 392
+For way: 6 389
+For way: 7 439
+
+For set: 1010
+For way: 0 277
+For way: 1 389
+For way: 2 398
+For way: 3 470
+For way: 4 401
+For way: 5 394
+For way: 6 321
+For way: 7 347
+
+For set: 1011
+For way: 0 333
+For way: 1 316
+For way: 2 468
+For way: 3 479
+For way: 4 507
+For way: 5 455
+For way: 6 493
+For way: 7 364
+
+For set: 1012
+For way: 0 364
+For way: 1 316
+For way: 2 355
+For way: 3 521
+For way: 4 491
+For way: 5 445
+For way: 6 478
+For way: 7 472
+
+For set: 1013
+For way: 0 454
+For way: 1 335
+For way: 2 382
+For way: 3 330
+For way: 4 406
+For way: 5 384
+For way: 6 498
+For way: 7 540
+
+For set: 1014
+For way: 0 330
+For way: 1 310
+For way: 2 292
+For way: 3 386
+For way: 4 447
+For way: 5 506
+For way: 6 490
+For way: 7 459
+
+For set: 1015
+For way: 0 309
+For way: 1 292
+For way: 2 382
+For way: 3 438
+For way: 4 468
+For way: 5 453
+For way: 6 404
+For way: 7 392
+
+For set: 1016
+For way: 0 358
+For way: 1 356
+For way: 2 404
+For way: 3 386
+For way: 4 496
+For way: 5 428
+For way: 6 334
+For way: 7 266
+
+For set: 1017
+For way: 0 397
+For way: 1 446
+For way: 2 432
+For way: 3 394
+For way: 4 356
+For way: 5 286
+For way: 6 323
+For way: 7 362
+
+For set: 1018
+For way: 0 378
+For way: 1 431
+For way: 2 487
+For way: 3 437
+For way: 4 409
+For way: 5 286
+For way: 6 340
+For way: 7 317
+
+For set: 1019
+For way: 0 250
+For way: 1 305
+For way: 2 374
+For way: 3 453
+For way: 4 432
+For way: 5 451
+For way: 6 397
+For way: 7 361
+
+For set: 1020
+For way: 0 335
+For way: 1 400
+For way: 2 376
+For way: 3 443
+For way: 4 429
+For way: 5 415
+For way: 6 356
+For way: 7 393
+
+For set: 1021
+For way: 0 379
+For way: 1 373
+For way: 2 339
+For way: 3 357
+For way: 4 406
+For way: 5 403
+For way: 6 383
+For way: 7 375
+
+For set: 1022
+For way: 0 462
+For way: 1 414
+For way: 2 442
+For way: 3 333
+For way: 4 371
+For way: 5 300
+For way: 6 371
+For way: 7 435
+
+For set: 1023
+For way: 0 338
+For way: 1 370
+For way: 2 325
+For way: 3 360
+For way: 4 412
+For way: 5 428
+For way: 6 414
+For way: 7 447
+
+Average Write counts: 397.696
+Intra-Set Write Variation: 0.171456
+Inter-set write variation: 0.0763912
