@@ -1,0 +1,376 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 1000000
+Simulation Instructions: 10000000
+Number of CPUs: 1
+LLC sets: 1024
+LLC ways: 8
+Off-chip DRAM Size: 4096 MB Channels: 1 Width: 64-bit Data Rate: 3200 MT/s
+
+CPU 0 runs /home/deepak/Documents/msa/simulators/ChampSim/dpc3_traces/450.soplex-247B.champsimtrace.xz
+CPU 0 Bimodal branch predictor
+
+Warmup complete CPU 0 instructions: 1000003 cycles: 510000 (Simulation time: 0 hr 0 min 10 sec) 
+
+lru_update_new
+instr start: 0
+set: 123 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 124 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 125 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 801 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 802 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 803 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 804 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 816 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 805 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 817 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 825 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 826 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 818 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 808 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 809 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 823 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 824 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 806 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 487 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 488 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 485 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 486 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 803 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 803 way: 1 lru: 0
+lru_update_new
+instr start: 3
+set: 804 way: 3 lru: 1
+lru_update_new
+instr start: 3
+set: 804 way: 4 lru: 0
+lru_update_new
+instr start: 0
+set: 809 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 809 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 123 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 123 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 124 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 124 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 126 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 825 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 825 way: 1 lru: 0
+lru_update_new
+instr start: 3
+set: 792 way: 3 lru: 0
+lru_update_new
+instr start: 0
+set: 793 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 794 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 795 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 798 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 826 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 826 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 127 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 771 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 772 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 773 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 768 way: 0 lru: 0
+lru_update_new
+instr start: 3
+set: 769 way: 3 lru: 0
+lru_update_new
+instr start: 3
+set: 461 way: 3 lru: 0
+lru_update_new
+instr start: 3
+set: 472 way: 3 lru: 0
+lru_update_new
+instr start: 0
+set: 462 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 463 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 464 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 812 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 813 way: 0 lru: 0
+lru_update_new
+instr start: 3
+set: 814 way: 3 lru: 0
+lru_update_new
+instr start: 0
+set: 815 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 806 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 806 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 805 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 805 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 807 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 808 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 808 way: 1 lru: 0
+lru_update_new
+instr start: 6
+set: 82 way: 6 lru: 0
+lru_update_new
+instr start: 0
+set: 83 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 809 way: 1 lru: 1
+lru_update_new
+instr start: 0
+set: 809 way: 2 lru: 0
+lru_update_new
+instr start: 3
+set: 810 way: 3 lru: 0
+lru_update_new
+instr start: 0
+set: 811 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 93 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 94 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 823 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 823 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 824 way: 0 lru: 1
+lru_update_new
+instr start: 0
+set: 824 way: 1 lru: 0
+lru_update_new
+instr start: 0
+set: 789 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 790 way: 0 lru: 0
+lru_update_new
+instr start: 3
+set: 791 way: 3 lru: 0
+lru_update_new
+instr start: 3
+set: 792 way: 3 lru: 1
+lru_update_new
+instr start: 3
+set: 792 way: 4 lru: 0
+lru_update_new
+instr start: 0
+set: 825 way: 1 lru: 1
+lru_update_new
+instr start: 0
+set: 825 way: 2 lru: 0
+lru_update_new
+instr start: 0
+set: 953 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 826 way: 1 lru: 1
+lru_update_new
+instr start: 0
+set: 826 way: 2 lru: 0
+lru_update_new
+instr start: 0
+set: 95 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 497 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 498 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 839 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 112 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 113 way: 0 lru: 0
+Heartbeat CPU 0 instructions: 10000002 cycles: 29458168 heartbeat IPC: 0.339464 cumulative IPC: 0.3109 (Simulation time: 0 hr 1 min 21 sec) 
+lru_update_new
+instr start: 0
+set: 114 way: 0 lru: 0
+lru_update_new
+instr start: 3
+set: 827 way: 3 lru: 0
+lru_update_new
+instr start: 0
+set: 699 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 700 way: 0 lru: 0
+lru_update_new
+instr start: 3
+set: 99 way: 3 lru: 0
+lru_update_new
+instr start: 0
+set: 72 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 73 way: 0 lru: 0
+lru_update_new
+instr start: 0
+set: 74 way: 0 lru: 0
+Finished CPU 0 instructions: 10000002 cycles: 33225730 cumulative IPC: 0.300972 (Simulation time: 0 hr 1 min 30 sec) 
+
+ChampSim completed all CPUs
+
+Region of Interest Statistics
+
+CPU 0 cumulative IPC: 0.300972 instructions: 10000002 cycles: 33225730
+L1D TOTAL     ACCESS:    2683716  HIT:    2119937  MISS:     563779
+L1D LOAD      ACCESS:    1868166  HIT:    1447314  MISS:     420852
+L1D RFO       ACCESS:     815550  HIT:     672623  MISS:     142927
+L1D PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L1D WRITEBACK ACCESS:          0  HIT:          0  MISS:          0
+L1D PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L1D AVERAGE MISS LATENCY: 165.483 cycles
+L1I TOTAL     ACCESS:    1958873  HIT:    1958491  MISS:        382
+L1I LOAD      ACCESS:    1958873  HIT:    1958491  MISS:        382
+L1I RFO       ACCESS:          0  HIT:          0  MISS:          0
+L1I PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L1I WRITEBACK ACCESS:          0  HIT:          0  MISS:          0
+L1I PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L1I AVERAGE MISS LATENCY: 217.963 cycles
+L2C TOTAL     ACCESS:     848157  HIT:     483321  MISS:     364836
+L2C LOAD      ACCESS:     421164  HIT:     157828  MISS:     263336
+L2C RFO       ACCESS:     142903  HIT:      41435  MISS:     101468
+L2C PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+L2C WRITEBACK ACCESS:     284090  HIT:     284058  MISS:         32
+L2C PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+L2C AVERAGE MISS LATENCY: 231.911 cycles
+LLC TOTAL     ACCESS:     542236  HIT:      26499  MISS:     515737
+LLC LOAD      ACCESS:     263334  HIT:      17509  MISS:     245825
+LLC RFO       ACCESS:     101468  HIT:       7834  MISS:      93634
+LLC PREFETCH  ACCESS:          0  HIT:          0  MISS:          0
+LLC WRITEBACK ACCESS:     177434  HIT:       1156  MISS:     176278
+LLC PREFETCH  REQUESTED:          0  ISSUED:          0  USEFUL:          0  USELESS:          0
+LLC AVERAGE MISS LATENCY: 142.258 cycles
+Major fault: 0 Minor fault: 4399
+
+DRAM Statistics
+ CHANNEL 0
+ RQ ROW_BUFFER_HIT:      47393  ROW_BUFFER_MISS:     291820
+ DBUS_CONGESTED:     214804
+ WQ ROW_BUFFER_HIT:     100942  ROW_BUFFER_MISS:      76519  FULL:        203
+
+ AVG_CONGESTED_CYCLE: 6
+
+CPU 0 Branch Prediction Accuracy: 94.5585% MPKI: 8.6077 Average ROB Occupancy at Mispredict: 70.3807
+
+Branch types
+NOT_BRANCH: 8417883 84.1788%
+BRANCH_DIRECT_JUMP: 14739 0.14739%
+BRANCH_INDIRECT: 2 2e-05%
+BRANCH_CONDITIONAL: 1537306 15.3731%
+BRANCH_DIRECT_CALL: 14896 0.14896%
+BRANCH_INDIRECT_CALL: 13 0.00013%
+BRANCH_RETURN: 14911 0.14911%
+BRANCH_OTHER: 0 0%
+
+Average Write counts: 68.4381
+Intra-Set Write Variation: 0.738249
+Inter-set write variation: 0.0956907
